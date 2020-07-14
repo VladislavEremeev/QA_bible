@@ -7281,50 +7281,50 @@ https://reqres.in/
 <spoiler title="Источники">
 
 <h1>Источники</h1>
-www.software-testing.ru
-www.techbeamers.com
-www.guru99.com/software-testing.html
-wikipedia.org
-www.softwaretestinghelp.com/mobile-testing-interview-questions-answers/
-medium.com/@sheidaievkostiantyn/capacity-testing-273c87ff03b4
-tproger.ru/translations/sql-recap/
-www.youtube.com/watch?v=SJwXK-2rw4M
-lsreg.ru/shpargalka-po-sql/
-lib.ssga.ru/
-vc.ru/design/93884-32-otlichiya-dizayna-mobilnogo-prilozheniya-pod-ios-i-android
-yamobi.ru/posts/kak_rabotaet_mobilnaya_svyaz_likbez.html
-mobile-review.com/articles/2016/likbez-1.shtml
-wifigid.ru/besprovodnye-tehnologii/kak-rabotaet-wi-fi
-thecode.media/wifi/
-html5book.ru/otzyvchivyj-dizayn-saita/#part5
-lpgenerator.ru/blog/2015/10/21/responsivnyj-vs-adaptivnyj-dizajn-chto-luchshe-dlya-polzovatelya/
-xakep.ru/2011/05/24/55557/
-habr.com/ru/company/livetyping/blog/307860/
-zen.yandex.ru/media/habr/kak-ty-realizuesh-autentifikaciiu-priiatel-5ec4cc1e033b1f6bec4ce836
-interface31.ru/tech_it/2019/07/kak-ustroen-i-rabotaet-protokol-dhcp.html
-www.youtube.com/watch?v=n_kl9sPQhXA
-www.bigdataschool.ru/wiki/agile
-www.youtube.com/watch?v=lKXGhh5un58
-habr.com/ru/company/otus/blog/502720/
-doitsmartly.ru/all-articles/blog-with-left-sidebar/88-requirements-for-qa-test-environment.html
-withsecurity.ru/chto-takoe-pentest-i-dlya-chego-on-nuzhen
-espressocode.top/software-testing-portability-testing/
-https://testmatick.com/ru/testirovanie-globalizatsii/
-artoftesting.com/
-www.antula.ru/cookies.htm
-yandex.ru/turbo?text=https%3A%2F%2Fnuancesprog.ru%2Fp%2F7833%2F
-yandex.ru/blog/company/77455
-www.rea.ru/ru/org/cathedries/infkaf/Documents/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B2%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5.pdf
-habr.com/ru/company/sibirix/blog/223777/
-habr.com/ru/post/46374/
-www.intervolga.ru/blog/projects/relsy-veb-integratsii-rest-i-soap/
-flylib.com/books/en/2.156.1/control_flow_testing.html
-www.protesting.ru/testing/testcoverage.html
-kaner.com/pdfs/ScenarioIntroVer4.pdf
-www.simbirsoft.com/blog/tekhniki-test-dizayna-i-ikh-prednaznachenie/
-www.bullseye.com/coverage.html
-sysgears.com/articles/test-design-techniques-overview/
-www.youtube.com/watch?v=NrIN0qVBpZ4
+<br> www.software-testing.ru
+<br> www.techbeamers.com
+<br> www.guru99.com/software-testing.html
+<br> wikipedia.org
+<br> www.softwaretestinghelp.com/mobile-testing-interview-questions-answers/
+<br> medium.com/@sheidaievkostiantyn/capacity-testing-273c87ff03b4
+<br> tproger.ru/translations/sql-recap/
+<br> www.youtube.com/watch?v=SJwXK-2rw4M
+<br> lsreg.ru/shpargalka-po-sql/
+<br> lib.ssga.ru/
+<br> vc.ru/design/93884-32-otlichiya-dizayna-mobilnogo-prilozheniya-pod-ios-i-android
+<br> yamobi.ru/posts/kak_rabotaet_mobilnaya_svyaz_likbez.html
+<br> mobile-review.com/articles/2016/likbez-1.shtml
+<br> wifigid.ru/besprovodnye-tehnologii/kak-rabotaet-wi-fi
+<br> thecode.media/wifi/
+<br> html5book.ru/otzyvchivyj-dizayn-saita/#part5
+<br> lpgenerator.ru/blog/2015/10/21/responsivnyj-vs-adaptivnyj-dizajn-chto-luchshe-dlya-polzovatelya/
+<br> xakep.ru/2011/05/24/55557/
+<br> habr.com/ru/company/livetyping/blog/307860/
+<br> zen.yandex.ru/media/habr/kak-ty-realizuesh-autentifikaciiu-priiatel-5ec4cc1e033b1f6bec4ce836
+<br> interface31.ru/tech_it/2019/07/kak-ustroen-i-rabotaet-protokol-dhcp.html
+<br> www.youtube.com/watch?v=n_kl9sPQhXA
+<br> www.bigdataschool.ru/wiki/agile
+<br> www.youtube.com/watch?v=lKXGhh5un58
+<br> habr.com/ru/company/otus/blog/502720/
+<br> doitsmartly.ru/all-articles/blog-with-left-sidebar/88-requirements-for-qa-test-environment.html
+<br> withsecurity.ru/chto-takoe-pentest-i-dlya-chego-on-nuzhen
+<br> espressocode.top/software-testing-portability-testing/
+<br> https://testmatick.com/ru/testirovanie-globalizatsii/
+<br> artoftesting.com/
+<br> www.antula.ru/cookies.htm
+<br> yandex.ru/turbo?text=https%3A%2F%2Fnuancesprog.ru%2Fp%2F7833%2F
+<br> yandex.ru/blog/company/77455
+<br> www.rea.ru/ru/org/cathedries/infkaf/Documents/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B2%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5.pdf
+<br> habr.com/ru/company/sibirix/blog/223777/
+<br> habr.com/ru/post/46374/
+<br> www.intervolga.ru/blog/projects/relsy-veb-integratsii-rest-i-soap/
+<br> flylib.com/books/en/2.156.1/control_flow_testing.html
+<br> www.protesting.ru/testing/testcoverage.html
+<br> kaner.com/pdfs/ScenarioIntroVer4.pdf
+<br> www.simbirsoft.com/blog/tekhniki-test-dizayna-i-ikh-prednaznachenie/
+<br> www.bullseye.com/coverage.html
+<br> sysgears.com/articles/test-design-techniques-overview/
+<br> www.youtube.com/watch?v=NrIN0qVBpZ4
 
-Microsoft Corporation — Performance testing Guidance for Web Applications
+<br> Microsoft Corporation — Performance testing Guidance for Web Applications
 </spoiler>
