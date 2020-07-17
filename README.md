@@ -414,7 +414,7 @@
 Качеству очень сложно дать неформальное определение, но формально качество заключается в соответствии требованиям (conformance to requirements) и пригодности к использованию (fitness for use). Или приемлемое качество — это желаемая степень совершенства создаваемого продукта (услуги), способная удовлетворить пользователей и достижимая в рамках заданных проектных ограничений. Углубиться можно тут: https://analytics.infozone.pro/software-quality/
 
 <h2>Объясните отличия в QA, QC и тестировании</h2>
-<a href="https://lh6.googleusercontent.com/iuHyNeCGiFo1LRWXSdLStodw1wvg1cJwGEOYpUi8fThHJbIfXsAOMBRx-FaTFbGQJYO23io_U_X5uftxxggNDj5rkl17JVC0-nPk-8PtIBbUoRFx3cuFBgWq7lcoJYBbglENXJ2A" align="center">
+<img src="https://lh6.googleusercontent.com/iuHyNeCGiFo1LRWXSdLStodw1wvg1cJwGEOYpUi8fThHJbIfXsAOMBRx-FaTFbGQJYO23io_U_X5uftxxggNDj5rkl17JVC0-nPk-8PtIBbUoRFx3cuFBgWq7lcoJYBbglENXJ2A" align="center">
 <h2>Что означает Verification при тестировании ПО?</h2>
 Верификация (Verification) - это процесс оценки системы или её компонентов с целью определения удовлетворяют ли результаты текущего этапа разработки условиям, сформированным в начале этого этапа. Т.е. выполняются ли наши цели, сроки, задачи по разработке проекта, определенные в начале текущей фазы.
 
