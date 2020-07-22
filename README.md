@@ -133,6 +133,7 @@
 		<li>Что такое подкожный тест? (Subcutaneous test)</li>
 		<li>Расскажите о локализации, глобализации и интернационализации? (Localization/ globalization/internationalization testing)</li>
 		<li>Что такое исследовательское тестирование? (Exploratory testing)</li>
+		<li>Что вы знаете о турах Виттакера в исследовательском тестировании?</li>
 		<li>Что такое Свободное или Интуитивное тестирование? (Adhoc)</li>
 		<li>Что вы знаете о мутационном тестировании? (Mutation testing)</li>
 		<li>Что означает механизм тестирования по ключевым словам? (Keyword Driven testing Framework)</li>
