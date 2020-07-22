@@ -194,7 +194,9 @@
 		<li>Стили тестов?</li>
 		<li>Техники тестирования требований?</li>
 		<li>Что такое эвристики?</li>
-		<li><b>Тестовые артефакты и документация (Test Deliverables/TestWare/test artifacts)</b></li>
+</ul>
+<h3 align="center">Тестовые артефакты и документация (Test Deliverables/TestWare/test artifacts)</h3>
+<ul>
 		<li>Виды тестовой документации?</li>
 		<li>Отличия Test Suite от Test Scenario?</li>
 		<li>Какие отличия у плана тестирования и стратегии тестирования?</li>
