@@ -4107,6 +4107,7 @@ https://reqres.in/
 <br> www.youtube.com/watch?v=NrIN0qVBpZ4
 <br> www.viva64.com/ru/t/0093/
 <br> www.intuit.ru
+<br> 33testers.blogspot.com/2015/06/blog-post_17.html
 
 <br> Microsoft Corporation — Performance testing Guidance for Web Applications
 </spoiler>
