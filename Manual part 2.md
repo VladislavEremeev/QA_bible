@@ -4106,6 +4106,7 @@ https://reqres.in/
 <br> sysgears.com/articles/test-design-techniques-overview/
 <br> www.youtube.com/watch?v=NrIN0qVBpZ4
 <br> www.viva64.com/ru/t/0093/
+<br> www.intuit.ru
 
 <br> Microsoft Corporation — Performance testing Guidance for Web Applications
 </spoiler>
