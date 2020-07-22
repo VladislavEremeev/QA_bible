@@ -31,6 +31,7 @@
 		<li>Что означает Validation в тестировании ПО?</li>
 		<li>Разница между Design Verification и Design Validation?</li>
 		<li>Принципы тестирования?</li>
+		<li>Критерии выбора тестов?</li>
 		<li>Что подразумевается под тестовым покрытием? (Test Coverage)</li>
 		<li>Что такое модель зрелости тестирования (TMM - Test Maturity Model)?</li>
 		<li>Что такое CMM?</li>
