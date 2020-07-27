@@ -35,7 +35,6 @@
 		<li>Критерии выбора тестов?</li>
 		<li>Что подразумевается под тестовым покрытием? (Test Coverage)</li>
 		<li>Что такое модель зрелости тестирования (TMM - Test Maturity Model)?</li>
-		<li>Что такое CMM?</li>
 		<li>Что такое тестирование со сдвигом влево? (Shift left testing)</li>
 		<li>Что такое независимое тестирование? (Independent testing)</li>
 		<li>В чем разница между превентивным и реактивным подходами в тестировании? (Preventative and Reactive approaches)</li>
