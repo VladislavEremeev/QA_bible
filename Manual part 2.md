@@ -4004,6 +4004,8 @@ Fest Group: https://www.youtube.com/channel/UClTnsvgTiW2YcfP1tcI2oKA
 
 QAGuild: https://www.youtube.com/channel/UCHtyBZ2XbtsRmNiAxh48RGg
 
+IT conf (SQA days): https://www.youtube.com/user/vldcorp/videos
+
 <h2>Telegram</h2>
 Каналы это: знакомство с коммьюнити, живое общение; богатая история сообщений, где поиском по истории сообщений можно найти всё что угодно; в шапке каждого канала закреплено сообщение со своим набором полезностей. А еще, заметных в обсуждениях толковых новичков иногда хантят в стажеры ☺
 
