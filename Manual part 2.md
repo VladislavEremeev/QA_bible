@@ -3690,6 +3690,10 @@ image = Maximum length of 2,147,483,647 bytes</li>
 <li>Сайт для тренировки тестирования <a href="http://testingchallenges.thetestingmap.org/index.php">http://testingchallenges.thetestingmap.org/index.php</a></li>
 </ul>
 <h2>Набор небольших задач по SQL</h2>
+Потренироваться можно тут:<br>
+https://www.learnqa.ru/sql_test<br>
+https://www.sql-ex.ru/index.php?Lang<br>
+https://www.db-fiddle.com/<br>
 Дана база:
 
 CREATE TABLE Departments
