@@ -4130,4 +4130,5 @@ https://reqres.in/
 <br> 33testers.blogspot.com/2015/06/blog-post_17.html
 
 <br> Microsoft Corporation — Performance testing Guidance for Web Applications
+<br> С. Куликов - Тестирование программного обеспечения. Базовый курс.
 </spoiler>
