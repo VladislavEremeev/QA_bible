@@ -2268,6 +2268,11 @@ habr.com/ru/company/google/blog/506992/
 </spoiler>
 <spoiler title="Сети и около них">
 
+<h2>Что вы знаете о PWA?</h2>
+Перспектива разработки мобильного приложения, которое не потребуется скачивать и ждать review из App Store, очень заманчива, ведь аналогов привычного ПО существует несколько: Progressive Web Apps (PWA), Android Instant Apps (AIA) и Accelerated Mobile Pages (AMP). 
+Подробнее можно узнать тут: https://www.youtube.com/watch?v=i9kmWZGnVEY <br>
+Или тут: https://medium.com/effective-developers/how-to-test-pwa-daa1a6eaf7bf <br>
+
 <h1>Сети и около них</h1>
 <h2>Что такое http?</h2>
 HTTP — широко распространённый протокол передачи данных, изначально предназначенный для передачи гипертекстовых документов (то есть документов, которые могут содержать ссылки, позволяющие организовать переход к другим документам), сейчас же для любых данных.
