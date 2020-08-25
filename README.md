@@ -257,7 +257,7 @@
 		<li>Что такое Agile?</li>
 		<li>Что такое Scrum?</li>
 		<li>Какие вообще особенности у тестирования в Scrum?</li>
-		<li>В чем отличие Canban от scrum?</li>
+		<li>В чем отличие Kanban от Scrum?</li>
 		<li>Что знаете о User stories в гибких подходах к разработке?</li>
 		<li>Что значит жизненный цикл тестирования ПО? (STLC – Software Testing Lifecycle)</li>
 		<li>Что вы знаете о техниках оценки теста? (Test Estimation)</li>
