@@ -1,3 +1,5 @@
+# Manual part 2
+<br>
 <h1>----- Тестовые артефакты и документация (Test Deliverables/TestWare/test artifacts) ----- </h1>
 <h2>Виды тестовой документации?</h2>
 Внешняя документация:
