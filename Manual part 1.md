@@ -1,4 +1,4 @@
-# Manual part 2
+# Manual part 1
 <br>
 <h1>----- Введение (F.A.Q.) -----</h1>
 
