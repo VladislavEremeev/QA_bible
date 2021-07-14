@@ -1,4 +1,4 @@
-![](https://habrastorage.org/webt/un/ke/6d/unke6dmjxotrhtuqkkmppy88hqy.jpeg)
+![](https://disk.yandex.ru/i/JL-oli7FpLTRzw)
 <br>
 <br>
 ***!!! Новая версия 2.0 !!!*** [Посмотреть Changelog](https://github.com/VladislavEremeev/QA_bible/releases)
