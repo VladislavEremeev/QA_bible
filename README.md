@@ -1,4 +1,4 @@
-![](https://disk.yandex.ru/i/JL-oli7FpLTRzw)
+![](https://sun9-12.userapi.com/impg/GQ-9IbVXI8iOBPdJJQcsUYeEbzXyJYgjy-iLdQ/9aIiP9fAo2k.jpg?size=480x360&quality=96&sign=a05eb959a99aa89dbeae8385ef60b7f5&type=album)
 <br>
 <br>
 ***!!! Новая версия 2.0 !!!*** [Посмотреть Changelog](https://github.com/VladislavEremeev/QA_bible/releases)
