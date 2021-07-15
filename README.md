@@ -1,7 +1,6 @@
-![](https://sun9-12.userapi.com/impg/GQ-9IbVXI8iOBPdJJQcsUYeEbzXyJYgjy-iLdQ/9aIiP9fAo2k.jpg?size=480x360&quality=96&sign=a05eb959a99aa89dbeae8385ef60b7f5&type=album)
+![](https://habrastorage.org/webt/un/ke/6d/unke6dmjxotrhtuqkkmppy88hqy.jpeg)
 <br>
 <br>
-***14.07 проект Библия QA отмечает день рождения :) Ровно год назад был сделан первый коммит***
 <br>
 ## Что это за проект?
 Библия QA это почти 300 страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, полезных ресурсов и статей, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
