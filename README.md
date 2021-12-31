@@ -1,7 +1,7 @@
 # **🗲БИБЛИЯ QA v. 2.5🗲**
 
 
-## [Читать](https://vladislaveremeev.github.io/qa_bible) _•_ [Скачать](https://github.com/VladislavEremeev/QA_bible/releases)
+## [Читать](https://vladislaveremeev.github.io/QA_bible) _•_ [Скачать](https://github.com/VladislavEremeev/QA_bible/releases)
 
 **Что это за проект?** 
 
