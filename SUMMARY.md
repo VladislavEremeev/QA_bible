@@ -103,7 +103,7 @@
   * [Dynamic - White box](test-dizain/dynamic-white-box.md)
   * [Dynamic - Black box](test-dizain/dynamic-black-box.md)
   * [Dynamic - Experience based](test-dizain/dynamic-experience-based.md)
-* [Тестовая документация и артефакты (Test Deliverablestest artifacts)](testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/README.md)
+* [Тестовая документация и артефакты (Test Deliverables/test artifacts)](testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/README.md)
   * [Виды тестовой документации](testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/vidy-testovoi-dokumentacii.md)
   * [Политика качества и политика тестирования (Quality policy and Test policy)](testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/politika-kachestva-i-politika-testirovaniya-quality-policy-and-test-policy.md)
   * [Стратегия тестирования (Test strategy)](testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/strategiya-testirovaniya-test-strategy.md)
