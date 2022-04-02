@@ -4,7 +4,7 @@
 
 **Автор: Еремеев Владислав**
 
-[**LinkedIn**](https://www.linkedin.com/in/vladislaveremeev/) **-** [**Telegram**](https://t.me/Vladislav\_Eremeev)
+****[**GitHub**](https://github.com/VladislavEremeev/QA\_bible) | [**LinkedIn**](https://www.linkedin.com/in/vladislaveremeev/) | [**Telegram**](https://t.me/Vladislav\_Eremeev)
 
 ***
 

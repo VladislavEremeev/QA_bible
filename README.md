@@ -2,11 +2,9 @@
 
 ![](https://lh4.googleusercontent.com/3vOk0NqvhT3rVjNa-n8BtCfTWXq2sdBu1dUVsZvK3-gkD8c3KhsH2BL6TPX5KDFr2lEhuSqm\_bcy3UwAQFOpY6MlE\_PEBiR5g9uzJuS5SaAZI9oyhAG77QhmJXHvXhPuFVRTa\_wK)
 
-**>>>** [**ЧИТАТЬ**](https://vladislaveremeev.gitbook.io/qa\_bible/) **<<<**
-
 **Что это за проект?**
 
-“Библия QA” - это обновляемая база знаний объемом 560+ страниц:
+“[**Библия QA**](https://vladislaveremeev.gitbook.io/qa\_bible/)” - это обновляемая база знаний объемом 560+ страниц:
 
 * Ответы на самые популярные вопросы новичков о профессии и старте карьеры;
 * Крупнейшая подборка ссылок и полезных ресурсов;
