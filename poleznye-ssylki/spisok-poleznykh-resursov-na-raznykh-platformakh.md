@@ -37,7 +37,6 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 * Склад полезных материалов и ссылок @[qa\_sklad](https://t.me/qa\_sklad)
 * Канал для тестировщиков, как для новичков, так и для бывалых @[qa\_and\_it](https://t.me/qa\_and\_it)
 * Чаты по penetration testing (pen test, pentest):
-  * @[qa\_security](https://t.me/qa\_security)
   * @[true\_secator](https://t.me/true\_secator)
   * @[pentesting\_channel](https://t.me/pentesting\_channel)
   * @[pentesting\_chat](https://t.me/pentesting\_chat)
@@ -50,7 +49,6 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
   * @[qa\_chillout](https://t.me/qa\_chillout)
   * @[yetanotherqa](https://t.me/yetanotherqa)
   * @[sedoitester](https://t.me/sedoitester)
-  * @[testerinlife](https://t.me/testerinlife)
   * @[testerofqa](https://t.me/testerofqa)
 
 **Youtube-каналы**:
