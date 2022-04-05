@@ -1,6 +1,8 @@
 # Роли/должности в команде
 
-![Открой чтобы увидеть полностью https://hsto.org/webt/7p/ff/e-/7pffe-yx0pphzcx7qw1ydpomjyw.png](https://hsto.org/webt/7p/ff/e-/7pffe-yx0pphzcx7qw1ydpomjyw.png)
+![](https://hsto.org/webt/7p/ff/e-/7pffe-yx0pphzcx7qw1ydpomjyw.png)
+
+_Полное изображение со всеми ролями по_ [_ссылке_](https://habr.com/ru/company/englishdom/blog/505438/)_._
 
 Роли в тестировании ПО:
 
