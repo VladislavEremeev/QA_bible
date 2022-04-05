@@ -13,7 +13,7 @@ _**Отправить анонимное сообщение можно в**_ [_*
 _**Поблагодарить автора материально можно:**_
 
 * _По РФ переводом на Alfa Bank по номеру +79044121375 или_ [_так_](https://money.alfabank.ru/p2p/web/transfer/veremeev9866)_;_
-* _Международным переводом через_ [_QIWI_](https://qiwi.com/n/VLADISLAV610)__
+* _Между странами через_ [_Patreon_](https://www.patreon.com/QA\_Bible) _или_ [_QIWI_](https://qiwi.com/n/VLADISLAV610)__
 
 
 
