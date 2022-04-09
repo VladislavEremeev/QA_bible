@@ -51,4 +51,5 @@
 Доп. материал:
 
 * [ГОСТ Р 56920-2016/ISO/IEC/IEEE 29119-1:2013](https://docs.cntd.ru/document/1200134996) “D.10 Подпроцесс тестирования системы”
+* [What is End-to-End (E2E) Testing?](https://www.softwaretestingmaterial.com/end-to-end-testing/)
 * [Лекция 7: Разновидности тестирования: системное и регрессионное тестирование](https://intuit.ru/studies/courses/48/48/lecture/1436)

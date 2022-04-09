@@ -36,6 +36,8 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 * Задания для подготовки к собеседованиям для тестировщиков @[qa\_sobes](https://t.me/qa\_sobes)
 * Склад полезных материалов и ссылок @[qa\_sklad](https://t.me/qa\_sklad)
 * Канал для тестировщиков, как для новичков, так и для бывалых @[qa\_and\_it](https://t.me/qa\_and\_it)
+* [QA House](https://t.me/+Thq0wPneQ2FLTx0O) - группа, объединяющая QA специалистов со всех уголков земли
+* Группа канала AllaboutQA @[AllaboutQA](https://t.me/AllaboutQA)
 * Чаты по penetration testing (pen test, pentest):
   * @[true\_secator](https://t.me/true\_secator)
   * @[pentesting\_channel](https://t.me/pentesting\_channel)

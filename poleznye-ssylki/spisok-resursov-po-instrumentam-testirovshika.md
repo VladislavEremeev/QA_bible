@@ -58,6 +58,7 @@ Postman представляет собой мультитул для тести
 * [Тестирование производительности в Postman](https://testengineer.ru/testirovanie-proizvoditelnosti-v-postman/)
 * [curl - учимся тестировать API](https://testengineer.ru/curl-uchimsya-testirovat-api/)
 * [Как мы тестируем Rest API в SM 2.0 с помощью Postman: сценарии, запросы, переменные окружения и немного автотестов](https://habr.com/ru/company/sportmaster\_lab/blog/646365/)
+* [Swagger: что это такое, и как с ним работать?](https://highload.today/swagger-api/)
 * **Открытые и тренировочные API**:
   * [Список открытых API](https://github.com/public-apis/public-apis)
   * [Обзор сайтов с API документацией](https://github.com/docops-hq/learnapidoc-ru/blob/master/Publishing-doc/API-doc-sites-list.md#100-)
@@ -103,6 +104,7 @@ Charles - инструмент для мониторинга HTTP/HTTPS траф
 * [Open Source Fiddler Alternatives for Mac](https://alternativeto.net/software/fiddler/?license=opensource\&platform=mac)
 * [Битва снифферов: Charles vs Proxyman](https://habr.com/ru/company/ozontech/blog/579392/)
 * [Почему Proxyman - сын маминой подруги в мире снифферов](https://habr.com/ru/company/indriver/blog/591525/)
+* [Плейлист Charles Proxy](https://www.youtube.com/playlist?list=PLof3mAh50UD05mFlTvNpTszOUY9eFrSDX)
 
 **Тестирование безопасности**:
 
@@ -249,6 +251,7 @@ Git - это система контроля версий, которая упр
 * [Top 10 лучших инструментов для нагрузочного тестирования](https://www.performance-lab.ru/blog/luchshie-instrumenty-dlya-nagruzochnogo-testirovaniya)
 * [10 инструментов тестирования производительности мобильных приложений](https://proglib.io/p/10-instrumentov-testirovaniya-proizvoditelnosti-mobilnyh-prilozheniy-2020-09-20#:\~:text=Akamai%20CloudTest%20%E2%80%93%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE,%D0%B8%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.%20%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%3A)
 * [Топ-15 бесплатных инструментов для нагрузочного тестирования](https://testengineer.ru/besplatnye-instrumenty-dlya-nagruzochnogo-testirovaniya/)
+* [Использование Gatling. Разбираемся в тестировании HTTP](https://habr.com/ru/company/tinkoff/blog/658479/)
 
 **Mind maps**:
 
@@ -411,4 +414,4 @@ Git - это система контроля версий, которая упр
 * [Инструменты коммуникации для QA, и не только](https://www.youtube.com/watch?v=W2N9ALAqHSE)
 * [Application monitoring and error tracking software](https://sentry.io/welcome/#)
 * [Katacoda - Learn new technologies using real environments right in your browser](https://www.katacoda.com)
-
+* [TestRail и дополнительные инструменты для тестировщика](https://www.youtube.com/watch?v=XQ7MoUT7rEk)

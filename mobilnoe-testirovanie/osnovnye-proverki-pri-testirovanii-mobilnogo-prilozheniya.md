@@ -122,6 +122,7 @@ _Примечание: в свете последних анонсов раск�
 * [Распространенные баги на Android](https://telegra.ph/bagi-na-android-10-07)
 * [ISTQB Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)
 * [Mobile App Testing Tutorials (A Complete Guide With 30+ Tutorials)](https://www.softwaretestinghelp.com/beginners-guide-to-mobile-application-testing/)
+* [Как найти баги в приложении. Интенсив для тестировщиков.](https://www.youtube.com/watch?v=b0YrQehCj0o)
 * [Жизнь без AppStore и Google Play: работаем с Huawei Mobile Services и AppGallery](https://habr.com/ru/post/551262/)
 * [Особенности тестирования Android без Google-сервисов](https://habr.com/ru/company/surfstudio/blog/559106/)
 * YaTalks 2021. Mobile: [Моделирование угроз для мобильных приложений](https://www.youtube.com/watch?v=0AQlKbskhkM\&t=16024s) + [презентация](https://disk.yandex.ru/i/kLk2Nscwqnto2Q)

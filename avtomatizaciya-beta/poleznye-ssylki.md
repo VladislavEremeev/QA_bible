@@ -72,3 +72,4 @@
 * [Шесть бесплатных автоматизированных платформ для изучения программирования](https://habr.com/ru/company/hexlet/blog/432802/)
 * [Песочница и шпаргалка по изучению Python](https://habr.com/ru/post/421701/)
 * [Где порешать реальные задачи для кандидатов в Яндекc: тренировка на Codeforces и разбор](https://habr.com/ru/company/yandex/blog/493966/)
+* [touchbit/automatron - Trainer for beginner autotesters](https://github.com/touchbit/automatron)

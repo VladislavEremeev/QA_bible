@@ -124,3 +124,4 @@
 * [Иван Румак - Эффективный поиск XSS-уязвимостей](https://www.youtube.com/watch?v=EmJnUqFgaK8)
 * [Тестирование безопасности / OWASP TOP 10 уязвимостей](https://www.youtube.com/watch?v=fgtuLbT4joI)
 * [TOP 10 уязвимостей 2020 by HackerOne](https://habr.com/ru/company/otus/blog/526768/)
+* [Тестирование безопасности / защищенности](http://okiseleva.blogspot.com/2021/11/blog-post\_7.html)

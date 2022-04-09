@@ -32,3 +32,4 @@
 * [Blog: “Why Didn’t We Catch This in QA?”](https://www.developsense.com/blog/2020/08/why-didnt-we-catch-this-in-qa/)
 * [Blog: Testers: Get Out of the Quality Assurance Business](https://www.developsense.com/blog/2010/05/testers-get-out-of-the-quality-assurance-business/)
 * [Быть или не быть: дискуссии о тестировании в мобильной разработке](https://habr.com/ru/company/yoomoney/blog/513722/)
+* [Нужны ли в команде выделенные тестировщики?](https://serioustester.io/tpost/t2gkz3jnm1-nuzhni-li-v-komande-videlennie-testirovs)

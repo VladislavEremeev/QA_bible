@@ -1,7 +1,7 @@
 # Что должен знать и уметь Junior? Что спросят на собеседовании?
 
 Конкретного ответа на этот вопрос нет, всё зависит от компании и вакансии. Ожидания в двух разных компаниях и даже проектах могут не пересекаться совершенно никак. Мидл+ из одной компании может оказаться джуном- в другой.\
-Если всё же пытаться вывести среднее, то вот пара ссылок на карты знаний для тестировщиков:
+Если всё же пытаться вывести среднее, то вот несколько ссылок:
 
 * [QA RoadMap 2021](https://disk.yandex.ru/i/x\_hOsnoxVMoB-A)
 * [Большая дорожная карта развития тестировщика](https://testengineer.ru/razvitie-testirovshchika/)
@@ -131,6 +131,7 @@
 * [Модель обучения «70:20:10»](https://telegra.ph/Kak-dostich-maksimalnyh-rezultatov-v-svoyom-razvitii-02-17)
 * [Пентестер: суть профессии, востребованность, зарплата и другие нюансы](https://habr.com/ru/post/651167/)
 * [Устану ли я играть, нужно ли уметь кодить и чем вообще занимаются QA в геймдеве](https://habr.com/ru/company/lightmap/blog/650245/)
+* [Практика обучения в QA отделе. Профиль тестировщика](https://habr.com/ru/company/usetech/blog/659305/)
 * [Реестр профессиональных стандартов - Специалист по тестированию в области информационных технологий](https://profstandart.rosmintrud.ru/obshchiy-informatsionnyy-blok/natsionalnyy-reestr-professionalnykh-standartov/reestr-professionalnykh-standartov/index.php?ELEMENT\_ID=57024)
 
 Английский:

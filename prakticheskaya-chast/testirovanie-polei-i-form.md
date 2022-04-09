@@ -48,3 +48,4 @@
 * [Как протестировать какое-то поле](https://www.youtube.com/watch?v=Q0kSqdOzFvw)
 * [Пример тестирования поля «Имя»](https://www.youtube.com/watch?v=3-5RbtRaYnk)
 * [Как найти границы на клиенте и сервере](https://habr.com/ru/post/510458/)
+* [Чек-лист - как тестировать поиск](http://okiseleva.blogspot.com/2021/09/blog-post.html)

@@ -287,3 +287,5 @@
 * [Тестирование веб-проектов. Основные этапы и практические советы.](https://www.youtube.com/watch?v=GyE-TMG1HUA)
 * [Best Web Application Testing Tools (Free and Paid) for 2022](https://www.softwaretestingmaterial.com/web-application-testing-tools/)
 * [Чек-лист тестирования WEB приложений](https://habr.com/ru/post/542422/)
+* [Примеры багов на сайтах](https://www.youtube.com/watch?v=JmU\_sgeNhDI)
+* [Векторы тестирования всплывающих оверлеев](https://habr.com/ru/company/otus/blog/659651/)

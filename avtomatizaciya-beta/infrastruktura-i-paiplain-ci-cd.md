@@ -155,4 +155,5 @@ _Больше про build-agent можно почитать тут:_ [_TeamCity
 * [Автоматизация системных тестов на базе QEMU (Часть 1/2)](https://habr.com/ru/post/520310/)
 * [Как сократить время сборки образов Docker в GitLab CI](https://habr.com/ru/company/otus/blog/537780/)
 * [Crash-crash, baby. Автоматический мониторинг фатальных ошибок мобильных приложений](https://habr.com/ru/company/avito/blog/518222/)
+* [Anna: готовим отчет о тестировании API, чтобы все были довольны](https://habr.com/ru/post/659729/)
 * [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru\_RU.html), [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow), [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab\_flow.html)
