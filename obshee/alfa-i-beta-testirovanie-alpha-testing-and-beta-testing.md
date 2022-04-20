@@ -36,3 +36,7 @@ _Бета-тестирование (beta testing): Эксплуатационн�
 Источники:
 
 * [Alpha Testing And Beta Testing (A Complete Guide)](https://www.softwaretestinghelp.com/what-is-alpha-testing-beta-testing/)
+
+Доп. материал:
+
+* [Альфа и бета тестирование / Урок 13 / Тестировщик с нуля](https://www.youtube.com/watch?v=6g0j4N-lkpQ)

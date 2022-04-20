@@ -297,6 +297,7 @@ _Подробнее в источнике по первой ссылке дал�
 * [Adb-server в Kaspresso](https://habr.com/ru/post/594017/)
 * [Светлана Смельчакова - UI Automator deep diving](https://www.youtube.com/watch?v=bqNguUHK3SM)
 * [Selendroid Tutorial: Android Mobile Test Automation Framework (Part 1)](https://www.softwaretestinghelp.com/selendroid-tutorial-1/)
+* [Ultron is an easiest framework to develop Android UI tests](https://github.com/open-tool/ultron)
 
 **iOS: Инструменты для автоматизации тестирования**
 
@@ -430,3 +431,4 @@ _**Инструменты, касающиеся инфраструктуры CI/
 * [Home видео для Selenium aka WebDriver. Или чем записать экран, если у вас есть java, поломанные тесты и немного времени](https://habr.com/ru/post/517446/)
 * [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
 * [Автоматизация тестирования мобильных приложений. Часть 2: предусловия, верификация элементов и независимость шагов](https://habr.com/ru/company/badoo/blog/547196/)
+* [100 (да, сто) бесплатных советов по Java-инструментам QA](https://testengineer.ru/sto-besplatnyh-sovetov-po-java-instrumentam-qa/)

@@ -19,7 +19,7 @@
 
 Серверный рендеринг обычно производит быструю First Paint и First Contentful Paint. Выполнение логики страницы и рендеринга на сервере позволяет избежать отправки большого количества JavaScript клиенту, что помогает быстро достичь Time to Interactive. Это имеет смысл, поскольку при серверном рендеринге вы просто отправляете текст и ссылки в браузер пользователя. Этот подход может хорошо работать для широкого спектра устройств и условий сети, и открывает интересные оптимизации браузера, такие как потоковый анализ документов.
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/server-rendering-tti.png?hl=ru](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/server-rendering-tti.png?hl=ru)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/WOL6PIpIQHpqsgtKwbJv.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/WOL6PIpIQHpqsgtKwbJv.png?auto=format\&w=1600)
 
 При использовании серверного рендеринга пользователи вряд ли будут ждать, пока обработается привязанный к процессору JavaScript, прежде чем они смогут использовать ваш сайт. Даже когда нельзя избежать стороннего JS, использование серверного рендеринга для сокращения собственных затрат на JS может дать вам больше « бюджета » на все остальное. Однако у этого подхода есть один главный недостаток: генерация страниц на сервере требует времени, что часто может привести к более долгому времени до первого байта.
 
@@ -31,7 +31,7 @@
 
 Статический рендеринг происходит во время сборки и предлагает быстрые First Paint, First Contentful Paint и Time To Interactive - при условии, что количество JS на стороне клиента ограничено. В отличие от серверного рендеринга, ему также удается достичь стабильно быстрого времени до первого байта, поскольку HTML-код для страницы не нужно генерировать на лету. Как правило, статический рендеринг означает создание отдельного HTML-файла для каждого URL-адреса заранее. Поскольку HTML-ответы генерируются заранее, статические рендеры могут быть развернуты на нескольких CDN, чтобы воспользоваться преимуществом пограничного кэширования (edge-caching).
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/static-rendering-tti.png](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/static-rendering-tti.png)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/SRsl2UcHyJquzuJkdTHR.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/SRsl2UcHyJquzuJkdTHR.png?auto=format\&w=1600)
 
 Решения для статического рендеринга бывают всех форм и размеров. Такие инструменты как Gatsby спроектированы так, чтобы разработчики почувствовали что их приложения рендерятся динамически быстрее чем генерируются на этапе сборки. Другие, как Jekyll и Metalsmith принимают их статическую природу, обеспечивая более шаблонный подход.
 
@@ -57,7 +57,7 @@
 
 Рендеринг на стороне клиента может быть трудно получить и быстро сохранить для мобильных устройств. Он может приблизиться к производительности чисто серверного рендеринга, если выполняет минимальную работу, сохраняя жесткий бюджет JavaScript и предоставляя ценность в минимально возможном количестве RTTs. Критические сценарии и данные могут быть доставлены быстрее, используя HTTP/2 Server Push или \<link rel=preload>, что заставляет парсер работать на вас быстрее. Шаблоны, такие как PRPL, стоит оценить, чтобы обеспечить мгновенную начальную и последующую навигацию.
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/client-rendering-tti.png?hl=ru](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/client-rendering-tti.png?hl=ru)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/JFxoxQe847ntctVOdn5u.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/JFxoxQe847ntctVOdn5u.png?auto=format\&w=1600)
 
 Основным недостатком рендеринга на стороне клиента является то, что количество требуемого JavaScript имеет тенденцию к росту по мере роста приложения. Это становится особенно трудным с добавлением новых библиотек JavaScript, полифилов и стороннего кода, которые конкурируют за вычислительную мощность и часто должны обрабатываться до того, как содержимое страницы может быть отображено. Опыт работы с CSR, основанный на больших пакетах JavaScript, должен учитывать агрессивное разделение кода и обязательно загружать JavaScript - «обслуживайте только то, что вам нужно, когда вам это нужно». Для случаев, когда интерактивность незначительна или отсутствует, рендеринг сервера может представлять собой более масштабируемое решение этих проблем.
 
@@ -75,13 +75,13 @@
 
 Проблемы регидратации часто могут быть хуже, чем замедленная интерактивность из-за JS. Чтобы клиентский JavaScript мог точно «подхватить», где сервер остановился, без необходимости повторного запроса всех данных, которые сервер использовал для визуализации своего HTML, текущие SSR решения обычно сериализуют ответ от пользовательского интерфейса. зависимости данных в документе в виде тегов скрипта. Полученный HTML-документ содержит высокий уровень дублирования:
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/html.png?hl=ru](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/html.png?hl=ru)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/CwHQGXjA4qRyVa4pGdXT.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/CwHQGXjA4qRyVa4pGdXT.png?auto=format\&w=1600)
 
 Как вы можете видеть, сервер возвращает описание пользовательского интерфейса приложения в ответ на запрос навигации, но он также возвращает исходные данные, использованные для создания этого пользовательского интерфейса, и полную копию реализации пользовательского интерфейса, которая затем загружается на клиенте. Только после завершения загрузки и выполнения bundle.js этот интерфейс становится интерактивным.
 
 Метрики производительности, собранные с реальных веб-сайтов с использованием регидратации SSR, указывают на то, что его использование не рекомендуется. В конечном счете, причина кроется в пользовательском опыте: в конечном итоге крайне просто оставить пользователей в «странной долине».
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/rehydration-tti.png?hl=ru](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/rehydration-tti.png?hl=ru)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/aXn4IcnNfFb2SvaYJPWU.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/aXn4IcnNfFb2SvaYJPWU.png?auto=format\&w=1600)
 
 Хотя есть надежда на SSR с регидратацией. В краткосрочной перспективе только использование SSR для контента с высокой степенью кэширования может уменьшить задержку TTFB, что дает результаты, аналогичные предварительному рендерингу. Регидратация постепенно, постепенно или частично может стать ключом к повышению эффективности этого метода в будущем.
 
@@ -101,7 +101,7 @@
 
 Если сервис-воркеры являются подходящим вариантом для вас, «трисоморфный» рендеринг также может представлять интерес. Это метод, при котором вы можете использовать потоковый рендеринг сервера для начальной/не-JS-навигации, а затем попросить сервис-воркер на себя рендеринг HTML для навигации после его установки. Это может поддерживать кэшированные компоненты и шаблоны в актуальном состоянии и обеспечивает навигацию в стиле SPA для отображения новых представлений в одном сеансе. Этот подход работает лучше всего, когда вы можете совместно использовать один и тот же код шаблонов и маршрутизации между сервером, клиентской страницей и сервис-воркером.
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/trisomorphic.png?hl=ru](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/trisomorphic.png?hl=ru)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/EnHAdI7a6mhv7iU81iRe.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/EnHAdI7a6mhv7iU81iRe.png?auto=format\&w=1600)
 
 **SEO соображения**
 
@@ -109,11 +109,11 @@
 
 В случае сомнений инструмент Mobile Friendly Test неоценим для проверки того, что выбранный вами подход делает то, на что вы надеетесь. Он показывает визуальный предварительный просмотр того, как какая-либо страница отображается сканеру Google, найденный сериализованный контент HTML (после выполнения JavaScript) и любые ошибки, обнаруженные во время рендеринга.
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/mobile-friendly-test.png?hl=ru](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/mobile-friendly-test.png?hl=ru)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/2OH46CfDEvODtabXpKZp.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/2OH46CfDEvODtabXpKZp.png?auto=format\&w=1600)
 
 [Вот удобная инфографика](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/infographic.png?hl=ru), показывающая спектр сервер-клиент:
 
-![https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/infographic.png?hl=ru](https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/infographic.png?hl=ru)
+![https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/FZ7p6ZImdJbM82E0ZwMF.png?auto=format\&w=1600](https://web-dev.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/FZ7p6ZImdJbM82E0ZwMF.png?auto=format\&w=1600)
 
 **Как работает рендеринг в браузере**
 
@@ -147,7 +147,7 @@
 
 Источники:
 
-* [Рендеринг в Интернете](https://developers.google.com/web/updates/2019/02/rendering-on-the-web?hl=ru) + [оригинал](https://developers.google.com/web/updates/2019/02/rendering-on-the-web?hl=en)
+* [Рендеринг в Интернете](https://web.dev/rendering-on-the-web/)
 * [Как браузер рендерит веб-страницу](https://webdevblog.ru/kak-brauzer-renderit-veb-stranicu/)
 * [Отзывчивый и адаптивный дизайн сайта](https://html5book.ru/otzyvchivyj-dizayn-saita/)
 
@@ -162,4 +162,3 @@
 * [Что такое адаптивный дизайн сайта](https://webgain.ru/osobennosti-i-plyusy-razrabotki-adaptivnogo-dizajna-sajta/)
 * [Новый адаптивный дизайн](https://www.youtube.com/watch?v=dhrX\_biPH8c)
 * [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS\_layout/Responsive\_Design)
-

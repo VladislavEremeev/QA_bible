@@ -133,3 +133,4 @@
 * [How Does Test Planning Differ For Manual And Automation Projects?](https://www.softwaretestinghelp.com/automation-test-palnning/)
 * [Step By Step Guide To Implement Proof Of Concept (POC) In Automation Testing](https://www.softwaretestinghelp.com/implement-proof-of-concept-poc-in-automation-testing/)
 * [How To Perform Automation Testing Of JAVA/J2EE Applications (Part 2)](https://www.softwaretestinghelp.com/automated-testing-of-j2ee-applications-part-2/)
+* [Как мы научились запускать 10-часовые UI-тесты за 5 минут в условиях 30 релизов в день](https://habr.com/ru/company/sberbank/blog/660891/)

@@ -4,13 +4,13 @@
 Если всё же пытаться вывести среднее, то вот несколько ссылок:
 
 * [QA RoadMap 2021](https://disk.yandex.ru/i/x\_hOsnoxVMoB-A)
-* [Большая дорожная карта развития тестировщика](https://testengineer.ru/razvitie-testirovshchika/)
+* [QE learning roadmap](https://github.com/bnorrish/qe-learning-roadmap/blob/main/Quality%20Engineer%20Roadmap.pdf)
 * [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap)
-* [https://www.mindmeister.com/ru/1324282825/junior-qa?fullscreen=1](https://www.mindmeister.com/ru/1324282825/junior-qa?fullscreen=1)
-* [https://www.mindmeister.com/ru/1558647509?t=973hdS2AKb](https://www.mindmeister.com/ru/1558647509?t=973hdS2AKb)
-* [https://miro.com/app/board/o9J\_lXUgVuQ=/](https://miro.com/app/board/o9J\_lXUgVuQ=/)
+* [Junior QA](https://www.mindmeister.com/ru/1324282825/junior-qa?fullscreen=1)
+* [QA Специалист](https://www.mindmeister.com/ru/1558647509?t=973hdS2AKb)
+* [QA Roadmap](https://miro.com/app/board/o9J\_lXUgVuQ=/)
 * [Quality Engineer Learning Roadmap](https://medium.com/slalom-build/quality-engineer-learning-roadmap-fddfcb77409e)
-* [Пост “что нужно знать junior QA engineer”](https://t.me/shooandendlessagony/2)
+* [Пост “Что нужно знать junior QA engineer”](https://t.me/shooandendlessagony/2)
 * [Святослав Куликов “Тестирование программного обеспечения. Базовый курс”](https://svyatoslav.biz/software\_testing\_book/). 4.1. Карьера тестировщика
 
 Некоторые компании подробно расписывают на своих порталах ожидания от каждой стадии развития сотрудника, по этой же теме много видео на Youtube ([раз](https://www.youtube.com/watch?v=l9ezImoh5ac\&feature=emb\_logo\&ab\_channel=LearnQA%3A%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2), [два](https://www.youtube.com/watch?v=wDHZsoZIxcY\&ab\_channel=LearnQA%3A%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2), [три](https://www.youtube.com/watch?v=tzOhRHVX6ko\&ab\_channel=QAQC), [четыре](https://www.youtube.com/watch?v=5DGuDT98EC0\&ab\_channel=AzatZakuanov), …). Более практичный ориентир - просто открыть и почитать интересующие вакансии, выписывая повторяющиеся пункты.
@@ -97,7 +97,7 @@
 
 **Разница для Junior/Middle/Senior**
 
-Просто для цельной картины, если говорить про уровень middle, то работодателей теория уже не так интересует, если только это не крупная галера с высоким конкурсом (вопросы в таком случае будут +- те же, что и для junior, просто копнут глубже). Мидл - самостоятельная в решении рядовых задач боевая единица. Такой специалист уже имеет опыт в задачах, инструментах, видел какие-то процессы и уже примерно может давать оценку времени на выполнение задач. Соответственно и спрашивать будут больше по таким кейсам и по предыдущему опыту работы. Senior это уже про серьезный опыт, а также: организация работы, [менторинг](https://software-testing.ru/library/around-testing/management/3656-mentoring-software-testers), автоматизация, CI/CD и место автоматизации в нём, менеджмент процессов и их построение, планирование, метрики, ROI, знание стандартов, опыт в тест планах и стратегиях, декомпозиция и распределение задач, оценка времени и т.п. [Тут](https://www.youtube.com/watch?v=KlE3BOltGdw) можно узнать больше. [Тут](https://telegra.ph/Sobesedovanie-s-QA-250-voprosov-dlya-Junior-Middle-Senior-01-12) вопросы разделены по грейдам.
+Просто для цельной картины, если говорить про уровень middle, то работодателей теория уже не так интересует, если только это не крупная галера с высоким конкурсом (вопросы в таком случае будут +- те же, что и для junior, просто копнут глубже). Мидл - самостоятельная в решении рядовых задач боевая единица. Такой специалист уже имеет опыт в задачах, инструментах, видел какие-то процессы и уже примерно может давать оценку времени на выполнение задач. Соответственно и спрашивать будут больше по таким кейсам и по предыдущему опыту работы. Senior это уже про серьезный опыт, а также: организация работы, [менторинг](https://software-testing.ru/library/around-testing/management/3656-mentoring-software-testers), автоматизация, CI/CD и место автоматизации в нём, менеджмент процессов и их построение, планирование, метрики, ROI, знание стандартов, опыт в тест планах и стратегиях, декомпозиция и распределение задач, оценка времени и т.п. [Тут](https://www.youtube.com/watch?v=KlE3BOltGdw) можно узнать больше. [Тут](https://telegra.ph/Sobesedovanie-s-QA-250-voprosov-dlya-Junior-Middle-Senior-01-12) вопросы разделены по грейдам. Еще подборка: [Junior](https://www.youtube.com/watch?v=TeckTCITenI)/[Middle](https://www.youtube.com/watch?v=OGmhxliZ8sY)/[Senior](https://www.youtube.com/watch?v=UOfm9jktnR4).
 
 **Английский**
 

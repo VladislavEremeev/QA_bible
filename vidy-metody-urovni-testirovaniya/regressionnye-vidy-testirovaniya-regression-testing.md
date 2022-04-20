@@ -122,3 +122,4 @@ _Подтверждающее тестирование (confirmation testing): �
 * [QA Outsourcing: Smoke Testing, Critical Path Testing, Extended Testing](https://testing-companies.com/qa-outsourcing-smoke-testing-critical-path-testing-extended-testing/)
 * [Антирегрессионное тестирование - минимизируйте затраты](https://habr.com/ru/company/typeable/blog/583062/)
 * [Способы сокращения регрессионного тестирования](https://www.youtube.com/watch?v=pEJfP52GWTg)
+* [Курс Тестирование ПО. Занятие 26. Регрессионное тестирование (Regression Testing)](https://www.youtube.com/watch?v=1f3yfUnji8o)

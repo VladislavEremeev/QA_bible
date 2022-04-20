@@ -27,6 +27,7 @@
 * [Welcome on board или по ту сторону оффера](https://habr.com/ru/post/550864/)
 * [Введение тестировщика в проект и процесс тестирования](https://www.youtube.com/watch?v=DyeDxg6Olh8)
 * [Как выжить на новой работе или онбординг снизу](https://red-foks.medium.com/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B6%D0%B8%D1%82%D1%8C-%D0%BD%D0%B0-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D0%B8%D0%BB%D0%B8-%D0%BE%D0%BD%D0%B1%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B3-%D1%81%D0%BD%D0%B8%D0%B7%D1%83-8e95c7c4ac0c)
+* [Осторожно, новичок! Как сохранить качество тестирования с приходом нового специалиста](https://habr.com/ru/company/icl\_services/blog/660871/)
 * [Один день из жизни тестировщика (QA Engineer)](https://www.youtube.com/watch?v=KIrbcOdNDZI)
 * [Как вырастить джунов - советы бывалых из 2ГИС](https://habr.com/ru/company/2gis/blog/649175/)
 * [Как я попала в большую корпорацию: ожидания и реальность](https://habr.com/ru/company/dell\_technologies/blog/583064/)

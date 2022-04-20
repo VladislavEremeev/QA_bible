@@ -350,6 +350,7 @@ Git - это система контроля версий, которая упр
 * [Бесплатный курс “Основы командной строки”](https://ru.hexlet.io/courses/cli-basics)
 * [How To Run / Execute Command Using SSH](https://www.cyberciti.biz/faq/unix-linux-execute-command-using-ssh/)
 * [TOP 70+ Best UNIX Interview Questions With Answers](https://www.softwaretestinghelp.com/unix-interview-questions/)
+* [Автоматизация рутины. Скачиваем файлы через bash](http://okiseleva.blogspot.com/2021/11/bash.html)
 
 **RegExp**:
 
