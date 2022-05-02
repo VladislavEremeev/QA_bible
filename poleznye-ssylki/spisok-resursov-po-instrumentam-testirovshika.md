@@ -105,6 +105,7 @@ Charles - инструмент для мониторинга HTTP/HTTPS траф
 * [Битва снифферов: Charles vs Proxyman](https://habr.com/ru/company/ozontech/blog/579392/)
 * [Почему Proxyman - сын маминой подруги в мире снифферов](https://habr.com/ru/company/indriver/blog/591525/)
 * [Плейлист Charles Proxy](https://www.youtube.com/playlist?list=PLof3mAh50UD05mFlTvNpTszOUY9eFrSDX)
+* [Погружение в Charles Proxy](https://habr.com/ru/post/663926/)
 
 **Тестирование безопасности**:
 
@@ -197,6 +198,8 @@ Git - это система контроля версий, которая упр
 * [100+ Most Popular SQL Interview Questions And Answers](https://www.softwaretestingmaterial.com/sql-interview-questions/)
 * [Курс Тестирования ПО. Занятие 19. Зачем тестировщику нужен SQL. Практические примеры](https://www.youtube.com/watch?v=EdXq2AoRYI8)
 * [Лучшие вопросы средней сложности по SQL на собеседовании аналитика данных](https://habr.com/ru/company/dcmiran/blog/500360/)
+* [Плейлист "Базы данных"](https://www.youtube.com/playlist?list=PLbuh2pN46AEvM2ZI-rJL2MVguz8Ea9mrJ)
+* [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
 
 **Инструменты тестирования мобильных приложений**:
 
@@ -231,6 +234,7 @@ Git - это система контроля версий, которая упр
 * [Genymobile/scrcpy - обеспечивает отображение и управление устройствами Android через USB или TCP/IP](https://github.com/Genymobile/scrcpy)
 * [Как тестировщики написали свою мобильную ферму для IOS](https://habr.com/ru/post/572668/)
 * [Облачные платформы для мобильного тестирования](https://habr.com/ru/post/464433/)
+* [Как мы сделали мобильные устройства круглосуточно доступными для распределенной QA-команды и не только](https://habr.com/ru/company/kaspersky/blog/663282/)
 
 **Работа с логами**:
 

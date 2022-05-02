@@ -134,3 +134,4 @@
 * [Step By Step Guide To Implement Proof Of Concept (POC) In Automation Testing](https://www.softwaretestinghelp.com/implement-proof-of-concept-poc-in-automation-testing/)
 * [How To Perform Automation Testing Of JAVA/J2EE Applications (Part 2)](https://www.softwaretestinghelp.com/automated-testing-of-j2ee-applications-part-2/)
 * [Как мы научились запускать 10-часовые UI-тесты за 5 минут в условиях 30 релизов в день](https://habr.com/ru/company/sberbank/blog/660891/)
+* [Как мы организовали «Автошколу» и научили тестировщиков писать автотесты](https://telegra.ph/Kak-my-organizovali-Avtoshkolu-i-nauchili-testirovshchikov-pisat-avtotesty-04-12)

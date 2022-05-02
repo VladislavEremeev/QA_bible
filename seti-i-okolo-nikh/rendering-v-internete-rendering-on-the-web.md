@@ -153,6 +153,7 @@
 
 Доп. материал:
 
+* [YAMP 30.04.2022 - Обсудим настоящее и будущее Server-Driven UI с Александром Казарцевым (AliExpress), Василием Скарлухиным (Авито) и Ольгой Ким (Яндекс)](https://www.youtube.com/watch?v=n3OfjZxFo04\&t=584s)
 * [Что происходит, когда вводишь url, или как работает интернет](https://habr.com/ru/company/karuna/blog/568702/)
 * [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://m.habr.com/en/company/htmlacademy/blog/254825/)
 * [Что происходит, когда пользователь набирает в браузере адрес сайта](https://vc.ru/selectel/76371-chto-proishodit-kogda-polzovatel-nabiraet-v-brauzere-adres-sayta)

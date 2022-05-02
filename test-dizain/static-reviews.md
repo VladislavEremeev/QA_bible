@@ -51,3 +51,7 @@ Software inspection process:
 * [Types of Static Testing](https://www.geeksforgeeks.org/types-of-static-testing/)
 * [Explain peer review](https://softwaretestingguide.blogspot.com/2007/09/explain-peer-review-in-software-testing.html)
 * [Static Testing Techniques](https://www.educba.com/static-testing-techniques/)
+
+Доп. материал:
+
+* [YAMP 30.04.2022 - Вместе с Кириллом Розовым (Тинькофф, Android Broadcast) проведем Android Code Review](https://www.youtube.com/watch?v=n3OfjZxFo04\&t=3945s)

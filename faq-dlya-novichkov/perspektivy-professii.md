@@ -86,3 +86,4 @@
 * [AI/ML в автоматизации тестирования программного обеспечения](https://habr.com/ru/post/648621/)
 * [QA-тренды в 2022 году](https://telegra.ph/QA-trendy-v-2022-godu-02-03-2)
 * [Профессия тестировщик. Востребованность и актуальность](https://www.youtube.com/watch?v=d1t6VzZ6xqM)
+* [Что ждет тестировщиков в этом году (спойлер: все хорошо)](https://testengineer.ru/chto-zhdet-testirovshchikov-v-ehtom-godu/)

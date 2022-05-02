@@ -21,6 +21,7 @@ _Полное изображение со всеми ролями по_ [_ссы
 Доп. материал:
 
 * [ГОСТ Р 56920-2016/ISO/IEC/IEEE 29119-1:2013](https://docs.cntd.ru/document/1200134996) “Приложение Е (справочное). Роли и обязанности в тестировании”
+* [YAMP 30.04.2022 - Поговорим про роль тимлида в команде с Михаилом Трошевым (Яндекс) и Александром Блиновым (hh.ru)](https://www.youtube.com/watch?v=n3OfjZxFo04\&t=6974s)
 * [Product Owner vs Product Manager или Product Owner/Product Manager](https://habr.com/ru/post/538128/)
 * [Business Analyst, Requirement Specialist, Product Owner и другие. Чем отличаются схожие на первый взгляд роли?](https://habr.com/ru/company/epam\_systems/blog/560500/)
 * [Роль QA Lead в продуктовой компании: особенности и зоны ответственности](https://habr.com/ru/company/miro/blog/561596/)

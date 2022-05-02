@@ -18,6 +18,7 @@
 * [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling#readme)
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter#readme)
 * [10 интересных репозиториев на GitHub, полезных любому разработчику](https://habr.com/ru/company/plarium/blog/496472/)
+* [Android UI Testing Cookbook](https://android-ui-testing.github.io/Cookbook/home/)
 
 **Youtube**
 
@@ -35,6 +36,7 @@
 * [Плейлист “Вебинары Python”](https://www.youtube.com/playlist?list=PLvItDmb0sZw\_x1QivR1pTQ6tAK8Awb57L)
 * [Плейлист “Практики и инструменты DevOps”](https://www.youtube.com/playlist?list=PLvItDmb0sZw\_xTNDv8Bb1fsivN\_Z\_4oo9)
 * [Годные туториалы на YouTube](https://habr.com/ru/company/edison/blog/434034/)
+* [Плейлист "Программирование на Kotlin (весна 2018)"](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRWQNlOIhvCV9aquTH-Y0eU)
 
 **Курсы**
 
@@ -50,6 +52,7 @@
 * [Python за месяц](https://habr.com/ru/company/edison/blog/474212/)
 * [Как научиться разработке на Python: новый видеокурс Яндекса](https://habr.com/ru/company/yandex/blog/498856/)
 * [Python.org рекомендует: Программирование для НЕпрограммистов](https://habr.com/ru/company/skillfactory/blog/480898/)
+* [Введение в Kotlin JVM](https://stepik.org/course/5448/info)
 
 **Сборники материалов по автоматизации**
 

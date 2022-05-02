@@ -20,6 +20,7 @@ _Негативное тестирование (negative testing): Тестир�
 
 Доп. материал:
 
+* [Позитивность тестов, негативное тестирование / Урок 14 / Тестировщик с нуля](https://www.youtube.com/watch?v=b\_1eXkzYc-g)
 * [Destructive Testing And Non Destructive Testing Tutorial](https://www.softwaretestinghelp.com/destructive-non-destructive-testing/)
 * [Топ 10 негативных кейсов](https://testmatick.com/ru/top-10-negativnyh-test-kejsov-ispolzuemyh-vo-vremya-testirovaniya-po/)
 * [Частное мнение: Sunny day / Rainy day / Apocalypses day testing scenarios](https://qsusha.wordpress.com/2018/04/25/%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B5-%D0%BC%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-sunny-day-rainy-day-apocalypses-day-testing-scenarios/)

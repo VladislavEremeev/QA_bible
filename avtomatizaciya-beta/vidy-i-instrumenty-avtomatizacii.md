@@ -432,3 +432,4 @@ _**Инструменты, касающиеся инфраструктуры CI/
 * [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
 * [Автоматизация тестирования мобильных приложений. Часть 2: предусловия, верификация элементов и независимость шагов](https://habr.com/ru/company/badoo/blog/547196/)
 * [100 (да, сто) бесплатных советов по Java-инструментам QA](https://testengineer.ru/sto-besplatnyh-sovetov-po-java-instrumentam-qa/)
+* [The marshaller allows you to convert a form-urlencoded string to a POJO/Map object and vice versa. Supports nesting of objects, lists, arrays. Supports indexed and non-indexed lists](https://github.com/touchbit/form-urlencoded-marshaller)

@@ -254,9 +254,7 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 
 **Instagram/TikTok**:
 
-* [ladybug.qa.courses](https://www.instagram.com/ladybug.qa.courses/)
-* [annkolivan](https://www.instagram.com/annkolivan/)
-* [olia\_qacoach](https://www.instagram.com/olia\_qacoach/)
+* [lia\_qacoach](https://www.instagram.com/olia\_qacoach/)
 * [protestinginfo](https://www.instagram.com/protestinginfo/)
 * [ТОП блогов по тестированию (QA)](https://www.youtube.com/watch?v=YQlSV9jaBv8\&t=1263s)
 * [vadim\_ksendzov](https://www.instagram.com/vadim\_ksendzov/)
