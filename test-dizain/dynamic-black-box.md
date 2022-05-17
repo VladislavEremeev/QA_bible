@@ -376,3 +376,4 @@ _Исчерпывающее тестирование (exhaustive testing): Ме�
 * [Примеры диаграммы State Transition Testing](https://okiseleva.blogspot.com/2018/07/state-transition-testing.html)
 * [Как составлять вариант использования](https://okiseleva.blogspot.com/2015/11/blog-post\_86.html)
 * [Что такое use case? Теория и примеры](https://testengineer.ru/chto-takoe-use-case/)
+* [Тест- дизайн. Техники тест- дизайна. Часть #1](https://youtu.be/tLS9Ar2Hypk)
