@@ -27,6 +27,7 @@ _Всякое из сохраненного, что пока не определ
 
 **Разное**
 
+* [Устраняем популярные изъяны в коде - чек-лист ошибок junior-разработчиков](https://habr.com/ru/company/skillbox/blog/674434/)
 * [Сколько стоит избавиться от ручного тестирования?](https://habr.com/ru/post/558074/)
 * [When To Opt For Automation Testing?](https://www.softwaretestinghelp.com/software-automation-testing-should-automate-project-testing/)
 * [По следам приложения - мониторинг](https://www.youtube.com/watch?v=2Xd9pAGGLk8)

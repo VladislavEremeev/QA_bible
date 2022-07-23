@@ -81,8 +81,10 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 * [QA With Natalia](https://www.youtube.com/user/natasturza/featured)
 * [Bogdan Ovsiyuk](https://www.youtube.com/channel/UC6SHu94JlUfSk5B5TwJwY7A)
 * [Alex QA](https://www.youtube.com/channel/UC4FsI-c69O8ui\_5kwM3dalA/featured)
+* [QA SoftClub](https://www.youtube.com/channel/UCcXYca9A9cWNhW0pNLlg4cw)
 * [Плейлист “Качество и Тестирование ПО” от VK](https://www.youtube.com/watch?v=3MBT9O6i0jk\&list=PLrCZzMib1e9pDKLsabJYuODdVJrHYc4Jd)
 * [Плейлист “Тестирование мобильных и веб-приложений”](https://www.youtube.com/playlist?list=PL0sm2CxWDkuuVRlcP31lWBLAafcQIikyb)
+* [Плейлист "Курс QA"](https://www.youtube.com/playlist?list=PL2MvZpJt-m5nX6AKyn7k0jLIAzY8yXl3o)
 
 **Web**:
 
@@ -161,8 +163,7 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
   * [30 Things Every New Software Tester Should Learn](https://www.ministryoftesting.com/dojo/lessons/30-things-every-new-software-tester-should-learn)
   * [What Is Software Testing? 100+ Free Manual Testing Tutorials](https://www.softwaretestinghelp.com/manual-testing-tutorial-1/)
   * [IEEE Guide to the Software Engineering Body of Knowledge](https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf)
-  * [I am a Software Tester](https://www.xmind.net/m/s3Nt/#)
-  * [QA\_Links](https://github.com/skydive-dz/QA\_Links/blob/master/Links.md)
+  * [I am a Software Tester](https://www.xmind.net/m/s3Nt/)
 * **Русскоязычные**:
   * [ГОСТ Р 56920-2016/ISO/IEC/IEEE 29119-1:2013 Часть 1: “Понятия и определения”](https://docs.cntd.ru/document/1200134996)
   * [ГОСТ Р 56921-2016/ISO/IEC/IEEE 29119-2:2013 Часть 2: “Процессы тестирования”](https://docs.cntd.ru/document/1200134997)
@@ -171,6 +172,7 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
   * [Подборка от Артёма Русова](https://docs.google.com/spreadsheets/d/1qaCuDQMQFB7yGO8N4C\_aC2ncyRobXkriReRsp-UTOE4/edit#gid=49997284)
   * [Подборка от сообщества QA juniors](https://docs.google.com/spreadsheets/u/0/d/18giT\_NbYLo9yc7yArAeTMnB8W9m3EqUvwftrfZMUyWQ/edit)
   * [Подборка от сообщества QA sisters](https://docs.google.com/spreadsheets/d/1jfC3vrW1NFAZz91Xp7rL4RqFhVoSJTBbbSs0JHiu0eg/edit#gid=0)
+  * [QA\_Links](https://github.com/skydive-dz/QA\_Links/blob/master/Links.md)
   * [Всё о QA: 80 бесплатных материалов по грамотному тестированию](https://tproger.ru/digest/free-software-testing-books/)
   * [Что должен уметь начинающий тестировщик](http://testbase.ru)
   * [Полезные ссылки для тестировщика](https://github.com/Kakha-Khinikadze/Links-QA/blob/master/Links.md)
@@ -234,7 +236,7 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 * [Как накидать тестов на некий функционал](https://www.youtube.com/watch?v=drO2aI3nLvo)
 * [Как накидать тестов на что-нибудь](https://www.youtube.com/watch?v=cmlI5aJxdwE)
 
-[**Блоги**](https://www.maxshulga.ru/2016/06/useful-testers-resources.html?m=1#:\~:text=%D0%BE%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%8F%20%D0%A1%D0%B0%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-,%D0%91%D0%BB%D0%BE%D0%B3%D0%B8,-%D0%BF%D1%80%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5):
+[**Блоги**](https://www.maxshulga.ru/2016/06/useful-testers-resources.html?m=1):
 
 * [Никита Макаров](http://test-failed.blogspot.ru) - мастер автоматизации, но философские темы у него тоже хорошо удаются.
 * [Леша Виноградов](http://qa-blog.alexei-vinogradov.de) - мастер поднабросить на включенный вентилятор, диджей RadioQA
@@ -251,10 +253,14 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 * [Google Testing Blog](http://googletesting.blogspot.com) - я думаю из названия понятно
 * [QA Intelligence](http://qablog.practitest.com) - неплохие статьи
 * [About 98 Percent Done](http://about98percentdone.blogspot.ru) - хорошие статьи, но с адским белым шрифтом на черном фоне
+* [QAk-QAk - и в продакшен](https://podcast.ru/1591500271)
 
 **Instagram/TikTok**:
 
+* [Артём Русов](https://www.instagram.com/rusau.qalife/)
+* [Вадим Ксендзов](https://www.instagram.com/vadim\_ksendzov/)
 * [lia\_qacoach](https://www.instagram.com/olia\_qacoach/)
 * [protestinginfo](https://www.instagram.com/protestinginfo/)
 * [ТОП блогов по тестированию (QA)](https://www.youtube.com/watch?v=YQlSV9jaBv8\&t=1263s)
-* [vadim\_ksendzov](https://www.instagram.com/vadim\_ksendzov/)
+* [ladybug.qa.courses](https://www.instagram.com/ladybug.qa.courses/)
+* Рекомендации айтишников: блогеры, Youtube-каналы, страницы в Instagram

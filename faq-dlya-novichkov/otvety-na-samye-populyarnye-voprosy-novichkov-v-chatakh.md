@@ -21,6 +21,7 @@
 * [Бесплатный курс профориентации в IT](https://practicum.yandex.ru/career-advisor/)
 * [Каково быть тестировщиком: 4 истории о боли и радости](https://habr.com/ru/company/skypro/blog/649349/)
 * [Как зарабатывать миллион в IT если ты раздолбай без образования. Фил Ранжин - Как мы попали в IT](https://www.youtube.com/watch?v=N-IFG8gD7Gg)
+* [Трудный вход и легкий выход. Кому не подходит работа в IT?](https://habr.com/ru/post/665526/)
 
 **Хочу зарабатывать много денег, мне сюда?**
 
@@ -121,3 +122,4 @@
 * [Плейлист “Карьера в IT”](https://www.youtube.com/playlist?list=PLvItDmb0sZw\_uOoxIR5EIaOkYksdAq7ks)
 * [Из грузчика в QA без регистрации и смс](https://habr.com/ru/company/petrovich/blog/582824/)
 * [Приключения филологической девы в IT и советы начинающим тестировщикам](https://habr.com/ru/company/quadcode/blog/592615/)
+* [Как стать тестировщиком ПО, ответы на часто задаваемые вопросы](https://habr.com/ru/post/674678/)

@@ -20,3 +20,4 @@
 Доп. материал:
 
 * [Сайти для пошуку роботи в Україні, в тому числі віддалено](https://dou.ua/forums/topic/37190/)
+* [Стажировка для тестировщика (QA Engineer)](https://www.youtube.com/watch?v=FAyDh0tqzzc)

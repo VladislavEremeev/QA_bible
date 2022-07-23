@@ -59,6 +59,7 @@
 
 Доп. материал:
 
+* [Тестирование GUI: полное руководство](https://testengineer.ru/testirovanie-gui-polnoe-rukovodstvo/)
 * [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
 * [#9 Артем, Сева и Визуальное тестирование](https://www.youtube.com/watch?v=d91Ca1Yz5q0\&ab\_channel=Heisenbug)
 * [Кроссбраузерное визуальное тестирование - выбор подходящего инструмента для дизайн-системы NewsKit](https://telegra.ph/Krossbrauzernoe-vizualnoe-testirovanie---vybor-podhodyashchego-instrumenta-dlya-dizajn-sistemy-NewsKit-03-31)

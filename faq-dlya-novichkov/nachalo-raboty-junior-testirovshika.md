@@ -24,6 +24,8 @@
 
 Доп. материал:
 
+* [Как решить 4 главные проблемы, с которыми сталкивается любой стажёр-тестировщик](https://habr.com/ru/company/ispring/blog/664220/)
+* [Менторство в QA: как погрузить новых сотрудников в проектную работу](https://habr.com/ru/company/simbirsoft/blog/663618/)
 * [Welcome on board или по ту сторону оффера](https://habr.com/ru/post/550864/)
 * [Введение тестировщика в проект и процесс тестирования](https://www.youtube.com/watch?v=DyeDxg6Olh8)
 * [Как выжить на новой работе или онбординг снизу](https://red-foks.medium.com/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%B6%D0%B8%D1%82%D1%8C-%D0%BD%D0%B0-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D0%B8%D0%BB%D0%B8-%D0%BE%D0%BD%D0%B1%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B3-%D1%81%D0%BD%D0%B8%D0%B7%D1%83-8e95c7c4ac0c)
@@ -36,3 +38,9 @@
 * [Тестирование с нуля, или Один в поле - тестировщик](https://habr.com/ru/company/citymobil/blog/589729/)
 * [Технический онбординг: тяжело в учении - легко в бою!](https://www.youtube.com/watch?v=tGu5IVlCL8o)
 * [11 кругов ада для тех, кому не хватает опыта на новой работе](https://habr.com/ru/post/414471/)
+* [Как прийти в тестирование первым джуном и не лишить всех работы](https://habr.com/ru/post/666996/)
+* [Осторожно, новичок! Как сохранить качество тестирования с приходом нового специалиста](https://www.software-testing.ru/library/around-testing/management/3821-cl-services)
+* [Советы для начинающих тестировщиков на первом месте работы](https://www.youtube.com/watch?v=vS2UYa5Jcf4)
+* [Идеальное соотношение разработчиков и тестировщиков](https://telegra.ph/Idealnoe-sootnoshenie-razrabotchikov-i-testirovshchikov-07-22)
+* [Стресс-тестирование: как тестировщикам жить в беспокойном мире багов](https://habr.com/ru/company/innotech/blog/675908/)
+* [Что делает тестировщик на работе? / Мой день (QA Engineer)](https://www.youtube.com/watch?v=BUDog4mFrDI)

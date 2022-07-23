@@ -4,7 +4,7 @@
 
 ![](https://lh6.googleusercontent.com/yDN1s-lXbEFI5tsd429c2fT5DkHxfDNFpTotktfGZe2tdXVAdo218WSOksJIhBx5VDJffYvMOcadII\_r7ln-kvX4iKFuuQ75io5IEimepSLJq\_qkkZ\_JH5x5UfdSXdF2PqbBPqpV)
 
-&#x20;Уровни тестирования:
+Уровни тестирования:
 
 * Unit/component/program/module testing - тестируется минимально-атомарный модуль программы, чаще всего это одна функция или метод. Таких тестов должно быть больше всего;
 * Integration testing - несколько модулей программы тестируются вместе;
@@ -25,3 +25,4 @@
 * [Почему тестировать должны не только QA. Распределяем тест-кейсы между Dev, Analyst и QA](https://dou.ua/lenta/columns/test-cases-dev-qa-analyst/)
 * [Пирамида тестирования на практике. Как работает QA в Jiji](https://dou.ua/lenta/columns/testing-in-jiji/)
 * [Почему «осмысленное тестирование» - это важно?](https://habr.com/ru/post/650937/)
+* [Разные подходы к тестированию: в чем их суть и какой выбирать для своих проектов](https://habr.com/ru/company/sbermarket/blog/665260/)

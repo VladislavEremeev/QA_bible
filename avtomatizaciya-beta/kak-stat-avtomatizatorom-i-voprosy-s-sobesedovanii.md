@@ -42,10 +42,13 @@
 * Что такое автоматизация и зачем она нужна?
 * Когда нужно начинать автоматизацию на проекте?
 * Какая бывает автоматизация (виды, методы, платформы и т.п.)?
+* Характеристики хорошего автотеста;
+* Паттерны автоматизации;
 * Популярные фреймворки и инструменты автоматизации, запуска тестов и генерации отчетности;
 * Инфраструктура CI/CD, пайплайн, место автотестов в нем;
 * Что следует автоматизировать в первую очередь?
 * Какая тестовая документация нужна для автоматизированного тестирования?
+* Есть новая фича. Расскажи, как будешь тестировать и какие автотесты напишешь.
 
 **Вопросы по языкам программирования**:
 
@@ -70,7 +73,7 @@ Java:
 
 **Практические навыки**:
 
-* уметь писать код;
+* уметь писать код и решать простые задачки (переборы массивов и т.п.);
 * Git;
 * консоль;
 * типовые инструменты для платформы;
@@ -103,6 +106,7 @@ Java:
 * [**Automation Testing Interview Questions And Answers (Updated 2022**](https://www.softwaretestingmaterial.com/automation-testing-interview-questions/)**)**
 * [**Interview Prep Questions**](https://docs.google.com/document/d/1UQR1Zvwyrgyuo600qEVAWt4d25LWo5B5KLGe-c09aU4/edit#heading=h.tu27eqwwcawn)
 * [50 вопросов по Docker, которые задают на собеседованиях, и ответы на них](https://habr.com/ru/company/southbridge/blog/528206/)
+* [О чем спрашивают на собеседовании QA Junior: Selenium](https://testengineer.ru/sobesedovanie-selenium-o-chem-sprashivajut/)
 * [Как начать карьеру QA Automation Engineer: один простой совет](https://vc.ru/hr/350932-kak-nachat-kareru-qa-automation-engineer-odin-prostoy-sovet)
 * [Нужно ли знать программирование для qa автоматизатора?](https://www.youtube.com/watch?v=y2Xh25f5O9U)
 * [Как стать QA AUTOMATION engineer с нуля самостоятельно](https://www.youtube.com/watch?v=k0LFk9yH98c)

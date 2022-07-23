@@ -164,6 +164,7 @@ _Спецификация тестовых сценариев (test case specifi
 
 * [Критерии качества требований и как им следовать](https://dou.ua/forums/topic/35139/)
 * [IEEE Guide to the Software Engineering Body of Knowledge](https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf). Chapter 1.
+* [Функциональная спецификация интерфейса: что это, зачем нужна, как её писать](https://habr.com/ru/post/671540/)
 * [Software Requirements Engineering: What, Why, Who, When, and How By Linda Westfall](http://www.westfallteam.com/Papers/The\_Why\_What\_Who\_When\_and\_How\_Of\_Software\_Requirements.pdf)
 * Карл Вигерс «Разработка требований к программному обеспечению»
 * [Святослав Куликов “Тестирование программного обеспечения. Базовый курс”](https://svyatoslav.biz/software\_testing\_book/). Раздел 2.2.8. “Типичные ошибки при анализе и тестировании требований”.

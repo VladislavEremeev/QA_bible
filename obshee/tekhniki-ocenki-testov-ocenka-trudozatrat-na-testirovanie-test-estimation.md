@@ -48,8 +48,8 @@ Test Estimation - это управленческая деятельность, 
 * Аналогии и рекомендации экспертов;
 * [Иерархическая структура работ (WBS - Work Breakdown Structure)](https://www.workbreakdownstructure.com);
 * Процентное отношение к разработке;
-* [Процентное распределение (Percentage Distribution)](https://www.tutorialspoint.com/estimation\_techniques/estimation\_techniques\_testing.htm#:\~:text=Development%20Effort%20/100)-,Percentage%20Distribution,-In%20this%20technique);
-* [Методики, основанные на опыте (Ad-hoc method/Experience-based estimation)](https://existek.com/blog/how-calculate-man-hours-software-project-explanation-example/#:\~:text=Experience%2Dbased%20estimation).
+* [Процентное распределение (Percentage Distribution)](https://www.tutorialspoint.com/estimation\_techniques/estimation\_techniques\_testing.htm)-,Percentage%20Distribution,-In%20this%20technique);
+* [Методики, основанные на опыте (Ad-hoc method/Experience-based estimation)](https://existek.com/blog/how-calculate-man-hours-software-project-explanation-example/).
 
 Наше любимое - метод проб и ошибок. Все мы им часто пользуемся. Нужно понимать, чем он отличается от метода экспертных оценок. Если вы уже работали с проектом, он вам знаком и что-то тестировали, то вы уже делаете как эксперт. Если вы не делали это для тестирования, не работали с проектом и никогда не сталкивались с этой областью или заказчиком, то вы оцениваете полностью пальцем в небо. В этом большая разница.
 
@@ -202,8 +202,9 @@ _Планирование - оптимальное распределение р
 
 Доп. материал:
 
-* [Подборка статей от Huib Schoots](https://www.huibschoots.nl/wordpress/?page\_id=441#:\~:text=by%20Michael%20Bolton-,Test%20Estimation,-%3A)
+* [Подборка статей от Huib Schoots](https://www.huibschoots.nl/wordpress/?page\_id=441)
 * Стив Макконнелл - “Сколько стоит программный проект”
+* [5 способов оценки времени на тестирование](https://telegra.ph/5-sposobov-ocenki-vremeni-na-testirovanie-05-30)
 * [Александр Александров - Оценка трудозатрат на тестирование в проектах сопровождения](https://www.youtube.com/watch?v=KFmjP4f-t9s)
 * [Эстимация в тестировании / Оценка трудозатрат на тестирование](https://www.youtube.com/watch?v=CfHBhmtES1g)
 * [Размышления об оценке тестирования](https://www.software-testing.ru/library/testing/general-testing/2700-thoughts-around-test-estimation)

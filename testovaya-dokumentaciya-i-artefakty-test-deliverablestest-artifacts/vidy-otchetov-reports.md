@@ -56,6 +56,7 @@ _Итоговый отчет о тестировании (test summary report): 
 
 Доп. материал:
 
+* [Отчет о тестировании / Урок 19 / Тестировщик с нуля](https://www.youtube.com/watch?v=JwuZY4Gdb2I)
 * [Как составить отчет о тестировании](https://telegra.ph/test-report-04-15)
 * [48+ SAMPLE Test Report Templates](https://www.sample.net/reports/test-report/)
 * [Отчет по результатам тестирования сайта](https://www.performance-lab.ru/wp-content/themes/pureengineering/images/sitetesting/test\_report\_example.pdf)

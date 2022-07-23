@@ -19,6 +19,8 @@
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter#readme)
 * [10 интересных репозиториев на GitHub, полезных любому разработчику](https://habr.com/ru/company/plarium/blog/496472/)
 * [Android UI Testing Cookbook](https://android-ui-testing.github.io/Cookbook/home/)
+* [Репозитории Android](https://github.com/fleytman/mob\_tools/blob/main/manuals/ru/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8\_android.md)
+* [Репозитории iOS](https://github.com/fleytman/mob\_tools/blob/main/manuals/ru/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8\_ios.md)
 
 **Youtube**
 
@@ -53,6 +55,8 @@
 * [Как научиться разработке на Python: новый видеокурс Яндекса](https://habr.com/ru/company/yandex/blog/498856/)
 * [Python.org рекомендует: Программирование для НЕпрограммистов](https://habr.com/ru/company/skillfactory/blog/480898/)
 * [Введение в Kotlin JVM](https://stepik.org/course/5448/info)
+* [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/info)
+* [Разработка мобильных приложений для Android](https://stepik.org/course/5703/info)
 
 **Сборники материалов по автоматизации**
 
@@ -67,6 +71,7 @@
 **Площадки для тренировки**
 
 * [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/post/549450/)
+* [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
 * [Сайты-песочницы, на которых можно практиковать написание автотестов](https://blog.noveogroup.ru/2020/01/testovye-ploschadki-dlya-trenirovok/)
 * [Skillotron QA Auto Tests](https://skillotron.com/qualifications/qa-automation)
 * [https://academybugs.com/find-bugs/](https://academybugs.com/find-bugs/)

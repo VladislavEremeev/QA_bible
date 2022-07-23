@@ -24,3 +24,7 @@ _Надежность (reliability): Способность программно
 * [Approaches to Reliability Testing and Setting of Reliability Test Objectives](https://www.softwaretestinggenius.com/approaches-to-reliability-testing-and-setting-of-reliability-test-objectives/)
 * [Reliability Testing and Assessment of Risks due to Poor Reliability](https://www.softwaretestinggenius.com/reliability-testing-and-assessment-of-risks-due-to-poor-reliability/)
 * [Fail-Fast vs. Fail-Safe: What is the Most Reliable Software Strategy?](https://hackernoon.com/fail-fast-vs-fail-safe-what-is-the-most-reliable-software-strategy)
+
+Доп. материал:
+
+* [Тестирование надежности (стабильности)](http://okiseleva.blogspot.com/2022/04/blog-post.html)

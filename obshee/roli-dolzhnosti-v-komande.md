@@ -36,3 +36,4 @@ _Полное изображение со всеми ролями по_ [_ссы
 * [Распространенные поисковые запросы, часть 3: когда должно начинаться тестирование?](https://www.software-testing.ru/library/testing/general-testing/3517--3-)
 * [«Вам звонок». Как выстроить отношения между QA и техподдержкой](https://habr.com/ru/company/youla/blog/550320/)
 * [ПРОДАКТ В IT / Customer development и БОЛЬШИЕ ДЕНЬГИ / Product Management с Виталием Григорашем](https://www.youtube.com/watch?v=ddmAwvymOIs)
+* [Кто такие стейкхолдеры? Определения, типы и примеры](https://testengineer.ru/kto-takie-stejkkholdery/)

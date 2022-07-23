@@ -93,6 +93,9 @@ SDK (software development kit) - это набор функционала (би�
 
 Доп. материал:
 
+* [Список полезных статей и видео для изучения тестирования API](https://habr.com/ru/post/667634/)
+* [Тестирование GraphQL](https://telegra.ph/GraphQL-05-18)
+* [Удачный шаблон документации на API, который будут читать](https://habr.com/ru/post/667884/)
 * [Игорь Гольшмидт. АPI тестирование без документации](https://www.youtube.com/watch?v=9VnBVmo1Muc)
 * [Курс Тестирование ПО. Занятие 29. Тестирование API - QA START UP](https://www.youtube.com/watch?v=7D7AMmgxt\_I\&t=1540s\&ab\_channel=QASTARTUP-ITTrainingCenter)
 * [Курс Тестировщика с нуля / 27 урок/ Тестирование API с помощью Postman](https://www.youtube.com/watch?v=vBkEptmug7c)
@@ -112,7 +115,7 @@ SDK (software development kit) - это набор функционала (би�
 * [19:05 «Контрактное тестирование Rest API»](https://www.youtube.com/watch?v=1cdMYN\_u4lA\&t=1145s) + [презентация](https://drive.google.com/drive/folders/1WERT2pCAJ73qdFaXredTSEmClPuSNs6N)
 * [Организация контрактного тестирования микросервисов и графического портала](https://automated-testing.info/t/organizacziya-kontraktnogo-testirovaniya-mikroservisov-i-graficheskogo-portala/22763)
 * [Introduction To Contract Testing With Examples](https://www.softwaretestinghelp.com/contract-testing/)
-* [Микросервисы для разработчиков Java: Контрактное тестирование](https://coderlessons.com/articles/programmirovanie/mikroservisy-dlia-razrabotchikov-java-testirovanie#:\~:text=7.-,%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5,-%D0%92%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B9)
+* [Микросервисы для разработчиков Java: Контрактное тестирование](https://coderlessons.com/articles/programmirovanie/mikroservisy-dlia-razrabotchikov-java-testirovanie)
 * [Как тестировать GraphQL API? Гайд для начинающих](https://testengineer.ru/kak-testirovat-graphql-api/)
 * [Что такое API](https://telegra.ph/CHto-takoe-API-11-01)
 * [Что такое API](http://okiseleva.blogspot.com/2019/08/api.html?m=1)

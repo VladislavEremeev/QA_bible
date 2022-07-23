@@ -44,6 +44,7 @@ _Тестовый сценарий низкого уровня (low level test c
 Доп. материал:
 
 * [Тест-кейсы: полная лекция из ШНАТ](https://www.youtube.com/watch?v=0xuOOlhb5SQ)
+* [Тест-кейсы по полочкам - как в библиотеке! Наводим порядок в структуре и содержании тестовой документации](https://habr.com/ru/company/lenta\_utkonos\_tech/blog/668968)
 * [Составление тест-кейсов](https://www.youtube.com/watch?v=VG8hAQjxAkI)
 * [12 характеристик высокоэффективных тестов](https://software-testing.ru/library/testing/test-analysis/3495-12-traits-of-highly-effective-tests)
 * [Blog: Evaluating Test Cases, Checks, and Tools](https://www.developsense.com/blog/2021/04/evaluating-test-cases-checks-and-tools/)

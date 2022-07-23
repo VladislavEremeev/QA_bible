@@ -105,6 +105,7 @@
 
 Доп. материал:
 
+* [Что нужно знать тестировщику без опыта (Junior QA Engineer)?](https://www.youtube.com/watch?v=DCImUUyQ\_Fs)
 * [Собеседование QA - Старт карьеры тестировщика в 2022 году](https://www.youtube.com/watch?v=kYgmffIHb0w)
 * [Знания и навыки, необходимые для работы в тестировании в 2022 году](https://habr.com/ru/post/656027/)
 * [Собеседование тестировщика на Западе: список вопросов](https://testengineer.ru/sobesedovanie-na-testirovshchika-v-zapadnyh-stranah/)
@@ -133,20 +134,24 @@
 * [Устану ли я играть, нужно ли уметь кодить и чем вообще занимаются QA в геймдеве](https://habr.com/ru/company/lightmap/blog/650245/)
 * [Практика обучения в QA отделе. Профиль тестировщика](https://habr.com/ru/company/usetech/blog/659305/)
 * [Реестр профессиональных стандартов - Специалист по тестированию в области информационных технологий](https://profstandart.rosmintrud.ru/obshchiy-informatsionnyy-blok/natsionalnyy-reestr-professionalnykh-standartov/reestr-professionalnykh-standartov/index.php?ELEMENT\_ID=57024)
+* [Работа в продуктовой компании: какие навыки нужны тестировщику](https://www.software-testing.by/blog/rabota-v-produktovoj-kompanii-kakie-navyki-nuzhny-testirovshhiku/)
 
 Английский:
 
 * [Как тестировщику учить английский язык](https://software-testing.ru/library/around-testing/job/3591-english-for-qa-engineers)
 * [Таблица уровней английского языка](https://englex.ru/english-levels-table/)
+* [Английский для тестировщиков - как надо](https://habr.com/ru/post/668586/)
 * Марафон “Как IT-специалисту заговорить по-английски за 6 недель”: [часть 1](https://dt9xom8irs6kr.cloudfront.net/u256113/456701-5237085293807285895.mp4) + [часть 2](https://dt9xom8irs6kr.cloudfront.net/u256113/463400-3382237430755091928.mp4) + [часть 3](https://dt9xom8irs6kr.cloudfront.net/u256113/491184-811669784489900464.mp4)
 * [EngVid.com](https://www.engvid.com)
 * [Плейлист “Essential English Grammar или Красный Мёрфи (уровень elementary A1-A2) - лучшая английская грамматика для начинающих”](https://www.youtube.com/playlist?list=PLYB0SmefqEsniU1UbGzrfhNCV3noALHj7)
 * [QA English Basics - тренинг по английскому языку](https://www.youtube.com/watch?v=YCXw-MB5OBY\&t=469s)
 * [Английский для тестировщика (QA Engineer) / Мой топ English ресурсов](https://www.youtube.com/watch?v=vMudS9qnyyc)
 * [English with Lucy](https://www.youtube.com/c/EnglishwithLucy/playlists)
-* [Большая подборка](https://vk.com/topic-127171939\_34549533#:\~:text=%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20\(%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9\)%20%2B%20%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8)
+* [Большая подборка](https://vk.com/topic-127171939\_34549533)
 * [Как я осилил английский](https://habr.com/ru/post/413633/)
 * [Учим английский дешево и эффективно](https://habr.com/ru/post/369695/)
 * [Очень много YouTube-каналов для прокачки английского языка для программистов](https://habr.com/ru/post/465731/)
 * [9 четких инструментов для изучения и прокачки английской лексики](https://habr.com/ru/company/englishdom/blog/490736/)
 * [Экзамены TOEFL/IELTS как ориентир для развития. Фундаментальные апгрейды языка и их польза для разработчика](https://habr.com/ru/post/512346/)
+* [Выучить английский самостоятельно вполне реально, если вы айтишник. И вот почему](https://habr.com/ru/post/671174/)
+* [Пассивный залог в английском для тестировщиков](https://pointschool.ru/passivnyj-zalog-v-anglijskom-dlya-testirovshchikov/)

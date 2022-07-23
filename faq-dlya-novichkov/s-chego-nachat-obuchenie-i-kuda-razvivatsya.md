@@ -24,6 +24,7 @@ _Уровень 0: базовый курс по Computer Science._
 
 * [Направления развития для Junior QA в рамках процессов тестирования](https://www.youtube.com/watch?v=VUiOtjFVVAU)
 * [Как стать тестировщиком с нуля](https://habr.com/ru/company/plarium/blog/561454/)
+* [Взгляд на ИТ-Нарнию: путь от джуна до Senior в финтехе](https://habr.com/ru/company/smart\_it/blog/672654/)
 * [Как учиться, чтобы научиться](https://dou.ua/lenta/columns/how-to-learn/)
 * [Где начинающему тестировщику взять опыт для первой QA работы?](https://www.youtube.com/watch?v=3O78nFUEOzc)
 * [Где начинающему тестировщику получить первый опыт: проект «Хомячки»](https://habr.com/ru/company/yandex\_praktikum/blog/567470/)

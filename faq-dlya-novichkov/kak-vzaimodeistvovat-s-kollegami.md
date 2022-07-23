@@ -69,3 +69,4 @@
 * [Почему разработчики иногда отказываются исправлять баги](https://dou.ua/forums/topic/35024/)
 * [Управление конфликтами](https://t.me/general\_it\_talks/204)
 * [Как "продать" баг разработчику](https://www.youtube.com/watch?v=wGyAW3l\_SxA)
+* [Пойми меня, если сможешь. Или как донести мысль заказчику (понятно и с первого раза)](https://habr.com/ru/company/surfstudio/blog/674418/)

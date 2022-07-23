@@ -1,5 +1,6 @@
 # Другое
 
+* [Нюансы тестирования голосового помощника в банковском приложении](https://habr.com/ru/company/alfa/blog/663442/)
 * [Как тестировать транзакции Visa и Mastercard в финтех-приложении](https://dou.ua/forums/topic/34554/)
 * [О чем нужно помнить, тестируя носимые устройства](https://dou.ua/forums/topic/35700/)
 * [WebRTC лицом к лицу. Нагрузочный тест видео чата](https://habr.com/ru/company/flashphoner/blog/570308/)

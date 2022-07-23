@@ -284,6 +284,7 @@
 
 Доп. материалы:
 
+* [Web Testing Specific (особенности тестирования Web)](https://habr.com/ru/company/space307/blog/668974/)
 * [Тестирование веб-проектов. Основные этапы и практические советы.](https://www.youtube.com/watch?v=GyE-TMG1HUA)
 * [Best Web Application Testing Tools (Free and Paid) for 2022](https://www.softwaretestingmaterial.com/web-application-testing-tools/)
 * [Чек-лист тестирования WEB приложений](https://habr.com/ru/post/542422/)

@@ -41,7 +41,7 @@
 39. У вас есть функционал калькулятора, доступный через веб браузер по ссылке . Он имеет только функцию делить, так сказать, MVP-версию. Диапазоны для вписывания в числитель и делитель от 0,1 до 99,9. Вывод значения происходит автоматически, потому что front-end реализован на React JS. Как вы будете тестировать этот функционал? Какие виды тестирования примените? Какие техники тест-дизайна используете?
 40. [Несколько примеров задач с решениями](https://drive.google.com/file/d/1bUoYe6KeNO8bR3hhv-9ChuNPo0CwG1PX/view)
 41. [Тестовое задание на позицию специалист по тестированию (QA специалист) в СПб ИАЦ](https://docs.google.com/document/u/0/d/1xJuebAdcFSBQtVpmvWjjkPDXLalvx2gAjd8Fhe\_UTg4/mobilebasic)
-42. [Тестовое задание для специалиста по тестированию](https://docs.google.com/document/d/19wWZLQNDe8DSHZ8BAuX-DFa62SRYBy3qOKJAgqCqqQs/edit#) + [Инструкция](https://docs.google.com/document/d/18289fUEOSX1pmaLVBFmOMf32s1vAd5uVOLiTNoaLB40/edit#)
+42. [Тестовое задание для специалиста по тестированию](https://docs.google.com/document/d/19wWZLQNDe8DSHZ8BAuX-DFa62SRYBy3qOKJAgqCqqQs/edit) + [Инструкция](https://docs.google.com/document/d/18289fUEOSX1pmaLVBFmOMf32s1vAd5uVOLiTNoaLB40/edit)
 43. [Тестирование программы, которая определяет тип треугольника по трем его сторонам](https://playground.learnqa.ru/puzzle/triangle)
 44. Тестовое задание: написать кейсы для [нового метода API](https://disk.yandex.ru/i/esax6PM2rZxLTw)
 45. [Тестовое задание на позицию специалист по тестированию (QA специалист) в СПб ИАЦ](https://docs.google.com/document/u/0/d/1kQ\_WOYty6\_2jO4b8avLsIbRKl\_wEYAxaLINPglZXYg4/mobilebasic)
@@ -86,4 +86,5 @@
 * [Как бы вы протестировали дверь?](https://tproger.ru/quiz/kak-by-vy-protestirovali-dver/)
 * [Баги ListBoxer](https://software-testing.ru/forum/index.php?/topic/37944-bagi-listboxer/)
 * [Решение задачи: Палиндром](http://ap-test-team.blogspot.com/2011/08/blog-post.html)
+* Тестовые задания: [раз](https://www.youtube.com/watch?v=Oafuzm8zcC8), [два](https://www.youtube.com/watch?v=9qc-7Gh6\_DU), [три](https://www.youtube.com/watch?v=RU1\_LAzJ3dw), [четыре](https://www.youtube.com/watch?v=XYDgk1cdFLU)
 * Множество практических задач с разбором было на [стримах Вадима Ксендзова](https://www.youtube.com/channel/UC6hNNlCXv1ZgdGpziNf83RA/videos)

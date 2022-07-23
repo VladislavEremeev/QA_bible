@@ -209,5 +209,6 @@ Android поддерживает множество различных квал�
 
 Доп. материал:
 
+* [Android Developers - Docs - Activity](https://developer.android.com/reference/android/app/Activity)
 * YaTalks 2021. Mobile: [Современная архитектура android приложений](https://www.youtube.com/watch?v=0AQlKbskhkM\&t=18671s) + [презентация](https://disk.yandex.ru/i/ecrzwwYKTlbkgA)
 * [Видео: Урок 23. Жизненный цикл активити (Activity Lifecycle)](https://www.youtube.com/watch?v=vv9w9\_l17z4)

@@ -95,7 +95,6 @@ _Тестовое условие (test condition): Объект или собы�
     * Domain testing
     * Decision Table Testing
     * Classification Tree Method
-    * State Transition Testing
     * Cause-Effect Graphing
     * Scenario Testing
     * Random Testing
@@ -117,8 +116,10 @@ _Тестовое условие (test condition): Объект или собы�
 * [Test Design: A Survey of Black Box Software Testing Techniques](http://www.testingeducation.org/BBST/testdesign/) (видеолекции + доп.материалы)
 * Борис Бейзер - “Тестирование черного ящика. Технологии функционального тестирования программного обеспечения и систем”
 * [Hillel - Техники тест-дизайна](https://www.youtube.com/watch?v=hJoChcIQFaE) (доклад с примерами)
+* [Тест-дизайн. Что это такое? Тест дизайн в тестировании ПО. Test design](https://www.youtube.com/watch?v=x8QI3vNxg-8)
 * [Лекция 3: Критерии выбора тестов](https://intuit.ru/studies/courses/48/48/lecture/1428)
 * [NIXMultiConf: Игорь Ямшанов - Приоритезация: начни с самого важного](https://www.youtube.com/watch?v=qkUCzvP-5mg\&t=20547s\&ab\_channel=NIX)
 * [Armando1514/Software-testing-techniques](https://github.com/Armando1514/Software-testing-techniques)
 * [The ABCs of Acceptance Test Design](https://dzone.com/articles/the-abcs-of-acceptance-test-design)
 * [Software testing methodologies](https://mrcet.com/downloads/digital\_notes/CSE/III%20Year/Software%20Testing%20Methodologies.pdf)
+* [Анализ тестов - как выкидывать лишнее](https://habr.com/ru/post/670428/)

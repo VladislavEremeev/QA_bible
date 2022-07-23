@@ -152,3 +152,6 @@ _Менеджмент тестирования (test management): Планиро
 * [QA Department с нуля. Построение эфф-ного взаимодействия с Client Support team в IT product company](https://www.youtube.com/watch?v=teEqTwwhXjQ)
 * [Исследовательское тестирование 21 века. Тестируем команду, процессы и тестовую модель](https://www.youtube.com/watch?v=h6kBCjE18Ow)
 * [Маленькие тайны тестирования большой LMS](https://habr.com/ru/company/arcadia/blog/516390/)
+* [Как правильно (не) использовать тестировщиков](https://habr.com/ru/company/jugru/blog/661623/)
+* [Почему команда работает плохо? Очень много о регламентах и процессах](https://habr.com/ru/post/673808/)
+* [Как не переборщить с контролем качества?](https://telegra.ph/Kak-ne-pereborshchit-s-kontrolem-kachestva-06-16)

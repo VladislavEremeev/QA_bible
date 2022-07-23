@@ -135,3 +135,5 @@
 * [How To Perform Automation Testing Of JAVA/J2EE Applications (Part 2)](https://www.softwaretestinghelp.com/automated-testing-of-j2ee-applications-part-2/)
 * [Как мы научились запускать 10-часовые UI-тесты за 5 минут в условиях 30 релизов в день](https://habr.com/ru/company/sberbank/blog/660891/)
 * [Как мы организовали «Автошколу» и научили тестировщиков писать автотесты](https://telegra.ph/Kak-my-organizovali-Avtoshkolu-i-nauchili-testirovshchikov-pisat-avtotesty-04-12)
+* [QA без рутины: как мы автоматизировали регрессионное тестирование](https://habr.com/ru/company/mygames/blog/665576/)
+* [Функциональные тесты на проекте: жизнь до и после (на примерах)](https://habr.com/ru/company/skyeng/blog/659559/)

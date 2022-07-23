@@ -112,12 +112,18 @@
 
 _Примечание: в свете последних анонсов раскладных смартфонов и Android 12L, следует также при необходимости учитывать такие кейсы._
 
+_Примечание (1): Внимательно изучаем изменения в новых релизах Android и iOS._ [_Ссылка для Android_](https://developer.android.com/about/versions)_, выбираем интересующую версию и читаем New features and APIs и Behavior changes._ [_Ссылка для iOS_](https://developer.apple.com/documentation/ios-ipados-release-notes)_._
+
 Источники:
 
 * [Чек-лист тестирования мобильных приложений](https://habr.com/ru/post/534190/)
 
 Доп. материал:
 
+* [Core app quality](https://developer.android.com/docs/quality-guidelines/core-app-quality)
+* [Большой гайд по тестированию Android-приложений](https://testengineer.ru/bolshoj-gajd-po-testirovaniyu-android-prilozhenij/)
+* [Тестирование мобильных приложений: особенности и примеры](https://www.youtube.com/watch?v=vGTMsTec2RE)
+* [Тестирование Мобильных Приложений - урок 1 в открытом курсе по Тестированию Программного Обеспечения](https://www.youtube.com/watch?v=Ts9Q2I3DmkM)
 * [Распространенные баги на iOS](https://telegra.ph/bagi-na-iOS-02-05)
 * [Распространенные баги на Android](https://telegra.ph/bagi-na-android-10-07)
 * [ISTQB Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)

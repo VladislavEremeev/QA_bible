@@ -17,6 +17,7 @@
 * [Миф об образе мышления в тестировании](https://telegra.ph/Mif-ob-obraze-myshleniya-v-testirovanii-02-10)
 * [Важные навыки тестировщика](https://software-testing.ru/library/testing/general-testing/3599-bloggers-club-essential-skills-for)
 * [How to Think Like a Tester](https://medium.com/@blakenorrish/how-to-think-like-a-tester-7a174ff6aeaf)
+* [Как нанять тестировщика](https://blog.serioustester.io/W9OOg3DkX6J)
 
 Про soft-skills:
 

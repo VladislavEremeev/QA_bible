@@ -28,6 +28,7 @@ _Стратегия тестирования (test strategy): Высокоуро
 Доп. материал:
 
 * [Большая качественная подборка материалов по теме](https://www.huibschoots.nl/wordpress/?page\_id=441#strategy)
+* [Пишем стратегию тестирования для Agile/Scrum-проекта](https://habr.com/ru/company/ru\_mts/blog/666092/)
 * [Practical test strategy using heuristics](https://huddle.eurostarsoftwaretesting.com/resources/test-management/practical-test-strategy-using-heuristics/)
 * [Creating a Quality Strategy](https://thinkingtester.com/creating-a-quality-strategy/)
 * [Стратегия обеспечения качества и вопросы в процессе ее составления](https://testengineer.ru/strategiya-obespecheniya-kachestva/)

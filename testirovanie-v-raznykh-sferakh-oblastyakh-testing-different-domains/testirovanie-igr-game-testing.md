@@ -210,3 +210,4 @@
 * [ISTQB Gambling Industry Tester](https://www.istqb.org/certification-path-root/gambling-industry-tester.html)
 * [Podlodka #252 - Теория игр](https://www.youtube.com/watch?v=ClSI4w4AcpQ)
 * [Как тестировать игровой баланс?](https://www.youtube.com/watch?v=Xf\_RwCpT7hY)
+* [Особенности работы QA в геймдеве](https://www.youtube.com/watch?v=gs3NbPeS5q0)

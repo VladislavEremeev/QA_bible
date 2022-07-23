@@ -88,6 +88,7 @@
 
 Доп. материал:
 
+* [Тестирование безопасности / Пентест / Тестирование на проникновение](https://www.youtube.com/watch?v=C0euAbFaT4s)
 * [Список книг по наступательной информационной безопасности](https://habr.com/ru/company/vk/blog/282700/)
 * [Топ-10 уязвимостей мобильных приложений и способы их устранения](https://habr.com/ru/company/ruvds/blog/537456/)
 * [Безопасность веб-приложений: от уязвимостей до мониторинга](https://habr.com/ru/post/526878/)
@@ -107,7 +108,7 @@
 * [Тестирование безопасности API - Катерина Овеченко. QA Fest 2019](https://www.youtube.com/watch?v=46N\_zodwzKA)
 * [Как провести тестирование на безопасность: руководство для Manual QA](https://dou.ua/lenta/articles/security-testing-vulnerabilities/)
 * [Типы атак и уязвимостей](https://docs.wallarm.ru/attacks-vulns-list/)
-* [Open Web Application Security Project (OWASP) TOP 10 2017](https://owasp.org/www-project-top-ten/2017/#)
+* [Open Web Application Security Project (OWASP) TOP 10 2017](https://owasp.org/www-project-top-ten/2017/)
 * [Что такое OWASP Top-10 и как использовать указанные риски и уязвимости](https://blog.themarfa.name/chto-takoie-owasp-top-10-i-kak-ispolzovat-ukazannyie-riski-i-uiazvimosti/)
 * [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL\_Injection\_Prevention\_Cheat\_Sheet.html)
 * [Web Authentication, Session Management, and Access Control Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Session\_Management\_Cheat\_Sheet.html)

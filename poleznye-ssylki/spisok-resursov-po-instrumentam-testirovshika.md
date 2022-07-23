@@ -1,18 +1,5 @@
 # Список ресурсов по инструментам тестировщика
 
-* Мультитул: DevTools;
-* Снифферы: Charles Proxy, Fiddler;
-* Тестирование API: Postman, SoapUI;
-* Тестирование производительности: JMeter;
-* Тестирование безопасности: Kali linux, Santoku Linux + drozer, OWASP ZAP, … ;
-* Тестирование UI/UX: Figma, Zeplin, любой mind map - like продукт;
-* Фермы устройств для тестирования мобильных приложений: BrowserStack, Xamarin, AWS;
-* Инструменты тестирования мобильных приложений;
-* Системы контроля версий: GIT;
-* Взаимодействие с базами данных: язык SQL, системы СУБД;
-* Системы CI/CD: Jenkins/TeamCity;
-* Прочее: мессенджеры, баг-трекинговые системы и TMS, генераторы тестовых данных и т.п.
-
 **DevTools**:
 
 * В каждый современный браузер встроены инструменты разработчика - они позволяют быстро отловить и исправить ошибки в разметке или в коде. С их помощью можно узнать, как построилось DOM-дерево, какие теги и атрибуты есть на странице, почему не подгрузились шрифты и многое другое:
@@ -59,6 +46,11 @@ Postman представляет собой мультитул для тести
 * [curl - учимся тестировать API](https://testengineer.ru/curl-uchimsya-testirovat-api/)
 * [Как мы тестируем Rest API в SM 2.0 с помощью Postman: сценарии, запросы, переменные окружения и немного автотестов](https://habr.com/ru/company/sportmaster\_lab/blog/646365/)
 * [Swagger: что это такое, и как с ним работать?](https://highload.today/swagger-api/)
+* [Основы Cypress: тестирование API](https://www.software-testing.ru/library/testing/testing-tools/3809-cypress-basics-api-testing)
+* [SOAP API](https://telegra.ph/SOAP-API-05-08)
+* [SOAP UI](https://telegra.ph/SOAP-UI-05-09)
+* [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/)
+* [Как выбрать инструмент для тестирования API](https://habr.com/ru/company/simbirsoft/blog/675878/)
 * **Открытые и тренировочные API**:
   * [Список открытых API](https://github.com/public-apis/public-apis)
   * [Обзор сайтов с API документацией](https://github.com/docops-hq/learnapidoc-ru/blob/master/Publishing-doc/API-doc-sites-list.md#100-)
@@ -146,6 +138,7 @@ Git - это система контроля версий, которая упр
 * [Git простыми словами](https://www.youtube.com/watch?v=l26-jDN64o4)
 * [Как установить Git и выкачать репозиторий](https://www.youtube.com/watch?v=lZdGWJtrsNw)
 * [GitFlic](https://gitflic.ru) - первый российский сервис для хранения кода и работы с ним
+* [Шпаргалка по консольным командам Git](https://github.com/cyberspacedk/Git-commands)
 * _Практическое задание: форкнуть себе репозиторий QA bible :)_
 
 **SQL**:
@@ -253,9 +246,10 @@ Git - это система контроля версий, которая упр
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 * [artillery.io](https://artillery.io)
 * [Top 10 лучших инструментов для нагрузочного тестирования](https://www.performance-lab.ru/blog/luchshie-instrumenty-dlya-nagruzochnogo-testirovaniya)
-* [10 инструментов тестирования производительности мобильных приложений](https://proglib.io/p/10-instrumentov-testirovaniya-proizvoditelnosti-mobilnyh-prilozheniy-2020-09-20#:\~:text=Akamai%20CloudTest%20%E2%80%93%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE,%D0%B8%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.%20%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%3A)
+* [10 инструментов тестирования производительности мобильных приложений](https://proglib.io/p/10-instrumentov-testirovaniya-proizvoditelnosti-mobilnyh-prilozheniy-2020-09-20)
 * [Топ-15 бесплатных инструментов для нагрузочного тестирования](https://testengineer.ru/besplatnye-instrumenty-dlya-nagruzochnogo-testirovaniya/)
 * [Использование Gatling. Разбираемся в тестировании HTTP](https://habr.com/ru/company/tinkoff/blog/658479/)
+* [Тестирование производительности API с помощью K6](https://testengineer.ru/testirovanie-proizvoditelnosti-api-s-pomoshchyu-k6/)
 
 **Mind maps**:
 
@@ -279,6 +273,10 @@ Git - это система контроля версий, которая упр
 * [10 Best test management tools for JIRA in 2022](https://theqalead.com/tools/test-management-tools-for-jira/)
 * [Successfully Managing Test Cases: Finding the Right Test Case Tool](https://blog.gurock.com/right-test-case-tool/)
 * [Allure. В поисках почти идеальной TMS](https://habr.com/ru/post/571476/)
+* [FAQ по баг-трекингу JIRA](https://www.youtube.com/watch?v=rxyc1OXTijc)
+* Руководство по лучшему программному обеспечению для отслеживания проблем: [часть 1](https://habr.com/ru/company/otus/blog/660821/), [часть 2](https://habr.com/ru/company/otus/blog/666360/)
+* [Баг-трекинговые системы: Jira и альтернативные варианты](https://testengineer.ru/bag-trekingovye-sistemy-jira-i-alternativnye-varianty/)
+* [Рациональный выбор системы управления тестированием](https://habr.com/ru/company/domrf/blog/672780/)
 
 **Полезные расширения для браузера**:
 
@@ -417,6 +415,6 @@ Git - это система контроля версий, которая упр
 * [Воркшоп: Инструменты для дебага сети / Евгений Рядовой (СберМаркет)](https://www.youtube.com/watch?v=Bf9WDqwHWAc)
 * [Как установить два независимых Chrome браузера на один ПК](https://www.youtube.com/watch?v=tyg15uz2F1M)
 * [Инструменты коммуникации для QA, и не только](https://www.youtube.com/watch?v=W2N9ALAqHSE)
-* [Application monitoring and error tracking software](https://sentry.io/welcome/#)
+* [Application monitoring and error tracking software](https://sentry.io/welcome/)
 * [Katacoda - Learn new technologies using real environments right in your browser](https://www.katacoda.com)
 * [TestRail и дополнительные инструменты для тестировщика](https://www.youtube.com/watch?v=XQ7MoUT7rEk)
