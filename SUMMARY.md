@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Введение](README.md)
+* [❄ ☃️Введение 🎅🏻🎁](README.md)
 * [FAQ для новичков](faq-dlya-novichkov/README.md)
   * [Ответы на самые популярные вопросы новичков в чатах](faq-dlya-novichkov/otvety-na-samye-populyarnye-voprosy-novichkov-v-chatakh.md)
   * [Качества и навыки, которыми нужно обладать тестировщику?](faq-dlya-novichkov/kachestva-i-navyki-kotorymi-nuzhno-obladat-testirovshiku.md)

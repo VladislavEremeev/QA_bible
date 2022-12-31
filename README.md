@@ -1,6 +1,6 @@
-# Введение
+# ❄ ☃️Введение 🎅🏻🎁
 
-![](https://lh4.googleusercontent.com/3vOk0NqvhT3rVjNa-n8BtCfTWXq2sdBu1dUVsZvK3-gkD8c3KhsH2BL6TPX5KDFr2lEhuSqm\_bcy3UwAQFOpY6MlE\_PEBiR5g9uzJuS5SaAZI9oyhAG77QhmJXHvXhPuFVRTa\_wK)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Что это за проект?**
 
