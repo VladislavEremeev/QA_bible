@@ -38,6 +38,7 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 * Канал для тестировщиков, как для новичков, так и для бывалых @[qa\_and\_it](https://t.me/qa\_and\_it)
 * [QA House](https://t.me/+Thq0wPneQ2FLTx0O) - группа, объединяющая QA специалистов со всех уголков земли
 * Группа канала AllaboutQA @[AllaboutQA](https://t.me/AllaboutQA)
+* Чат по поддержки AQA фреймворков @[Test IT](https://t.me/TestIT_automation_com)
 * Чаты по penetration testing (pen test, pentest):
   * @[true\_secator](https://t.me/true\_secator)
   * @[pentesting\_channel](https://t.me/pentesting\_channel)
@@ -235,6 +236,7 @@ Must have (потому что [раз](https://t.me/general\_it\_talks/161), [�
 * [Есть фича. Помогите протестировать!](https://www.youtube.com/watch?v=4S95hZXBhMg)
 * [Как накидать тестов на некий функционал](https://www.youtube.com/watch?v=drO2aI3nLvo)
 * [Как накидать тестов на что-нибудь](https://www.youtube.com/watch?v=cmlI5aJxdwE)
+* [Чек-лист для начинающего автотестера на Java](https://testit.software/blog/post/chek-list-dlya-nachinayushchego-avtotestera-na-java)
 
 [**Блоги**](https://www.maxshulga.ru/2016/06/useful-testers-resources.html?m=1):
 

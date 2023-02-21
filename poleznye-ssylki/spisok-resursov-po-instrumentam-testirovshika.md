@@ -165,7 +165,7 @@ Git - это система контроля версий, которая упр
   * [guru99 - SQL Tutorial for Beginners: Learn SQL in 7 Days](https://www.guru99.com/sql.html)
   * [SQL запросы быстро. Часть 1](https://habr.com/ru/post/480838/)
   * [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/post/448072/)
-  * [Плейлист ](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)по основам
+  * [Плейлист](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)по основам
   * [Видеокурс “How to… SQL Essential”](https://www.youtube.com/playlist?list=PLvItDmb0sZw8BsPPGyZwGBDFjUgoxadKJ)
 * Продвинутый уровень
   * [Энтони Молинаро "SQL. Сборник рецептов"](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/1492077445/ref=sr\_1\_2?dchild=1\&keywords=sQL\&qid=1613292997\&s=books\&sr=1-2)
@@ -262,6 +262,7 @@ Git - это система контроля версий, которая упр
 
 **TMS**:
 
+* [Test IT](https://testit.software)
 * [Allure TestOps](https://qameta.io)
 * [Топ-12 лучших систем управления тестированием 2020](https://habr.com/ru/post/522474/)
 * [Инструмент на века - гугл таблицы](https://docs.google.com/spreadsheets/u/0/)
@@ -418,3 +419,5 @@ Git - это система контроля версий, которая упр
 * [Application monitoring and error tracking software](https://sentry.io/welcome/)
 * [Katacoda - Learn new technologies using real environments right in your browser](https://www.katacoda.com)
 * [TestRail и дополнительные инструменты для тестировщика](https://www.youtube.com/watch?v=XQ7MoUT7rEk)
+* [Как тестируют документацию в Test IT](https://habr.com/ru/company/testit-tms/blog/564666/)
+* [Как правильно оформить баг-репорт](https://testit.software/blog/post/kak-pravilno-oformit-bag-report)
