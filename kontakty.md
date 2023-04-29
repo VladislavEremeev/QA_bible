@@ -4,11 +4,11 @@
 
 **Автор: Еремеев Владислав**
 
-****[**GitHub**](https://github.com/VladislavEremeev/QA\_bible) | [**LinkedIn**](https://www.linkedin.com/in/vladislaveremeev/) | [**Telegram**](https://t.me/Vladislav\_Eremeev)
+[**GitHub**](https://github.com/VladislavEremeev/QA\_bible) | [**LinkedIn**](https://www.linkedin.com/in/vladislaveremeev/) | [**Telegram**](https://t.me/Vladislav\_Eremeev)
 
 ***
 
-_**На чай с печеньками можно закинуть на баланс +79044121375 или переводом на Alfa Bank по этому же номеру.** Для международных переводов возможно работает_ [_QIWI_](https://qiwi.com/n/VLADISLAV610)_, не проверял._
+_**На чай с печеньками можно закинуть на баланс +79951344000**_ _**или переводом на Tinkoff по этому же номеру (РФ).**_
 
 
 
