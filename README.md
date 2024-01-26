@@ -2,6 +2,10 @@
 
 <figure><img src=".gitbook/assets/5fb0706dfacf60e0d6152bfa2c39d6db.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+<mark style="color:red;background-color:orange;">**WARNING! АВТОР НЕ ПРОВОДИТ НИКАКИХ СТАЖИРОВОК И НЕ ЗАНИМАЕТСЯ ТЕСТИРОВАНИЕМ ИГР! Ссылки на мои единственные аккаунты в соц.сетях в разделе контакты**</mark>
+{% endhint %}
+
 **Что это за проект?**
 
 “[**Библия QA**](https://vladislaveremeev.gitbook.io/qa\_bible/)” - это обновляемая база знаний объемом 560+ страниц:
