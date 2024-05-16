@@ -14,3 +14,6 @@
 Доп. материал:
 
 * [Тестирование тестировщиков](https://habr.com/ru/company/hh/blog/571364/)
+* [Разбор тестовых заданий для Junior QA](https://youtu.be/e12TjJHux1Y?si=vatYXsdX_wR7SbVS)
+* [Практическое тестовое задание на позицию тестировщика](https://youtu.be/3Ufo23ylSPU?si=D8oMEhS50UaeIw-G)
+* [Большая подборка тестовых заданий для тестировщиков. Гайд и рекомендации](https://habr.com/p/790438/)

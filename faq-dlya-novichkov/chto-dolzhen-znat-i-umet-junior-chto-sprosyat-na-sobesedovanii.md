@@ -3,15 +3,16 @@
 Конкретного ответа на этот вопрос нет, всё зависит от компании и вакансии. Ожидания в двух разных компаниях и даже проектах могут не пересекаться совершенно никак. Мидл+ из одной компании может оказаться джуном- в другой.\
 Если всё же пытаться вывести среднее, то вот несколько ссылок:
 
-* [QA RoadMap 2021](https://disk.yandex.ru/i/x\_hOsnoxVMoB-A)
+* [QA RoadMap 2024](https://roadmap.sh/qa)
 * [QE learning roadmap](https://github.com/bnorrish/qe-learning-roadmap/blob/main/Quality%20Engineer%20Roadmap.pdf)
 * [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 * [Junior QA](https://www.mindmeister.com/ru/1324282825/junior-qa?fullscreen=1)
-* [QA Специалист](https://www.mindmeister.com/ru/1558647509?t=973hdS2AKb)
 * [QA Roadmap](https://miro.com/app/board/o9J\_lXUgVuQ=/)
 * [Quality Engineer Learning Roadmap](https://medium.com/slalom-build/quality-engineer-learning-roadmap-fddfcb77409e)
 * [Пост “Что нужно знать junior QA engineer”](https://t.me/shooandendlessagony/2)
 * [Святослав Куликов “Тестирование программного обеспечения. Базовый курс”](https://svyatoslav.biz/software\_testing\_book/). 4.1. Карьера тестировщика
+* [Джуниоры-тестировщики в 2024 году: какие нужны скилы и как проходит процесс найма](https://habr.com/p/790656/)
+
 
 Некоторые компании подробно расписывают на своих порталах ожидания от каждой стадии развития сотрудника, по этой же теме много видео на Youtube ([раз](https://www.youtube.com/watch?v=l9ezImoh5ac\&feature=emb\_logo\&ab\_channel=LearnQA%3A%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2), [два](https://www.youtube.com/watch?v=wDHZsoZIxcY\&ab\_channel=LearnQA%3A%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2), [три](https://www.youtube.com/watch?v=tzOhRHVX6ko\&ab\_channel=QAQC), [четыре](https://www.youtube.com/watch?v=5DGuDT98EC0\&ab\_channel=AzatZakuanov), …). Более практичный ориентир - просто открыть и почитать интересующие вакансии, выписывая повторяющиеся пункты.
 
@@ -120,7 +121,7 @@
 * [Качественное тестирование ПО](https://habr.com/ru/company/otus/blog/530290/)
 * [Пути развития тестировщика. Карьера QA Engineer](https://www.youtube.com/watch?v=m7tQyFGU4Ls)
 * [Challenge accepted: карьера тестировщика](https://habr.com/ru/article/561354/)
-* Грейды на примере разработки: [раз](https://vas3k.ru/inside/39/levels/), [два](https://maximgorbatyuk.gitbook.io/knowledge-base/management/2019-09-08-developer-skill-matrix)
+* Грейды на примере разработки: [раз](https://vas3k.ru/inside/39/levels/), [два](https://habr.com/ru/companies/tochka/articles/811649/)
 * [Как стать QA-лидом - теория и практические советы](https://testengineer.ru/kak-stat-qa-lidom/)
 * [Что должен знать тестировщик без опыта](https://www.youtube.com/watch?v=96f8fqqumhE)
 * [Leadership in test: managing your career](https://theqalead.com/topics/managing-your-testing-career/)
@@ -134,7 +135,7 @@
 * [Устану ли я играть, нужно ли уметь кодить и чем вообще занимаются QA в геймдеве](https://habr.com/ru/company/lightmap/blog/650245/)
 * [Практика обучения в QA отделе. Профиль тестировщика](https://habr.com/ru/company/usetech/blog/659305/)
 * [Реестр профессиональных стандартов - Специалист по тестированию в области информационных технологий](https://profstandart.rosmintrud.ru/obshchiy-informatsionnyy-blok/natsionalnyy-reestr-professionalnykh-standartov/reestr-professionalnykh-standartov/index.php?ELEMENT\_ID=57024)
-* [Работа в продуктовой компании: какие навыки нужны тестировщику](https://www.software-testing.by/blog/rabota-v-produktovoj-kompanii-kakie-navyki-nuzhny-testirovshhiku/)
+* [Работа в продуктовой компании: какие навыки нужны тестировщику](https://www.software-testing.by/blog/product-qa-skills/)
 
 Английский:
 
@@ -155,3 +156,4 @@
 * [Экзамены TOEFL/IELTS как ориентир для развития. Фундаментальные апгрейды языка и их польза для разработчика](https://habr.com/ru/post/512346/)
 * [Выучить английский самостоятельно вполне реально, если вы айтишник. И вот почему](https://habr.com/ru/post/671174/)
 * [Пассивный залог в английском для тестировщиков](https://pointschool.ru/passivnyj-zalog-v-anglijskom-dlya-testirovshchikov/)
+* [A2 English for Developers](https://www.freecodecamp.org/learn/a2-english-for-developers/)

@@ -4,8 +4,8 @@
 
 **В каком виде**:
 
-* Вариант минимум: PDF + расшаренная копия на google-диске. Оформить покрасивее можно [тут](https://www.canva.com/ru\_ru/), [тут](https://novoresume.com/resume-templates) или еще где-то;
-* Вариант получше: резюме в LinkedIn (мастхэв!) + в веб-версии на github-pages + PDF.
+* Вариант минимум: PDF + расшаренная копия на google-диске. Оформить покрасивее можно [тут](https://www.canva.com/resumes/templates/), [тут](https://novoresume.com/resume-templates), [тут](https://create.microsoft.com/en-us/templates/resumes) или еще где-то;
+* Вариант получше: резюме в [LinkedIn](https://www.linkedin.com/help/linkedin/answer/a551182) (мастхэв!) + в веб-версии на [github-pages](https://pages.github.com/) + PDF.
 
 **Размер** резюме стажера или джуниора - ровно 1 страница (имеется в виду вариант в файле, а не на площадках).
 
@@ -31,6 +31,8 @@
 
 Доп. материал:
 
+* [Крепкое резюме тестировщика: советы для начинающих и не только](https://habr.com/p/733108/)
+* [Как составить резюме тестировщика: гайд от опытного QA-инженера](https://skillbox.ru/media/code/kak-sostavit-rezyume-testirovshchika-gayd-ot-opytnogo-qainzhenera/)
 * [Резюме начинающего тестировщика (и не только тестировщика) с Михаилом Портновым](https://www.youtube.com/watch?v=C6ny1evgntg)
 * [Идеальное резюме кандидата: миф или реальность](https://hurma.work/rf/blog/idealnoe-rezyume-kandidata-mif-ili-realnost-2/)
 * [Что писать в резюме, если нет опыта работы](https://habr.com/ru/post/470684/)
@@ -39,10 +41,9 @@
 * [Как составить резюме на английском для иностранной компании](https://habr.com/ru/company/yandex\_praktikum/blog/545418/)
 * [Резюме для тестировщика. Структура, оформление, рекомендации](https://www.youtube.com/watch?v=tOUFyzeslvE)
 * [Разбор резюме тестировщика (QA) / Ответы на вопросы](https://www.youtube.com/watch?v=xrLydVVkNDE)
-* [Как написать классное резюме и получить работу в тестировании? (обработанная версия)](https://www.youtube.com/watch?v=OCupdpk4nf8)
-* [Как составить резюме тестировщика ? Обзор, примеры, советы](https://www.youtube.com/watch?v=9zVK776K7MQ)
 * [Топ-5 ошибок в резюме junior тестировщика. Как улучшить свое резюме](https://www.youtube.com/watch?v=PznWqzCGmtY)
 * [Советы по составлению резюме для новичка](https://testengineer.ru/sovety-po-sostavleniyu-rezyume-dlya-novichka-v-it/)
 * [Разбор резюме тестировщика (QA) 2022](https://www.youtube.com/watch?v=Rw7stX87RHw)
 * [Как составить резюме тестировщику](https://medium.com/@a\_tumanenko/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D1%83-c47b3b571d00)
 * [10 глупых вопросов рекрутеру](https://telegra.ph/10-glupyh-voprosov-rekruteru-03-21)
+* [ Резюме тестировщика QA - или искусство быть замеченным](https://youtu.be/53nmsdx1Flo?si=VM8FlzwOVVejQodz)

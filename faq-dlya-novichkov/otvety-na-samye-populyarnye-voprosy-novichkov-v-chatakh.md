@@ -98,8 +98,8 @@
 
 Доп. материал:
 
-* [Чтоб стать тестером и программистом нужен диплом?](https://www.youtube.com/watch?v=fqE2vvezQxI)
-* [Без чего можно стать тестировщиком?](https://vc.ru/hr/400836-bez-chego-mozhno-stat-testirovshchikom)
+* [Нужен ли диплом программисту?](https://youtu.be/6HsHMo3DCOQ?si=B_ryaBhqcI_8Mq1H)
+* [Без чего можно стать тестировщиком?](https://habr.com/ru/articles/660467/)
 
 **Я всю жизнь работал %название должности%, это может как-то пригодиться в тестировании?**
 

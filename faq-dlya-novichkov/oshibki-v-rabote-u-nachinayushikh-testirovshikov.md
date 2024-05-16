@@ -30,3 +30,7 @@
 * [Сегодня - трейни, а завтра - сеньор. Что может быть не так с самооценкой у новичков](https://habr.com/ru/company/nix/blog/557238/)
 * [ТОП-10 ошибок тестировщиков, что приводят к блокерам](https://zen.yandex.ru/media/id/5e5822dfab3f5c1a51912a0f/top10-oshibok-testirovscikov-chto-privodiat-k-blokeram-611e8b4a271b2c7f7793431d)
 * [Как решать сложные (технические) проблемы?](https://habr.com/ru/company/itelma/blog/554746/)
+* [Главные ошибки начинающих тестировщиков. Как их избежать?](https://youtu.be/TeVRUcOiQXw?si=0CB-DFG099P3hh8x)
+* [Ошибки начинающих тестировщиков | QA START UP](https://youtu.be/7_aPi_YUysE?si=LnYR0fzdEIn0bJrd)
+* [7 ошибок начинающего тестировщика](https://sedtest-school.ru/about-qa/7-oshibok-nachinayushhego-testirovshhika/)
+* [Ошибки, которые делает почти каждый начинающий тестировщик, и как их избежать](https://www.careerist.com/ru-insights/oshibki-kotorye-delaet-pochti-kazhdyy-nachinayushchiy-testirovshchik-i-kak-ih-izbezhat)

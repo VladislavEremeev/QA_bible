@@ -2,9 +2,10 @@
 
 Подробнее см. в источнике.
 
-* [https://www.linkedin.com/](https://www.linkedin.com) ([добавляйтесь в друзья](https://www.linkedin.com/in/vladislaveremeev/) :)
-* [https://hh.ru/](https://hh.ru)
-* [https://career.habr.com/](https://career.habr.com)
+* [Linkedin](https://www.linkedin.com) ([добавляйтесь в друзья](https://www.linkedin.com/in/vladislaveremeev/) :)
+* [hh.ru](https://hh.ru)
+* [rabota.by](https://rabota.by/)
+* [career.habr.com](https://career.habr.com)
 * Группы Facebook
 * Telegram-каналы
 * Группы Вконтакте
@@ -19,5 +20,8 @@
 
 Доп. материал:
 
+* [🔍 ТОП-12 джоб-сайтов: где программисту разместить резюме и найти работу](https://proglib.io/p/top-12-dzhob-saytov-gde-programmistu-razmestit-rezyume-i-nayti-rabotu-2023-07-19)
+* [Где искать работу в IT? Самые эффективные каналы поиска в 2024](https://vc.ru/hr/988982-gde-iskat-rabotu-v-it-samye-effektivnye-kanaly-poiska-v-2024)
 * [Сайти для пошуку роботи в Україні, в тому числі віддалено](https://dou.ua/forums/topic/37190/)
 * [Стажировка для тестировщика (QA Engineer)](https://www.youtube.com/watch?v=FAyDh0tqzzc)
+* [На работу не берут без опыта, а опыт без работы не получить. Что делать?](https://habr.com/ru/articles/752380/)

@@ -14,13 +14,16 @@
 
 Доп. материал:
 
+* [Какие навыки нужны тестировщику](https://education.vk.company/news/kakie-navyiki-nuzhnyi-testirovschiku)
+* [Ключевые навыки и обязанности](https://www.careerist.com/ru-insights/testirovshchik-po-znachenie-opredelenie-klyuchevye-navyki-i-obyazannosti)
+* [Образ современного тестировщика. Что нужно знать и уметь](https://habr.com/ru/articles/666930/)
 * [Миф об образе мышления в тестировании](https://telegra.ph/Mif-ob-obraze-myshleniya-v-testirovanii-02-10)
 * [Важные навыки тестировщика](https://software-testing.ru/library/testing/general-testing/3599-bloggers-club-essential-skills-for)
 * [How to Think Like a Tester](https://medium.com/@blakenorrish/how-to-think-like-a-tester-7a174ff6aeaf)
-* [Как нанять тестировщика](https://blog.serioustester.io/W9OOg3DkX6J)
 
 Про soft-skills:
 
+* [Софт-скиллы в QA: полный гайд](https://testengineer.ru/soft-skills-qa/)
 * [Podlodka Soft Skills Crew - Интервью "Как я научился софт-скиллам и захватил мир"](https://www.youtube.com/watch?v=YbiHrgDx8j0)
 * [3 Tips To Improve Your Verbal Communication Skills](https://betterprogramming.pub/3-tips-to-improve-your-verbal-communication-skills-d461ff36688a)
 * [Как разговаривать с му\*аками (краткое содержание) - Марк Гоулстон](https://www.youtube.com/watch?v=3HeB9-FfClA)

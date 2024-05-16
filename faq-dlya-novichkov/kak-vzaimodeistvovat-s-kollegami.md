@@ -70,3 +70,5 @@
 * [Управление конфликтами](https://t.me/general\_it\_talks/204)
 * [Как "продать" баг разработчику](https://www.youtube.com/watch?v=wGyAW3l\_SxA)
 * [Пойми меня, если сможешь. Или как донести мысль заказчику (понятно и с первого раза)](https://habr.com/ru/company/surfstudio/blog/674418/)
+* [Как QA выстроить эффективное взаимодействие с разработчиками. Один возможный путь](https://habr.com/ru/articles/471576/)
+* [Soft skills: общение с коллегами и командой — Камилла Самохина, Тинькофф](https://youtu.be/BFhdLITJobc?si=IkceEUI_TXOQH0Dx)
