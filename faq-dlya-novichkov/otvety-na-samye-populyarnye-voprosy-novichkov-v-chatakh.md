@@ -38,7 +38,6 @@
 * [levels.fyi](https://www.levels.fyi)
 * [Зарплаты тестировщиков](https://www.youtube.com/watch?v=qk44Mr8Qg\_Y)
 * [Начальная зарплата QA в США. Работа в Америке. Как стать тестировщиком?](https://www.youtube.com/watch?v=nA0k9QlC5RA)
-* [Тред про зарплаты в айти и их формирование](https://twitter.com/annmuor/status/1446846723591217155?s=)
 * [Почему все «прутся» в IT](https://habr.com/ru/company/headzio/blog/593987/)
 * [Why Experience Is More Important Than Money Early in Your Career](https://betterprogramming.pub/why-experience-is-more-important-than-money-early-in-your-career-6527219f3915)
 * [Сколько стоят тестировщики и от чего зависят их зарплаты? Строим портрет успешного QA-специалиста](https://habr.com/ru/post/446650/)
@@ -99,8 +98,8 @@
 
 Доп. материал:
 
-* [Чтоб стать тестером и программистом нужен диплом?](https://www.youtube.com/watch?v=fqE2vvezQxI)
-* [Без чего можно стать тестировщиком?](https://vc.ru/hr/400836-bez-chego-mozhno-stat-testirovshchikom)
+* [Нужен ли диплом программисту?](https://youtu.be/6HsHMo3DCOQ?si=B_ryaBhqcI_8Mq1H)
+* [Без чего можно стать тестировщиком?](https://habr.com/ru/articles/660467/)
 
 **Я всю жизнь работал %название должности%, это может как-то пригодиться в тестировании?**
 

@@ -22,6 +22,9 @@ _Уровень 0: базовый курс по Computer Science._
 
 Доп. материал:
 
+* [С чего начать обучение тестировщика](https://ru.hexlet.io/blog/posts/navyki-testirovschika-i-kak-im-stat)
+* [Профессия тестировщика. Как прийти в IT, если ты гуманитарий?](https://youtu.be/Vc9hA6tDjYI?si=2YXWmjYT3ROzf1C3)
+* [Как стать тестировщиком? Тестировщик с нуля. Пошаговая инструкция](https://youtu.be/cePD7w3_qys?si=DHJi2-laZMTmGjsI)
 * [Направления развития для Junior QA в рамках процессов тестирования](https://www.youtube.com/watch?v=VUiOtjFVVAU)
 * [Как стать тестировщиком с нуля](https://habr.com/ru/company/plarium/blog/561454/)
 * [Взгляд на ИТ-Нарнию: путь от джуна до Senior в финтехе](https://habr.com/ru/company/smart\_it/blog/672654/)
@@ -47,3 +50,5 @@ _Уровень 0: базовый курс по Computer Science._
 * [«Правила роста: от джуниора до CTO», конспект вебинара Фёдора Борщёва](https://habr.com/ru/post/482958/)
 * [Учимся читать научные статьи у Эндрю Ына из Стэнфорда](https://habr.com/ru/company/ruvds/blog/510550/)
 * [Крепостное право в ИТ](https://habr.com/ru/post/660337/)
+* [Куда расти тестировщику? Надо ли для этого уходить из QA?](https://habr.com/ru/companies/sibur_official/articles/743546/)
+* [Тестировщик: 7 путей развития](https://www.careerist.com/ru-insights/testirovshchik-7-putey-razvitiya)

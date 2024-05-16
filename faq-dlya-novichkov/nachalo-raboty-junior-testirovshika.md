@@ -44,3 +44,4 @@
 * [Идеальное соотношение разработчиков и тестировщиков](https://telegra.ph/Idealnoe-sootnoshenie-razrabotchikov-i-testirovshchikov-07-22)
 * [Стресс-тестирование: как тестировщикам жить в беспокойном мире багов](https://habr.com/ru/company/innotech/blog/675908/)
 * [Что делает тестировщик на работе? / Мой день (QA Engineer)](https://www.youtube.com/watch?v=BUDog4mFrDI)
+* [Что действительно должен уметь, знать тестировщик (junior qa)](https://youtu.be/3DoeLbrYuzY?si=PF-Ell17vuxQrhak)
