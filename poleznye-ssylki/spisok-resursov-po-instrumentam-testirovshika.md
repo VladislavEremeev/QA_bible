@@ -2,28 +2,33 @@
 
 **DevTools**:
 
-* В каждый современный браузер встроены инструменты разработчика - они позволяют быстро отловить и исправить ошибки в разметке или в коде. С их помощью можно узнать, как построилось DOM-дерево, какие теги и атрибуты есть на странице, почему не подгрузились шрифты и многое другое:
-  * [Проверка ответа сервера](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#2)
-  * [Проверка мобильной адаптивности](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#3)
-  * [Проверка мобильной выдачи](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#4)
-  * [Региональная поисковая выдача](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#5)
-  * [Изменение дизайна](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#6)
-  * [Анализ протокола безопасности](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#7)
-  * [Анализ скорости загрузки страницы](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#8)
+* В каждый современный браузер встроены инструменты разработчика. Chrome DevTools — это набор инструментов веб-разработчика, встроенных непосредственно в браузер Google Chrome. DevTools позволяет оперативно редактировать страницы и быстро диагностировать проблемы, что помогает быстрее создавать более качественные веб-сайты:
+  * [Начало работы с Chrome DevTools](https://developer.chrome.com/docs/devtools/overview?hl=ru)
+  * [Имитация мобильных устройств в режиме устройства](https://developer.chrome.com/docs/devtools/device-mode?hl=ru)
+  * [Начало работы с просмотром и изменением DOM](https://developer.chrome.com/docs/devtools/dom?hl=ru)
+  * [Просмотр сетевой активности](https://developer.chrome.com/docs/devtools/network?hl=ru)
+  * [Анализ производительности](https://developer.chrome.com/docs/devtools/performance?hl=ru)
+  * [Безопасность: понимание проблем безопасности](https://developer.chrome.com/docs/devtools/security?hl=ru)
+  * [Удаленная отладка Android-устройств](https://developer.chrome.com/docs/devtools/remote-debugging?hl=ru)
 * [Средства консоли Chrome, которыми вы, возможно, никогда не пользовались](https://habr.com/ru/company/ruvds/blog/486692/)
-* [Урок 10: Введение в Тестирование ПО - QA с Нуля - DevTools, Web Console, Device Toolbar](https://www.youtube.com/watch?v=mP23B6o9uhQ)
+* [Изучаем DevTools в Google Chrome](https://youtu.be/GyKY5kIRP00?si=gY1Me2opxwkwvg98)
+* [Chrome DevTools: что это - обзор на инструменты](https://blog.skillfactory.ru/glossary/chrome-devtools/)
+* [QA с Нуля - DevTools, Web Console, Device Toolbar](https://www.youtube.com/watch?v=mP23B6o9uhQ)
 * [Курс Тестировщика с нуля. 25 урок. Как тестировщику работать в DevTools](https://www.youtube.com/watch?v=IO14lZynBvM)
 * [Основные Use case использования Dev Tools для QA](https://www.youtube.com/watch?v=pxM3f8vyIhA\&t=320s)
 * [Изучаем инструменты разработчика Google Chrome (ЧАСТЬ 1)](https://www.youtube.com/watch?v=FStLGMPHSEI\&list=PLvWwA9iDlhHA4kzfpRbu2cH-Z2ss6tB99)
 * [DevTools для «чайников»](https://habr.com/ru/post/548898/)
 * [Devtools для тестировщика - Devtools chrome - Что такое Devtools](https://www.youtube.com/watch?v=LYEEMWSrOgI)
-* [Chrome DevTools Official Documentation](https://developer.chrome.com/docs/devtools/)
-* [Safari DevTools Official Documentation](https://support.apple.com/ru-ru/guide/safari-developer/welcome/mac)
 * [Полезные функции DevTools для тестировщиков](https://habr.com/ru/post/558694/)
 * [Chrome DevTools. Обзор основных возможностей веб-инспектора](https://www.youtube.com/watch?v=C8Z-N0y6Sqo)
-* [Documentation - Chrome DevTools - Remote debugging](https://developer.chrome.com/docs/devtools/remote-debugging/)
 * [Chrome Developer Tools для тестировщика](https://testengineer.ru/chrome-developer-tools-dlya-testirovshchika/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse?hl=ru)
+* [Советы по инструментам разработчика](https://developer.chrome.com/docs/devtools/tips?hl=ru)
+
+Официальная документация DevTools:
+  * [Chrome DevTools](https://developer.chrome.com/docs/devtools)
+  * [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/)
+  * [Safari DevTools](https://support.apple.com/ru-ru/guide/safari/sfri20948/mac)
 
 **Тестирование API**:
 
