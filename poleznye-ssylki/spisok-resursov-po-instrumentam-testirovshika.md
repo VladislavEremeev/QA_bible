@@ -277,6 +277,20 @@ Git - это [система контроля версий](https://git-scm.com/
 
 **Инструменты тестирования мобильных приложений**:
 
+Инструменты тестирования мобильных приложений помогают тестировщикам выявлять и исправлять ошибки в мобильных приложениях, обеспечивая их высокое качество и стабильность. Эти инструменты позволяют автоматизировать процесс тестирования, проводить функциональные, производительные и пользовательские тесты на различных устройствах и платформах.
+
+Популярные инструменты:
+
+1. [Appium](http://appium.io/): Открытая платформа для автоматизации тестирования мобильных приложений на iOS и Android, поддерживающая различные языки программирования.
+
+2. [Espresso](https://developer.android.com/training/testing/espresso): Инструмент от Google для автоматизированного тестирования Android-приложений, интегрированный с Android Studio.
+
+3. [XCUITest](https://developer.apple.com/documentation/xctest): Фреймворк для тестирования iOS-приложений, интегрированный в Xcode, предоставляемый Apple.
+
+4. [Calabash](https://github.com/calabash/calabash-android): Открытый фреймворк для написания и выполнения автоматизированных тестов для мобильных приложений на iOS и Android, использующий язык Cucumber.
+
+5. [TestComplete](https://smartbear.com/product/testcomplete/): Коммерческий инструмент для автоматизированного тестирования мобильных приложений, поддерживающий iOS и Android, а также предоставляющий возможности для записи и воспроизведения тестов.
+
 * [Android Debug Bridge (adb)](https://developer.android.google.cn/studio/command-line/adb?hl=en), [Minimal ADB](https://rootmydevice.com/download-minimal-adb-and-fastboot/), [Инструменты тестирования Android приложений. Часть 2](https://szadorozhnyi.medium.com/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-4107dc748d0f), [Отладка по ADB](https://trofimovdigital.ru/blog/adb)
 * [Logcat](https://developer.android.com/studio/debug/am-logcat), [Инструменты тестирования Android приложений. Часть 3](https://szadorozhnyi.medium.com/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-e347a621a3bd)
 * [Logcat прямо на устройстве](https://play.google.com/store/apps/details?id=com.tananaev.logcat\&hl=ru\&gl=US)
