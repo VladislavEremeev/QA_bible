@@ -335,12 +335,15 @@ _Фермы устройств_: облачные или локальные се
 
 **Работа с логами**:
 
+Работа с логами является важной частью процесса тестирования и отладки приложений. Логи содержат записи о событиях, происходящих в системе, и помогают тестировщикам выявлять ошибки, отслеживать выполнение процессов и анализировать поведение приложений.
+
 * [Логи для тестировщика / Работа с логами в тестировании](https://www.youtube.com/watch?v=pAF1a\_2a\_6s)
+* [О чём могут рассказать логи: важный инструмент в работе тестировщика](https://habr.com/ru/companies/yandex_praktikum/articles/739058/)
 * [Tools for Log Analysis](https://medium.com/tensult/tools-for-log-analysis-461eb07c2d6b)
 * [https://developer.apple.com/documentation/os/logging](https://developer.apple.com/documentation/os/logging)
 * [Просмотр системных логов iOS](https://bulkin-me.turbopages.org/turbo/bulkin.me/s/notes/2884) и [еще](https://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
-* [Инструменты для снятия логов с Android / iOS устройств. Чтение и разбор](https://www.youtube.com/watch?v=fusFaT24F3o\&t=1145s)
 * [Доклад: "Мониторинг приложения в проде" / Семён Мацепура (СберМаркет)](https://www.youtube.com/watch?v=lSS9eTlrNf8)
+* [Как тестировщику работать с логами](https://testgrow.ru/article12)
 
 **Тестирование производительности**:
 
