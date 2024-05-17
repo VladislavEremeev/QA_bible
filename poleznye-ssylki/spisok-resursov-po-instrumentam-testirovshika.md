@@ -2,7 +2,7 @@
 
 **DevTools**:
 
-* В каждый современный браузер встроены инструменты разработчика. Chrome DevTools — это набор инструментов веб-разработчика, встроенных непосредственно в браузер Google Chrome. DevTools позволяет оперативно редактировать страницы и быстро диагностировать проблемы, что помогает быстрее создавать более качественные веб-сайты:
+В каждый современный браузер встроены инструменты разработчика. Chrome DevTools — это набор инструментов веб-разработчика, встроенных непосредственно в браузер Google Chrome. DevTools позволяет оперативно редактировать страницы и быстро диагностировать проблемы, что помогает быстрее создавать более качественные веб-сайты:
   * [Начало работы с Chrome DevTools](https://developer.chrome.com/docs/devtools/overview?hl=ru)
   * [Имитация мобильных устройств в режиме устройства](https://developer.chrome.com/docs/devtools/device-mode?hl=ru)
   * [Начало работы с просмотром и изменением DOM](https://developer.chrome.com/docs/devtools/dom?hl=ru)
@@ -25,13 +25,16 @@
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse?hl=ru)
 * [Советы по инструментам разработчика](https://developer.chrome.com/docs/devtools/tips?hl=ru)
 
-Официальная документация DevTools:
-  * [Chrome DevTools](https://developer.chrome.com/docs/devtools)
-  * [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/)
-  * [Safari DevTools](https://support.apple.com/ru-ru/guide/safari/sfri20948/mac)
+  Официальная документация DevTools:
+    * [Chrome DevTools](https://developer.chrome.com/docs/devtools)
+    * [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/)
+    * [Safari DevTools](https://support.apple.com/ru-ru/guide/safari/sfri20948/mac)
 
 **Тестирование API**:
 
+API (Application Programming Interface) — это набор правил и механизмов, которые позволяют различным программным приложениям взаимодействовать друг с другом. Тестирование API — это процесс проверки правильности работы этих интерфейсов, их производительности, безопасности и функциональности. В отличие от тестирования пользовательского интерфейса (UI), тестирование API сосредоточено на уровне бизнес-логики и данных.
+
+Основной популярный инструмент для тестирования API - [Postman](https://www.postman.com/).
 Postman представляет собой мультитул для тестирования API. В нем можно создавать коллекции запросов, проектировать дизайн API и создавать для него моки (заглушки-имитации ответов реального сервера), настраивать мониторинг (периодическая отправка запросов с журналированием), для запросов возможно написание тестов на JS, есть собственный Runner и т.д. Постман хорошо подойдет в простых случаях автоматизации или как инструмент поддержки а анализа: проверка работоспособности endpoint, дебаг тестов, простая передача информации о дефектах (можно сохранить запрос в curl, ответ в json и т.п.). Postman также может работать без графического интерфейса (newman).
 
 * [Postman для тестировщика. Мини-курс](https://www.youtube.com/playlist?list=PLKbJd47KcbjvLgn-ukTvfpaGoXAqybza0)
@@ -39,7 +42,7 @@ Postman представляет собой мультитул для тести
 * [Сергей Махетов - Воркшоп: Исследуем возможности Postman (часть 1)](https://www.youtube.com/watch?v=OFGVn-isQyk\&ab\_channel=Heisenbug)
 * [Сергей Махетов - Воркшоп: Исследуем возможности Postman (часть 2)](https://www.youtube.com/watch?v=IQ9sjNm11Nc\&ab\_channel=Heisenbug)
 * [API testing using Postman](https://robertgorter.medium.com/api-testing-using-postman-87cf1c40b82c)
-* [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+* [Postman Beginner's Course - API Testing](https://youtu.be/zp5Jh2FIpF0?si=GG352hDvk_A6en4V)
 * [Погружение qa junior в пучину API с использованием SoapUI(Open Source)](https://habr.com/ru/company/renins/blog/558436/)
 * [Шпаргалка по Postman](https://telegra.ph/SHpargalka-po-Postman-09-01-2)
 * [Большой гайд по тестированию с Postman для начинающих](https://testengineer.ru/gajd-po-testirovaniyu-v-postman/)
@@ -57,12 +60,11 @@ Postman представляет собой мультитул для тести
 * [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/)
 * [Как выбрать инструмент для тестирования API](https://habr.com/ru/company/simbirsoft/blog/675878/)
 * **Открытые и тренировочные API**:
+  * [Большая подборка открытых API](https://habr.com/p/769384/)
   * [Список открытых API](https://github.com/public-apis/public-apis)
   * [Обзор сайтов с API документацией](https://github.com/docops-hq/learnapidoc-ru/blob/master/Publishing-doc/API-doc-sites-list.md#100-)
   * [Бесплатные API - Ресурсы для практического тестирования веб-сервисов](https://www.youtube.com/watch?v=dvLZDdC9eR0)
-  * [Search the Largest API Directory on the Web](https://www.programmableweb.com/apis/directory)
   * [100+ сайтов с API документацией](https://starkovden.github.io/API-doc-sites-list.html#100-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2-%D1%81-api-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B5%D0%B9)
-  * [Shop - это бесплатное приложения для тестирования](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)
   * [Mockend](https://mockend.com) is the #1 GitHub app dedicated to API mocking
   * [MockAPI](https://mockapi.io/docs) is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface
   * [Swagger Petstore](https://petstore.swagger.io)
@@ -79,7 +81,6 @@ Postman представляет собой мультитул для тести
   * [openexchangerates.org](https://openexchangerates.org)
   * [openweather](https://openweathermap.org/api)
   * [Last.fm Music Discovery API](https://www.last.fm/api)
-  * [xml response](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)
 
 **Proxy (снифферы трафика)**:
 
