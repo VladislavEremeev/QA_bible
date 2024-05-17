@@ -84,15 +84,24 @@ Postman представляет собой мультитул для тести
 
 **Proxy (снифферы трафика)**:
 
-Charles - инструмент для мониторинга HTTP/HTTPS трафика. Программа работает как прокси-сервер между приложением и сервером этого приложения. Charles записывает и сохраняет все запросы, которые проходят через него и позволяет их редактировать.
+Proxy-серверы и снифферы трафика — это инструменты, которые позволяют перехватывать и анализировать сетевой трафик. Они используются для мониторинга данных, проходящих через сеть, и могут помочь тестировщикам в выявлении и исправлении ошибок, анализе производительности и проверке безопасности веб-приложений.
 
+Популярные инструменты Proxy (снифферы трафика):
+  - [Fiddler](https://www.telerik.com/fiddler) - мощный инструмент для перехвата и отладки HTTP/HTTPS трафика. Он позволяет просматривать и изменять входящие и исходящие запросы.
+
+  - [Charles Proxy](https://www.charlesproxy.com/) - популярный прокси-сервер, используемый для мониторинга и анализа HTTP/HTTPS трафика, а также для тестирования веб-приложений и мобильных приложений.
+
+  - [Burp Suite](https://portswigger.net/burp/communitydownload) - комплексное средство для тестирования безопасности веб-приложений, включающее прокси-сервер для перехвата и изменения трафика, а также множество других инструментов для анализа безопасности.
+
+  - [Wireshark](https://www.wireshark.org/) - один из самых известных снифферов, используемый для детального анализа сетевых пакетов на разных уровнях сетевой модели.
+
+* [Web Security Academy - Burp Suite](https://portswigger.net/web-security)
 * [Charles: незаменимый тул в арсенале QA-инженера](https://habr.com/ru/company/redmadrobot/blog/269109/)
 * [Breakpoints charles proxy Подмена данных](https://www.youtube.com/watch?v=74v5lpOug8c\&feature=youtu.be\&ab\_channel=BogdanOvsiyuk)
 * [Как приручить Charles Proxy?](https://habr.com/ru/company/youla/blog/527648/)
 * [Using Web Debugging Proxies for Application Testing](https://www.apriorit.com/dev-blog/591-proxies-for-application-testing)
 * [Перехват SSL трафика с Android-приложения](https://telegra.ph/Perehvat-SSL-trafika-s-Android-prilozheniya-01-26)
 * [Hail Frida!! The Universal SSL pinning bypass for Android applications](https://infosecwriteups.com/hail-frida-the-universal-ssl-pinning-bypass-for-android-e9e1d733d29)
-* [Certificate and Public Key Pinning](https://trykov.ru/certificate-and-public-key-pinning/)
 * [Начинающему QA: полезные функции снифферов на примере Charles Proxy](https://habr.com/ru/company/maxilect/blog/554888/)
 * [Перехват SSL трафика с Android-приложения](https://telegra.ph/Perehvat-SSL-trafika-s-Android-prilozheniya-01-26)
 * [Откручивание SSL пиннинга в Android приложениях](https://habr.com/ru/post/559722/)
@@ -104,6 +113,10 @@ Charles - инструмент для мониторинга HTTP/HTTPS траф
 * [Почему Proxyman - сын маминой подруги в мире снифферов](https://habr.com/ru/company/indriver/blog/591525/)
 * [Плейлист Charles Proxy](https://www.youtube.com/playlist?list=PLof3mAh50UD05mFlTvNpTszOUY9eFrSDX)
 * [Погружение в Charles Proxy](https://habr.com/ru/post/663926/)
+* [Wireshark — подробное руководство по началу использования](https://habr.com/ru/articles/735866/)
+* [Руководство и шпаргалка по Wireshark](https://habr.com/ru/articles/436226/)
+* [Первые шаги с Fiddler Classic](https://habr.com/ru/articles/533138/)
+* [Fiddler = удобный сниффер + прокси сервер](https://habr.com/ru/articles/554562/)
 
 **Тестирование безопасности**:
 
