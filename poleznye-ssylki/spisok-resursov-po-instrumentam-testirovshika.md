@@ -189,15 +189,46 @@ Git - это [система контроля версий](https://git-scm.com/
 
 Это язык программирования, применяемый для создания, модификации и управления данными в базе данных.
 
-[Все что нужно для работы с SQL](https://t.me/qa\_pro/490):
+Самые популярные базы данных:
+1. SQLite
 
-* Официальные сайты
-  * [SQLite](https://www.sqlite.org/index.html)
-  * [MySQL](https://www.mysql.com)
-  * [PostgreSQL](https://www.postgresql.org)
+    * Описание: Легковесная, встроенная реляционная база данных, часто используемая в мобильных и настольных приложениях.
+    * Официальный сайт: [SQLite](https://www.sqlite.org)
+
+2. MySQL
+
+    * Описание: Одна из самых популярных реляционных баз данных, широко используемая для веб-приложений и корпоративного ПО.
+    * Официальный сайт: [MySQL](https://www.mysql.com/)
+
+3. PostgreSQL
+
+    * Описание: Мощная, открытая реляционная база данных с поддержкой расширенных функций, таких как масштабируемость и расширяемость.
+    * Официальный сайт: [PostgreSQL](https://www.postgresql.org/)
+
+4. MongoDB
+
+    * Описание: Документо-ориентированная база данных NoSQL, популярная благодаря своей гибкости и масштабируемости, особенно для облачных приложений.
+    * Официальный сайт: [MongoDB](https://www.mongodb.com/)
+
+5. Oracle Database
+
+    * Описание: Мощная реляционная база данных, широко используемая в крупных корпоративных системах благодаря высокой производительности и надежности.
+    * Официальный сайт: [Oracle](https://www.oracle.com/database)
+
+6. Microsoft SQL Server
+
+    * Описание: Реляционная база данных от Microsoft, известная своей интеграцией с продуктами Microsoft и высокой производительностью.
+    * Официальный сайт: [Microsoft SQL Server](https://www.microsoft.com/sql-server)
+
+7. Redis
+
+    * Описание: Высокопроизводительная база данных ключ-значение, часто используемая для кэширования и временного хранения данных.
+    * Официальный сайт: [Redis](https://redis.io/)
+
 * GUI клиенты
-  * [MySQL Workbench](https://www.mysql.com/products/workbench/)
+  * [DataGrip от JetBrains](https://www.jetbrains.com/ru-ru/datagrip/)
   * [dBeaver](https://dbeaver.com)
+  * [MySQL Workbench](https://www.mysql.com/products/workbench/)
   * [HeidiSQL](https://www.heidisql.com)
   * [Navicat for MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
   * [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/)
@@ -209,13 +240,16 @@ Git - это [система контроля версий](https://git-scm.com/
   * [guru99 - SQL Tutorial for Beginners: Learn SQL in 7 Days](https://www.guru99.com/sql.html)
   * [SQL запросы быстро. Часть 1](https://habr.com/ru/post/480838/)
   * [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/post/448072/)
-  * [Плейлист](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)по основам
+  * [Плейлист](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B) по основам
   * [Видеокурс “How to… SQL Essential”](https://www.youtube.com/playlist?list=PLvItDmb0sZw8BsPPGyZwGBDFjUgoxadKJ)
 * Продвинутый уровень
+  * [SQL For Web Developers - Complete Database Course](https://youtu.be/KBDSJU3cGkc?si=iK8mVf9sBmgYyvnU)
+  * [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY?si=SXl0PNhiKRS9l9ZD)
   * [Энтони Молинаро "SQL. Сборник рецептов"](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/1492077445/ref=sr\_1\_2?dchild=1\&keywords=sQL\&qid=1613292997\&s=books\&sr=1-2)
   * [Алекс Кригель "SQL. Библия пользователя"](https://www.amazon.com/SQL-Bible-Alex-Kriegel/dp/0470229063/ref=sr\_1\_1?dchild=1\&keywords=sQL+bible\&qid=1613293063\&s=books\&sr=1-1)
   * [Джеймс Грофф, Пол Вайнберг, Эндрю Оппель "SQL Полное руководство. Третье издание."](https://www.amazon.com/SQL-Complete-Reference-James-Groff-dp-0071592555/dp/0071592555/ref=mt\_other?\_encoding=UTF8)
 * Практика
+  * [Бесплатные курсы для изучения SQL в 2024 году](https://habr.com/p/791260/)
   * [SQLAcademy - Онлайн тренажер с упражнениями по SQL](https://sql-academy.org/ru)
   * [SQLBolt - Introduction to SQL](https://sqlbolt.com)
   * [W3C - The Try-SQL Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql\_op\_in)
@@ -224,6 +258,7 @@ Git - это [система контроля версий](https://git-scm.com/
   * [Тест на знание SQL](https://www.learnqa.ru/sql\_test)
   * [https://www.db-fiddle.com/](https://www.db-fiddle.com)
   * [Видео курс “SQL Практикум”](https://www.youtube.com/playlist?list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA)
+  * [6 бесплатных ресурсов для практики в SQL](https://robotdreams.cc/blog/178-6-besplatnyh-resursov-dlya-praktiki-v-sql)
 * Shit happens
   * [SQL Cheat Sheet](http://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf)
   * [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
@@ -237,6 +272,8 @@ Git - это [система контроля версий](https://git-scm.com/
 * [Лучшие вопросы средней сложности по SQL на собеседовании аналитика данных](https://habr.com/ru/company/dcmiran/blog/500360/)
 * [Плейлист "Базы данных"](https://www.youtube.com/playlist?list=PLbuh2pN46AEvM2ZI-rJL2MVguz8Ea9mrJ)
 * [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
+* [Тестирование баз данных](https://habr.com/p/804851/)
+* [База по базам. SQL для тестировщика](https://testengineer.ru/sql-for-testers/)
 
 **Инструменты тестирования мобильных приложений**:
 
