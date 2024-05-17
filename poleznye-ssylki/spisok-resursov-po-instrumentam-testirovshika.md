@@ -347,11 +347,21 @@ _Фермы устройств_: облачные или локальные се
 
 **Тестирование производительности**:
 
-* [Apache JMeter](https://jmeter.apache.org) + JMeter Result Analysis: [The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/#understanding-jmeter-metrics)
-* [Яндекс.Танк](https://yandex.ru/dev/tank/)
-* [LoadRunner](https://www.microfocus.com/ru-ru/portfolio/performance-engineering/overview)
-* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-* [artillery.io](https://artillery.io)
+Тестирование производительности – это процесс оценки скорости, масштабируемости и стабильности приложения или системы под нагрузкой. Оно позволяет определить, как система будет работать в реальных условиях использования и выявить ее проблемы с производительностью до выпуска в продакшен.
+
+Основные популярные инструменты:
+
+  1. [Apache JMeter](https://jmeter.apache.org/): Мощный инструмент с открытым исходным кодом для тестирования производительности веб-приложений.
+  2. [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview): Коммерческое решение от Micro Focus для проведения нагрузочного тестирования и анализа производительности.
+  3. [Gatling](https://gatling.io/): Инструмент с открытым исходным кодом, написанный на Scala, для тестирования производительности и нагрузочного тестирования.
+  4. [BlazeMeter](https://www.blazemeter.com/): Облачная платформа для проведения нагрузочного тестирования, интегрируемая с Apache JMeter и другими инструментами.
+  5. [artillery.io](https://artillery.io): Позволяет создавать гибкие сценарии нагрузки с использованием простого синтаксиса YAML и запускать их с помощью командной строки. Artillery предоставляет широкие возможности для мониторинга и анализа результатов тестирования.
+  6. [Яндекс.Танк](https://yandex.ru/dev/tank/): это инструмент для проведения нагрузочного тестирования веб-приложений и сервисов. Он обладает мощными возможностями по настройке сценариев нагрузки и поддерживает различные протоколы, включая HTTP, HTTPS, WebSocket и многие другие. Яндекс.Танк предоставляет удобный веб-интерфейс для настройки тестов и анализа результатов.
+  7. [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/): это автоматизированный инструмент для оценки качества веб-приложений и анализа их производительности. Он позволяет проводить аудит веб-страниц на предмет оптимизации производительности, доступности, SEO и других аспектов. Lighthouse доступен как в браузере Chrome, так и в виде командной строки для автоматизации тестирования.
+
+Доп. материал:
+
+* Apache JMeter + JMeter Result Analysis: [The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/#understanding-jmeter-metrics)
 * [Top 10 лучших инструментов для нагрузочного тестирования](https://www.performance-lab.ru/blog/luchshie-instrumenty-dlya-nagruzochnogo-testirovaniya)
 * [10 инструментов тестирования производительности мобильных приложений](https://proglib.io/p/10-instrumentov-testirovaniya-proizvoditelnosti-mobilnyh-prilozheniy-2020-09-20)
 * [Топ-15 бесплатных инструментов для нагрузочного тестирования](https://testengineer.ru/besplatnye-instrumenty-dlya-nagruzochnogo-testirovaniya/)
