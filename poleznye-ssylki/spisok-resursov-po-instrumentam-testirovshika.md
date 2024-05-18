@@ -2,31 +2,39 @@
 
 **DevTools**:
 
-* В каждый современный браузер встроены инструменты разработчика - они позволяют быстро отловить и исправить ошибки в разметке или в коде. С их помощью можно узнать, как построилось DOM-дерево, какие теги и атрибуты есть на странице, почему не подгрузились шрифты и многое другое:
-  * [Проверка ответа сервера](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#2)
-  * [Проверка мобильной адаптивности](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#3)
-  * [Проверка мобильной выдачи](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#4)
-  * [Региональная поисковая выдача](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#5)
-  * [Изменение дизайна](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#6)
-  * [Анализ протокола безопасности](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#7)
-  * [Анализ скорости загрузки страницы](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#8)
+В каждый современный браузер встроены инструменты разработчика. Chrome DevTools — это набор инструментов веб-разработчика, встроенных непосредственно в браузер Google Chrome. DevTools позволяет оперативно редактировать страницы и быстро диагностировать проблемы, что помогает быстрее создавать более качественные веб-сайты:
+  * [Начало работы с Chrome DevTools](https://developer.chrome.com/docs/devtools/overview?hl=ru)
+  * [Имитация мобильных устройств в режиме устройства](https://developer.chrome.com/docs/devtools/device-mode?hl=ru)
+  * [Начало работы с просмотром и изменением DOM](https://developer.chrome.com/docs/devtools/dom?hl=ru)
+  * [Просмотр сетевой активности](https://developer.chrome.com/docs/devtools/network?hl=ru)
+  * [Анализ производительности](https://developer.chrome.com/docs/devtools/performance?hl=ru)
+  * [Безопасность: понимание проблем безопасности](https://developer.chrome.com/docs/devtools/security?hl=ru)
+  * [Удаленная отладка Android-устройств](https://developer.chrome.com/docs/devtools/remote-debugging?hl=ru)
 * [Средства консоли Chrome, которыми вы, возможно, никогда не пользовались](https://habr.com/ru/company/ruvds/blog/486692/)
-* [Урок 10: Введение в Тестирование ПО - QA с Нуля - DevTools, Web Console, Device Toolbar](https://www.youtube.com/watch?v=mP23B6o9uhQ)
+* [Изучаем DevTools в Google Chrome](https://youtu.be/GyKY5kIRP00?si=gY1Me2opxwkwvg98)
+* [Chrome DevTools: что это - обзор на инструменты](https://blog.skillfactory.ru/glossary/chrome-devtools/)
+* [QA с Нуля - DevTools, Web Console, Device Toolbar](https://www.youtube.com/watch?v=mP23B6o9uhQ)
 * [Курс Тестировщика с нуля. 25 урок. Как тестировщику работать в DevTools](https://www.youtube.com/watch?v=IO14lZynBvM)
 * [Основные Use case использования Dev Tools для QA](https://www.youtube.com/watch?v=pxM3f8vyIhA\&t=320s)
 * [Изучаем инструменты разработчика Google Chrome (ЧАСТЬ 1)](https://www.youtube.com/watch?v=FStLGMPHSEI\&list=PLvWwA9iDlhHA4kzfpRbu2cH-Z2ss6tB99)
 * [DevTools для «чайников»](https://habr.com/ru/post/548898/)
 * [Devtools для тестировщика - Devtools chrome - Что такое Devtools](https://www.youtube.com/watch?v=LYEEMWSrOgI)
-* [Chrome DevTools Official Documentation](https://developer.chrome.com/docs/devtools/)
-* [Safari DevTools Official Documentation](https://support.apple.com/ru-ru/guide/safari-developer/welcome/mac)
 * [Полезные функции DevTools для тестировщиков](https://habr.com/ru/post/558694/)
 * [Chrome DevTools. Обзор основных возможностей веб-инспектора](https://www.youtube.com/watch?v=C8Z-N0y6Sqo)
-* [Documentation - Chrome DevTools - Remote debugging](https://developer.chrome.com/docs/devtools/remote-debugging/)
 * [Chrome Developer Tools для тестировщика](https://testengineer.ru/chrome-developer-tools-dlya-testirovshchika/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse?hl=ru)
+* [Советы по инструментам разработчика](https://developer.chrome.com/docs/devtools/tips?hl=ru)
+
+  Официальная документация DevTools:
+    * [Chrome DevTools](https://developer.chrome.com/docs/devtools)
+    * [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/)
+    * [Safari DevTools](https://support.apple.com/ru-ru/guide/safari/sfri20948/mac)
 
 **Тестирование API**:
 
+API (Application Programming Interface) — это набор правил и механизмов, которые позволяют различным программным приложениям взаимодействовать друг с другом. Тестирование API — это процесс проверки правильности работы этих интерфейсов, их производительности, безопасности и функциональности. В отличие от тестирования пользовательского интерфейса (UI), тестирование API сосредоточено на уровне бизнес-логики и данных.
+
+Основной популярный инструмент для тестирования API - [Postman](https://www.postman.com/).
 Postman представляет собой мультитул для тестирования API. В нем можно создавать коллекции запросов, проектировать дизайн API и создавать для него моки (заглушки-имитации ответов реального сервера), настраивать мониторинг (периодическая отправка запросов с журналированием), для запросов возможно написание тестов на JS, есть собственный Runner и т.д. Постман хорошо подойдет в простых случаях автоматизации или как инструмент поддержки а анализа: проверка работоспособности endpoint, дебаг тестов, простая передача информации о дефектах (можно сохранить запрос в curl, ответ в json и т.п.). Postman также может работать без графического интерфейса (newman).
 
 * [Postman для тестировщика. Мини-курс](https://www.youtube.com/playlist?list=PLKbJd47KcbjvLgn-ukTvfpaGoXAqybza0)
@@ -34,7 +42,7 @@ Postman представляет собой мультитул для тести
 * [Сергей Махетов - Воркшоп: Исследуем возможности Postman (часть 1)](https://www.youtube.com/watch?v=OFGVn-isQyk\&ab\_channel=Heisenbug)
 * [Сергей Махетов - Воркшоп: Исследуем возможности Postman (часть 2)](https://www.youtube.com/watch?v=IQ9sjNm11Nc\&ab\_channel=Heisenbug)
 * [API testing using Postman](https://robertgorter.medium.com/api-testing-using-postman-87cf1c40b82c)
-* [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+* [Postman Beginner's Course - API Testing](https://youtu.be/zp5Jh2FIpF0?si=GG352hDvk_A6en4V)
 * [Погружение qa junior в пучину API с использованием SoapUI(Open Source)](https://habr.com/ru/company/renins/blog/558436/)
 * [Шпаргалка по Postman](https://telegra.ph/SHpargalka-po-Postman-09-01-2)
 * [Большой гайд по тестированию с Postman для начинающих](https://testengineer.ru/gajd-po-testirovaniyu-v-postman/)
@@ -52,12 +60,11 @@ Postman представляет собой мультитул для тести
 * [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/)
 * [Как выбрать инструмент для тестирования API](https://habr.com/ru/company/simbirsoft/blog/675878/)
 * **Открытые и тренировочные API**:
+  * [Большая подборка открытых API](https://habr.com/p/769384/)
   * [Список открытых API](https://github.com/public-apis/public-apis)
   * [Обзор сайтов с API документацией](https://github.com/docops-hq/learnapidoc-ru/blob/master/Publishing-doc/API-doc-sites-list.md#100-)
   * [Бесплатные API - Ресурсы для практического тестирования веб-сервисов](https://www.youtube.com/watch?v=dvLZDdC9eR0)
-  * [Search the Largest API Directory on the Web](https://www.programmableweb.com/apis/directory)
   * [100+ сайтов с API документацией](https://starkovden.github.io/API-doc-sites-list.html#100-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2-%D1%81-api-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B5%D0%B9)
-  * [Shop - это бесплатное приложения для тестирования](https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054)
   * [Mockend](https://mockend.com) is the #1 GitHub app dedicated to API mocking
   * [MockAPI](https://mockapi.io/docs) is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface
   * [Swagger Petstore](https://petstore.swagger.io)
@@ -74,19 +81,28 @@ Postman представляет собой мультитул для тести
   * [openexchangerates.org](https://openexchangerates.org)
   * [openweather](https://openweathermap.org/api)
   * [Last.fm Music Discovery API](https://www.last.fm/api)
-  * [xml response](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)
 
 **Proxy (снифферы трафика)**:
 
-Charles - инструмент для мониторинга HTTP/HTTPS трафика. Программа работает как прокси-сервер между приложением и сервером этого приложения. Charles записывает и сохраняет все запросы, которые проходят через него и позволяет их редактировать.
+Proxy-серверы и снифферы трафика — это инструменты, которые позволяют перехватывать и анализировать сетевой трафик. Они используются для мониторинга данных, проходящих через сеть, и могут помочь тестировщикам в выявлении и исправлении ошибок, анализе производительности и проверке безопасности веб-приложений.
 
+Популярные инструменты Proxy (снифферы трафика):
+
+[Fiddler](https://www.telerik.com/fiddler) - мощный инструмент для перехвата и отладки HTTP/HTTPS трафика. Он позволяет просматривать и изменять входящие и исходящие запросы.
+
+[Charles Proxy](https://www.charlesproxy.com/) - популярный прокси-сервер, используемый для мониторинга и анализа HTTP/HTTPS трафика, а также для тестирования веб-приложений и мобильных приложений.
+
+[Burp Suite](https://portswigger.net/burp/communitydownload) - комплексное средство для тестирования безопасности веб-приложений, включающее прокси-сервер для перехвата и изменения трафика, а также множество других инструментов для анализа безопасности.
+
+[Wireshark](https://www.wireshark.org/) - один из самых известных снифферов, используемый для детального анализа сетевых пакетов на разных уровнях сетевой модели.
+
+* [Web Security Academy - Burp Suite](https://portswigger.net/web-security)
 * [Charles: незаменимый тул в арсенале QA-инженера](https://habr.com/ru/company/redmadrobot/blog/269109/)
 * [Breakpoints charles proxy Подмена данных](https://www.youtube.com/watch?v=74v5lpOug8c\&feature=youtu.be\&ab\_channel=BogdanOvsiyuk)
 * [Как приручить Charles Proxy?](https://habr.com/ru/company/youla/blog/527648/)
 * [Using Web Debugging Proxies for Application Testing](https://www.apriorit.com/dev-blog/591-proxies-for-application-testing)
 * [Перехват SSL трафика с Android-приложения](https://telegra.ph/Perehvat-SSL-trafika-s-Android-prilozheniya-01-26)
 * [Hail Frida!! The Universal SSL pinning bypass for Android applications](https://infosecwriteups.com/hail-frida-the-universal-ssl-pinning-bypass-for-android-e9e1d733d29)
-* [Certificate and Public Key Pinning](https://trykov.ru/certificate-and-public-key-pinning/)
 * [Начинающему QA: полезные функции снифферов на примере Charles Proxy](https://habr.com/ru/company/maxilect/blog/554888/)
 * [Перехват SSL трафика с Android-приложения](https://telegra.ph/Perehvat-SSL-trafika-s-Android-prilozheniya-01-26)
 * [Откручивание SSL пиннинга в Android приложениях](https://habr.com/ru/post/559722/)
@@ -98,8 +114,31 @@ Charles - инструмент для мониторинга HTTP/HTTPS траф
 * [Почему Proxyman - сын маминой подруги в мире снифферов](https://habr.com/ru/company/indriver/blog/591525/)
 * [Плейлист Charles Proxy](https://www.youtube.com/playlist?list=PLof3mAh50UD05mFlTvNpTszOUY9eFrSDX)
 * [Погружение в Charles Proxy](https://habr.com/ru/post/663926/)
+* [Wireshark — подробное руководство по началу использования](https://habr.com/ru/articles/735866/)
+* [Руководство и шпаргалка по Wireshark](https://habr.com/ru/articles/436226/)
+* [Первые шаги с Fiddler Classic](https://habr.com/ru/articles/533138/)
+* [Fiddler = удобный сниффер + прокси сервер](https://habr.com/ru/articles/554562/)
 
 **Тестирование безопасности**:
+
+Тестирование безопасности — это процесс выявления уязвимостей в системе или приложении с целью предотвращения возможных атак, утечек данных и других угроз. Оно позволяет обеспечить защиту конфиденциальной информации и поддерживать целостность и доступность системы.
+
+Популярные инструменты для тестирования безопасности:
+
+[Burp Suite](https://portswigger.net/burp/communitydownload) — комплексный инструмент для тестирования безопасности веб-приложений, включающий анализаторы, сканеры уязвимостей и средства для автоматизации тестирования.
+
+[OWASP ZAP](https://www.zaproxy.org/) (Zed Attack Proxy) — бесплатный и открытый инструмент для нахождения уязвимостей в веб-приложениях, поддерживающий автоматическое и ручное тестирование.
+
+[Metasploit](https://www.metasploit.com/) — платформа для разработки, тестирования и эксплуатации уязвимостей, широко используемая в пентестинге.
+
+[Wireshark](https://www.wireshark.org/) — сетевой анализатор, который позволяет перехватывать и детально исследовать сетевой трафик, выявляя подозрительные активности и потенциальные угрозы.
+
+* [Рамазан Рамазанов — Тестирование безопасности API: кейсы, инструменты и рекомендации](https://youtu.be/XNwpzNNiWzE?si=3T2RdEe4iGQIE4Pe)
+* [Тестирование безопасности. Тестирование на проникновение](https://youtu.be/C0euAbFaT4s?si=4Dme6FvnbOizABt-)
+* [Тестирование безопасности. OWASP TOP 10 уязвимостей](https://youtu.be/fgtuLbT4joI?si=hnNfgOJXZRn7AhtR)
+* [Иван Румак — Эффективный поиск XSS-уязвимостей](https://youtu.be/EmJnUqFgaK8?si=OThcdoAeoKAcY2_j)
+* [Александра Сватикова — Статическое тестирование безопасности инструментами из open source](https://youtu.be/E87YkXhdxAA?si=YuPImtFyBoqzd_HO)
+* [Анна Васильева — Поиск уязвимостей IDOR (BOLA)](https://youtu.be/FQROPd_p1ME?si=XHVJpf1BJr7A_0Pr)
 
 * [Сканирование на уязвимости: обзор продуктов, которые есть на рынке](https://habr.com/ru/company/cloud4y/blog/651831/)
 * [Чем искать уязвимости веб-приложений: сравниваем восемь популярных сканеров](https://habr.com/ru/company/tomhunter/blog/456892/)
@@ -107,22 +146,25 @@ Charles - инструмент для мониторинга HTTP/HTTPS траф
 * [20 мощных инструментов тестирования на проникновение в 2019 году](https://itfb.com.ua/instrumenty-testirovaniya-bezopasnosti/)
 * [Пентест веб сайта с помощью Owasp Zap](https://habr.com/ru/company/alexhost/blog/530110/)
 * [Проверяем безопасность приложений с помощью Drozer](https://habr.com/ru/company/alexhost/blog/535396/)
-* [Santoku Linux](https://santoku-linux.com)
 * [Kali Linux](https://www.kali.org)
 * [https://github.com/FSecureLABS/drozer](https://github.com/FSecureLABS/drozer)
-* [Burp Suite is the choice of security professionals worldwide](https://portswigger.net/burp)
 * [Тестирование защищенности приложений при помощи SAST (Static Application Security Testing)](https://www.youtube.com/watch?v=Jk8LiaMF2aw)
+* [Обзор сканера Nikto для поиска уязвимостей в веб-серверах](https://habr.com/ru/companies/first/articles/731696/)
+* [«Осторожно, печеньки!»: советы начинающим тестировщикам в сфере безопасности](https://habr.com/ru/companies/redmadrobot/articles/544198/)
 
 **GIT**:
 
-Git - это система контроля версий, которая упрощает работу нескольких человек над одним проектом, помогая разрешать конфликты слияния изменений, следить за историей, откатывать эти изменения и т.п.
+Git - это [система контроля версий](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9), которая упрощает работу нескольких человек над одним проектом, помогая разрешать конфликты слияния изменений, следить за историей, откатывать эти изменения и т.п.
 
 Ваш репозиторий может быть локальным и/или находиться в: [GitHub](https://github.com), [Bitbucket](https://bitbucket.org), [GitLab](https://gitlab.com)
 
 Даже ручному тестировщику пригодятся навыки работы с Git: хранить там портфолио для резюме с подтверждением навыков использования инструментов и написания документации, можно само резюме разместить на github pages, уже на работе иногда будет требоваться самостоятельно сбилдить себе сборку на тест или разобраться, в какой момент (в каком коммите) появился баг или наоборот был пофикшен и т.п. Про автоматизацию, очевидно, даже и говорить не стоит - гит там используется ежедневно.
 
-* Большая подборка [Все что нужно для работы с GIT](https://t.me/qa\_pro/480)
-* Серия свежих видеоуроков: [часть 1](https://www.youtube.com/watch?v=oKyzv8nzT28), [2](https://www.youtube.com/watch?v=x4DLZet8hQw), [3](https://www.youtube.com/watch?v=iCswbUkRILY), [4](https://www.youtube.com/watch?v=0DiNdpUx5\_Q), [5](https://www.youtube.com/watch?v=knz-JIaNrxk), [6](https://www.youtube.com/watch?v=JF69x66NVeM), [7](https://www.youtube.com/watch?v=e-GyWUgRS6c), [8](https://www.youtube.com/watch?v=RDFOIUGVZpw), [9](https://www.youtube.com/watch?v=WcS7Q6rUam8), [10](https://www.youtube.com/watch?v=\_MNw6G13zzs), [11](https://www.youtube.com/watch?v=\_5Qf21riOyQ)
+* Learn Git – Full Course for Beginners: [Видео](https://youtu.be/zTjRZNkhiEU?si=v4GP4NVP64TllnaF)
+* Система контроля версий - GIT: [Плейлист](https://youtube.com/playlist?list=PLRs8EELOYKc44Y_fKFvADdPXbrYZDQqr0&si=Ff0EFlvxWMSKCUgS)
+* GIT - Полный Курс Git и GitHub Для Начинающих [4 ЧАСА]: [Видео](https://youtu.be/O00FTZDxD0o?si=KgFX-GX6Rm920FIs)
+* Git for Professionals Tutorial: [Видео](https://youtu.be/Uszj_k0DGsg?si=U6MGdVfC7HQeKuen)
+* [Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 * [Very beautiful GIT documentation](https://www.linkedin.com/posts/fabbasi\_github-activity-6835855126062800896-hAiJ/)
 * [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
 * [Git для тестировщиков](https://www.youtube.com/playlist?list=PLKbJd47KcbjuHU3AhyeOPJ9p\_GDB6yGL7)
@@ -135,25 +177,58 @@ Git - это система контроля версий, которая упр
 * [GIT-практикум](https://www.youtube.com/watch?v=nRXacgNHNVw\&list=PLvItDmb0sZw-KsqUenM2jyBpNslNzDJLO\&index=1)
 * [Octotree](https://www.octotree.io) - GitHub on steroids
 * [Плейлист “GIT для тестировщиков с нуля за 1 час”](https://www.youtube.com/playlist?list=PL9mn2EBC\_SSynAcYKFAtMTIhsKD0OGqWX)
-* [Git простыми словами](https://www.youtube.com/watch?v=l26-jDN64o4)
 * [Как установить Git и выкачать репозиторий](https://www.youtube.com/watch?v=lZdGWJtrsNw)
 * [GitFlic](https://gitflic.ru) - первый российский сервис для хранения кода и работы с ним
 * [Шпаргалка по консольным командам Git](https://github.com/cyberspacedk/Git-commands)
+* [Шпаргалка по Git, в которой представлены основные команды](https://proglib.io/p/git-cheatsheet)
+* [Работа с Git в Visual Studio Code](https://htmlacademy.ru/blog/git/git-in-vscode)
+* [15 ресурсов по Git. Что почитать/посмотреть?](https://habr.com/ru/companies/yandex_praktikum/articles/768492/)
 * _Практическое задание: форкнуть себе репозиторий QA bible :)_
 
 **SQL**:
 
 Это язык программирования, применяемый для создания, модификации и управления данными в базе данных.
 
-[Все что нужно для работы с SQL](https://t.me/qa\_pro/490):
+Самые популярные базы данных:
+1. SQLite
 
-* Официальные сайты
-  * [SQLite](https://www.sqlite.org/index.html)
-  * [MySQL](https://www.mysql.com)
-  * [PostgreSQL](https://www.postgresql.org)
+    * Описание: Легковесная, встроенная реляционная база данных, часто используемая в мобильных и настольных приложениях.
+    * Официальный сайт: [SQLite](https://www.sqlite.org)
+
+2. MySQL
+
+    * Описание: Одна из самых популярных реляционных баз данных, широко используемая для веб-приложений и корпоративного ПО.
+    * Официальный сайт: [MySQL](https://www.mysql.com/)
+
+3. PostgreSQL
+
+    * Описание: Мощная, открытая реляционная база данных с поддержкой расширенных функций, таких как масштабируемость и расширяемость.
+    * Официальный сайт: [PostgreSQL](https://www.postgresql.org/)
+
+4. MongoDB
+
+    * Описание: Документо-ориентированная база данных NoSQL, популярная благодаря своей гибкости и масштабируемости, особенно для облачных приложений.
+    * Официальный сайт: [MongoDB](https://www.mongodb.com/)
+
+5. Oracle Database
+
+    * Описание: Мощная реляционная база данных, широко используемая в крупных корпоративных системах благодаря высокой производительности и надежности.
+    * Официальный сайт: [Oracle](https://www.oracle.com/database)
+
+6. Microsoft SQL Server
+
+    * Описание: Реляционная база данных от Microsoft, известная своей интеграцией с продуктами Microsoft и высокой производительностью.
+    * Официальный сайт: [Microsoft SQL Server](https://www.microsoft.com/sql-server)
+
+7. Redis
+
+    * Описание: Высокопроизводительная база данных ключ-значение, часто используемая для кэширования и временного хранения данных.
+    * Официальный сайт: [Redis](https://redis.io/)
+
 * GUI клиенты
-  * [MySQL Workbench](https://www.mysql.com/products/workbench/)
+  * [DataGrip от JetBrains](https://www.jetbrains.com/ru-ru/datagrip/)
   * [dBeaver](https://dbeaver.com)
+  * [MySQL Workbench](https://www.mysql.com/products/workbench/)
   * [HeidiSQL](https://www.heidisql.com)
   * [Navicat for MySQL](https://www.navicat.com/en/products/navicat-for-mysql)
   * [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/)
@@ -165,13 +240,16 @@ Git - это система контроля версий, которая упр
   * [guru99 - SQL Tutorial for Beginners: Learn SQL in 7 Days](https://www.guru99.com/sql.html)
   * [SQL запросы быстро. Часть 1](https://habr.com/ru/post/480838/)
   * [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/post/448072/)
-  * [Плейлист](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)по основам
+  * [Плейлист](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B) по основам
   * [Видеокурс “How to… SQL Essential”](https://www.youtube.com/playlist?list=PLvItDmb0sZw8BsPPGyZwGBDFjUgoxadKJ)
 * Продвинутый уровень
+  * [SQL For Web Developers - Complete Database Course](https://youtu.be/KBDSJU3cGkc?si=iK8mVf9sBmgYyvnU)
+  * [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY?si=SXl0PNhiKRS9l9ZD)
   * [Энтони Молинаро "SQL. Сборник рецептов"](https://www.amazon.com/SQL-Cookbook-Query-Solutions-Techniques/dp/1492077445/ref=sr\_1\_2?dchild=1\&keywords=sQL\&qid=1613292997\&s=books\&sr=1-2)
   * [Алекс Кригель "SQL. Библия пользователя"](https://www.amazon.com/SQL-Bible-Alex-Kriegel/dp/0470229063/ref=sr\_1\_1?dchild=1\&keywords=sQL+bible\&qid=1613293063\&s=books\&sr=1-1)
   * [Джеймс Грофф, Пол Вайнберг, Эндрю Оппель "SQL Полное руководство. Третье издание."](https://www.amazon.com/SQL-Complete-Reference-James-Groff-dp-0071592555/dp/0071592555/ref=mt\_other?\_encoding=UTF8)
 * Практика
+  * [Бесплатные курсы для изучения SQL в 2024 году](https://habr.com/p/791260/)
   * [SQLAcademy - Онлайн тренажер с упражнениями по SQL](https://sql-academy.org/ru)
   * [SQLBolt - Introduction to SQL](https://sqlbolt.com)
   * [W3C - The Try-SQL Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql\_op\_in)
@@ -180,6 +258,7 @@ Git - это система контроля версий, которая упр
   * [Тест на знание SQL](https://www.learnqa.ru/sql\_test)
   * [https://www.db-fiddle.com/](https://www.db-fiddle.com)
   * [Видео курс “SQL Практикум”](https://www.youtube.com/playlist?list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA)
+  * [6 бесплатных ресурсов для практики в SQL](https://robotdreams.cc/blog/178-6-besplatnyh-resursov-dlya-praktiki-v-sql)
 * Shit happens
   * [SQL Cheat Sheet](http://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf)
   * [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
@@ -193,8 +272,24 @@ Git - это система контроля версий, которая упр
 * [Лучшие вопросы средней сложности по SQL на собеседовании аналитика данных](https://habr.com/ru/company/dcmiran/blog/500360/)
 * [Плейлист "Базы данных"](https://www.youtube.com/playlist?list=PLbuh2pN46AEvM2ZI-rJL2MVguz8Ea9mrJ)
 * [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
+* [Тестирование баз данных](https://habr.com/p/804851/)
+* [База по базам. SQL для тестировщика](https://testengineer.ru/sql-for-testers/)
 
 **Инструменты тестирования мобильных приложений**:
+
+Инструменты тестирования мобильных приложений помогают тестировщикам выявлять и исправлять ошибки в мобильных приложениях, обеспечивая их высокое качество и стабильность. Эти инструменты позволяют автоматизировать процесс тестирования, проводить функциональные, производительные и пользовательские тесты на различных устройствах и платформах.
+
+Популярные инструменты:
+
+1. [Appium](http://appium.io/): Открытая платформа для автоматизации тестирования мобильных приложений на iOS и Android, поддерживающая различные языки программирования.
+
+2. [Espresso](https://developer.android.com/training/testing/espresso): Инструмент от Google для автоматизированного тестирования Android-приложений, интегрированный с Android Studio.
+
+3. [XCUITest](https://developer.apple.com/documentation/xctest): Фреймворк для тестирования iOS-приложений, интегрированный в Xcode, предоставляемый Apple.
+
+4. [Calabash](https://github.com/calabash/calabash-android): Открытый фреймворк для написания и выполнения автоматизированных тестов для мобильных приложений на iOS и Android, использующий язык Cucumber.
+
+5. [TestComplete](https://smartbear.com/product/testcomplete/): Коммерческий инструмент для автоматизированного тестирования мобильных приложений, поддерживающий iOS и Android, а также предоставляющий возможности для записи и воспроизведения тестов.
 
 * [Android Debug Bridge (adb)](https://developer.android.google.cn/studio/command-line/adb?hl=en), [Minimal ADB](https://rootmydevice.com/download-minimal-adb-and-fastboot/), [Инструменты тестирования Android приложений. Часть 2](https://szadorozhnyi.medium.com/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-4107dc748d0f), [Отладка по ADB](https://trofimovdigital.ru/blog/adb)
 * [Logcat](https://developer.android.com/studio/debug/am-logcat), [Инструменты тестирования Android приложений. Часть 3](https://szadorozhnyi.medium.com/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-android-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-e347a621a3bd)
@@ -213,6 +308,14 @@ Git - это система контроля версий, которая упр
 
 **Эмуляторы, симуляторы, фермы устройств**:
 
+Эмуляторы, симуляторы и фермы устройств — это инструменты, которые позволяют тестировщикам проверять работу приложений на различных устройствах и операционных системах без необходимости иметь физический доступ ко всем этим устройствам. Эти инструменты значительно упрощают процесс тестирования, обеспечивая доступ к широкому спектру конфигураций и сценариев использования.
+
+_Эмуляторы_: программные приложения, которые воспроизводят поведение реальных устройств, позволяя тестировать программное обеспечение на различных платформах.
+
+_Симуляторы_: похожи на эмуляторы, но не воспроизводят аппаратную часть устройства, а имитируют его программное окружение.
+
+_Фермы устройств_: облачные или локальные сервисы, предоставляющие доступ к множеству реальных устройств для удаленного тестирования.
+
 * [Android studio emulator](https://developer.android.google.cn/studio/run/emulator)
 * [Genymotion - Android Virtual Devices for all your development & testing needs](https://www.genymotion.com)
 * [BrowserStack - Test instantly on a wide range of real iOS and Android devices on the cloud](https://www.browserstack.com/app-live)
@@ -228,23 +331,37 @@ Git - это система контроля версий, которая упр
 * [Как тестировщики написали свою мобильную ферму для IOS](https://habr.com/ru/post/572668/)
 * [Облачные платформы для мобильного тестирования](https://habr.com/ru/post/464433/)
 * [Как мы сделали мобильные устройства круглосуточно доступными для распределенной QA-команды и не только](https://habr.com/ru/company/kaspersky/blog/663282/)
+* [Docker Emulator for Android | VK](https://github.com/VKCOM/docker-emulator-android)
 
 **Работа с логами**:
 
+Работа с логами является важной частью процесса тестирования и отладки приложений. Логи содержат записи о событиях, происходящих в системе, и помогают тестировщикам выявлять ошибки, отслеживать выполнение процессов и анализировать поведение приложений.
+
 * [Логи для тестировщика / Работа с логами в тестировании](https://www.youtube.com/watch?v=pAF1a\_2a\_6s)
+* [О чём могут рассказать логи: важный инструмент в работе тестировщика](https://habr.com/ru/companies/yandex_praktikum/articles/739058/)
 * [Tools for Log Analysis](https://medium.com/tensult/tools-for-log-analysis-461eb07c2d6b)
 * [https://developer.apple.com/documentation/os/logging](https://developer.apple.com/documentation/os/logging)
 * [Просмотр системных логов iOS](https://bulkin-me.turbopages.org/turbo/bulkin.me/s/notes/2884) и [еще](https://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
-* [Инструменты для снятия логов с Android / iOS устройств. Чтение и разбор](https://www.youtube.com/watch?v=fusFaT24F3o\&t=1145s)
 * [Доклад: "Мониторинг приложения в проде" / Семён Мацепура (СберМаркет)](https://www.youtube.com/watch?v=lSS9eTlrNf8)
+* [Как тестировщику работать с логами](https://testgrow.ru/article12)
 
 **Тестирование производительности**:
 
-* [Apache JMeter](https://jmeter.apache.org) + JMeter Result Analysis: [The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/#understanding-jmeter-metrics)
-* [Яндекс.Танк](https://yandex.ru/dev/tank/)
-* [LoadRunner](https://www.microfocus.com/ru-ru/portfolio/performance-engineering/overview)
-* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-* [artillery.io](https://artillery.io)
+Тестирование производительности – это процесс оценки скорости, масштабируемости и стабильности приложения или системы под нагрузкой. Оно позволяет определить, как система будет работать в реальных условиях использования и выявить ее проблемы с производительностью до выпуска в продакшен.
+
+Основные популярные инструменты:
+
+  1. [Apache JMeter](https://jmeter.apache.org/): Мощный инструмент с открытым исходным кодом для тестирования производительности веб-приложений.
+  2. [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview): Коммерческое решение от Micro Focus для проведения нагрузочного тестирования и анализа производительности.
+  3. [Gatling](https://gatling.io/): Инструмент с открытым исходным кодом, написанный на Scala, для тестирования производительности и нагрузочного тестирования.
+  4. [BlazeMeter](https://www.blazemeter.com/): Облачная платформа для проведения нагрузочного тестирования, интегрируемая с Apache JMeter и другими инструментами.
+  5. [artillery.io](https://artillery.io): Позволяет создавать гибкие сценарии нагрузки с использованием простого синтаксиса YAML и запускать их с помощью командной строки. Artillery предоставляет широкие возможности для мониторинга и анализа результатов тестирования.
+  6. [Яндекс.Танк](https://yandex.ru/dev/tank/): это инструмент для проведения нагрузочного тестирования веб-приложений и сервисов. Он обладает мощными возможностями по настройке сценариев нагрузки и поддерживает различные протоколы, включая HTTP, HTTPS, WebSocket и многие другие. Яндекс.Танк предоставляет удобный веб-интерфейс для настройки тестов и анализа результатов.
+  7. [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/): это автоматизированный инструмент для оценки качества веб-приложений и анализа их производительности. Он позволяет проводить аудит веб-страниц на предмет оптимизации производительности, доступности, SEO и других аспектов. Lighthouse доступен как в браузере Chrome, так и в виде командной строки для автоматизации тестирования.
+
+Доп. материал:
+
+* Apache JMeter + JMeter Result Analysis: [The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/#understanding-jmeter-metrics)
 * [Top 10 лучших инструментов для нагрузочного тестирования](https://www.performance-lab.ru/blog/luchshie-instrumenty-dlya-nagruzochnogo-testirovaniya)
 * [10 инструментов тестирования производительности мобильных приложений](https://proglib.io/p/10-instrumentov-testirovaniya-proizvoditelnosti-mobilnyh-prilozheniy-2020-09-20)
 * [Топ-15 бесплатных инструментов для нагрузочного тестирования](https://testengineer.ru/besplatnye-instrumenty-dlya-nagruzochnogo-testirovaniya/)
@@ -252,6 +369,17 @@ Git - это система контроля версий, которая упр
 * [Тестирование производительности API с помощью K6](https://testengineer.ru/testirovanie-proizvoditelnosti-api-s-pomoshchyu-k6/)
 
 **Mind maps**:
+
+Mind Maps - это визуальный инструмент для организации и представления информации в виде дерева с ключевыми идеями, ветвями и подробностями. Они помогают тестировщикам структурировать идеи, планировать тестирование и анализировать результаты.
+
+Популярные инструменты:
+
+  1. [MindMeister](https://www.mindmeister.com/ru): Онлайн-платформа для создания и совместного использования Mind Maps.
+  2. [XMind](https://xmind.app/): Программа с открытым исходным кодом для создания Mind Maps с широким набором функций.
+  3. [MindManager](https://www.mindmanager.com/en/): Профессиональное программное обеспечение для создания, редактирования и обмена Mind Maps.
+  4. [Coggle](https://coggle.it/): Простой в использовании онлайн-инструмент для создания Mind Maps с возможностью совместной работы.
+
+Доп. материал:
 
 * [12 программ и сервисов для создания майндкарт](https://presium.pro/blog/software\_for\_maindmapping)
 * [Как нарисовать карту приложения (mind map)](http://okiseleva.blogspot.com/2020/01/mind-map.html)
@@ -261,6 +389,8 @@ Git - это система контроля версий, которая упр
 * [Mind Map для QA - Интеллектуальные карты](https://www.youtube.com/watch?v=N5B-3bi6\_88)
 
 **TMS**:
+
+Test Management System (TMS) - это программное обеспечение, предназначенное для управления процессом тестирования программного обеспечения. Оно помогает организовать, планировать, отслеживать и управлять тестовыми заданиями, ресурсами и результатами.
 
 * [Test IT](https://testit.software)
 * [Allure TestOps](https://qameta.io)
@@ -281,93 +411,111 @@ Git - это система контроля версий, которая упр
 
 **Полезные расширения для браузера**:
 
-* [Vimbox Переводчик от Skyeng](https://chrome.google.com/webstore/detail/vimbox-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA-%D0%BE%D1%82-skye/heeikiohkfkolhmdodhcjdklofmhmmhn?hl=ru)
-* [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag), [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru) + [script](https://4pda.to/pages/go/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsodapng%2Fvoice-over-translation%2Fmaster%2Fvot.user.js)
-* [Talend API Tester - Free Edition](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)
-* [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - A tool for designers to measure screen dimensions
-* [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) - A Web Developer\Designer ruler to get pixel dimensions and positioning to measure elements on any web page
-* [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb) - Measurement tools, rulers and grids
-* [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru)
-* [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
-* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=ru) - The easiest way to identify fonts on web pages
-* [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb) for color blindness checks
-* [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) for link checking
-* [Selenium IDE](https://www.selenium.dev/selenium-ide/) for test data setup and debugging
-* [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) for generating selectors
-* [Bug Magnet](https://bugmagnet.org) for test data
-* [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo/related) for test data
-* [Mokku](https://github.com/mukuljainx/Mokku): Mock API calls seamlessly
-* [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - менеджер cookie
-* [Гуру Очистки](https://chrome.google.com/webstore/detail/clean-all-history-cache-c/elidgjfpciimeeeoeneeiifkmhadhkeh?hl=ru&) - удаление кеша & истории браузера
-* [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) - Show multiple screens once, Responsive design tester
-* [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=ru&) - Resize the browser window to emulate various screen resolutions
-* [Resolution Test](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) - An extension for developers to test web pages in different screen resolutions
-* [Exploratory Testing Chrome Extension](https://chrome.google.com/webstore/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj)
-* [Web Developer Form Filler](https://chrome.google.com/webstore/detail/web-developer-form-filler/gbagmkohmhcjgbepncmehejaljoclpil/related?hl=en)
-* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds a toolbar button with various web developer tools
-* [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) - Analyses any web page for violations of best practices
-* [Docsumo Free OCR Software](https://chrome.google.com/webstore/detail/docsumo-free-ocr-software/ihmmlfacoffajllfpdfkdikgmoogbnph?ref=producthunt) - Screenshot any webpage or a portion of a webpage and immediately convert it into editable text
-* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
-* [d3coder](https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol) - Encoding/Decoding Plugin for various types of encoding like base64, rot13 or unix timestamp conversion
-* [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd) - Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, Sharepoint, and more
-* [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=ru&) - The #1 screen recorder for Chrome. Capture, edit and share videos in seconds
-* [Siteimprove](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl=en-US) for accessibility
-* [axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=ru&) - Web Accessibility Testing
-* [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) is a web accessibility evaluation tool
-* [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm?hl=ru&) - Manage and switch between multiple proxies quickly & easily
-* [Browsec VPN](https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh?hl=ru&) - Free VPN for Chrome
-* [Otsledit](https://chrome.google.com/webstore/detail/price-tracker-otsledit/ibamclpibpnhmkaphhemfbljmenlpbch?hl=ru&) - Отслеживайте изменения контента на веб-страницах, просматривайте историю мониторинга
-* [Ruto](https://chrome.google.com/webstore/detail/ruto-xpath-finder/ilcoelkkcokgeeijnopjnolmmighnppp?hl=ru&) - XPath Finder
+* Simple Translate ([Google Chrome](https://chromewebstore.google.com/detail/ibplnjkanclpjokhdolnendpplpjiace?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/simple-translate/)) — обеспечивает быстрый перевод выделенного или введенного текста на веб-страницах, поддерживая Google Translate и Deep API.
+* React Developer Tools ([Google Chrome](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi), [Firefox](https://addons.mozilla.org/ru/firefox/addon/react-devtools/)) — предоставляет возможность просматривать дерево React, включая иерархию компонентов, их свойства, состояния и многое другое.
+* ColorZilla ([Google Chrome](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/colorzilla/)) — инструмент для выбора цветов с любого веб-сайта и их применения в собственных проектах.
+* Bug Magnet ([Google Chrome](https://chromewebstore.google.com/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/bug-magnet/)) — позволяет вводить тестовые данные с помощью контекстного меню.
+* Fake Filler ([Google Chrome](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/fake-filler)) — заполняет формы случайными данными для тестирования (текстовые поля, переключатели, выпадающие списки и т.д.).
+* Selenium IDE ([Google Chrome](https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/selenium-ide/)) — интегрированная среда разработки для тестов Selenium, позволяющая записывать, редактировать и отлаживать тесты.
+* FoxyProxy ([Google Chrome](https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/foxyproxy-standard/)) — расширенный инструмент управления прокси-серверами с открытым исходным кодом, полностью заменяющий стандартные функции браузера.
+* Violentmonkey ([Google Chrome](https://chromewebstore.google.com/detail/jinjaccalgkegednnccohejagnlnfdag), [Firefox](https://addons.mozilla.org/ru/firefox/addon/violentmonkey/)), Tampermonkey ([Google Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru), [Firefox](https://addons.mozilla.org/ru/firefox/addon/tampermonkey/)) + [script](https://4pda.to/pages/go/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsodapng%2Fvoice-over-translation%2Fmaster%2Fvot.user.js) — пользовательские скрипты для браузеров.
+* Dimensions ([Google Chrome](https://chromewebstore.google.com/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj), [Firefox](https://addons.mozilla.org/ru/firefox/addon/dimensions_extension/)) — инструмент для измерения размеров элементов на экране.
+* JSON Formatter ([Google Chrome](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa), [Firefox](https://addons.mozilla.org/ru/firefox/addon/json_formatter)) — делает формат JSON удобным для чтения.
+* WhatFont ([Google Chrome](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=ru), [Firefox](https://addons.mozilla.org/ru/firefox/addon/zjm-whatfont/)) — позволяет узнать шрифт, используемый на веб-странице.
+* Cookie-Editor ([Google Chrome](https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg), [Firefox](https://addons.mozilla.org/ru/firefox/addon/cookie-editor/)) — эффективный инструмент для создания, редактирования и удаления файлов cookie на текущей вкладке.
+* axe DevTools ([Google Chrome](https://chromewebstore.google.com/detail/lhdoppojpmngadmnindnejefpokejbdd?hl=ru), [Firefox](https://addons.mozilla.org/ru/firefox/addon/axe-devtools/)) — инструмент для проверки доступности веб-страниц.
+* WAVE Evaluation Tool ([Google Chrome](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh), [Firefox](https://addons.mozilla.org/ru/firefox/addon/wave-accessibility-tool/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)) — оценивает доступность веб-страниц.
+* Jam ([Google Chrome](https://chromewebstore.google.com/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci)) — быстрый инструмент для отчетов об ошибках, сокращающий время сообщения об ошибках в 20 раз.
+* Browsec VPN ([Google Chrome](https://chromewebstore.google.com/detail/omghfjlpggmjjaagoclmmobgdodcjboh?hl=ru), [Firefox](https://addons.mozilla.org/ru/firefox/addon/browsec/)) — популярный бесплатный VPN-сервис.
+* Stylebot ([Google Chrome](https://chromewebstore.google.com/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha), [Firefox](https://addons.mozilla.org/ru/firefox/addon/stylebot-web/)) — удобный инструмент для редактирования CSS, позволяющий тестировать и применять пользовательские стили к веб-страницам.
+* Wappalyzer ([Google Chrome](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg), [Firefox](https://addons.mozilla.org/ru/firefox/addon/wappalyzer/)) — определяет технологии, используемые на веб-сайтах.
+* Window Resizer ([Google Chrome](https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh), [Firefox](https://addons.mozilla.org/ru/firefox/addon/window-resizer-webextension)) — изменяет разрешение экрана для тестирования адаптивного дизайна.
+* Page Ruler ([Google Chrome](https://chromewebstore.google.com/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff), [Firefox](https://addons.mozilla.org/ru/firefox/addon/page-ruler/)) — полезная веб-линейка для точного измерения пиксельных параметров выбранной области.
+* Talend API Tester - Free Edition ([Google Chrome](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)) — визуальный инструмент для взаимодействия с API-интерфейсами REST, SOAP и HTTP.
+* PerfectPixel ([Google Chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru), [Firefox](https://addons.mozilla.org/ru/firefox/addon/pixel-perfect-pro/)) — помогает разрабатывать сайт с попиксельной точностью.
+* GoFullPage - Full Page Screen Capture ([Google Chrome](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)) — инструмент для захвата всей страницы (в Firefox эта функция встроена по умолчанию).
+* Broken Link Checker ([Google Chrome](https://chromewebstore.google.com/detail/broken-link-checker/bjcoimpfplliplknnmgbffboiihamekf), [Firefox](https://addons.mozilla.org/ru/firefox/addon/find-broken-links/)) — проверяет веб-страницы на наличие битых ссылок.
+* Ranorex Selocity ([Google Chrome](https://chromewebstore.google.com/detail/ranorex-selocity/ocgghcnnjekfpbmafindjmijdpopafoe)) — автоматически генерирует надежные селекторы XPath, link text, RanoreXPath и CSS для использования с Selenium.
+* Mokku ([Google Chrome](https://chromewebstore.google.com/detail/mokku/llflfcikklhgamfmnjkgpdadpmdplmji)) — добавляет API mocker MOKKU в инструменты разработчика Chrome для беспрепятственной интеграции и тестирования.
+* Responsive Viewer ([Google Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)) — позволяет тестировать адаптивный дизайн, отображая веб-страницы на различных экранах одновременно.
+* Web Developer ([Google Chrome](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm), [Firefox](https://addons.mozilla.org/ru/firefox/addon/web-developer/)) — добавляет кнопку на панели инструментов с различными полезными инструментами для веб-разработчика.
+* Web Developer Checklist ([Google Chrome](https://chromewebstore.google.com/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp), [Firefox](https://addons.mozilla.org/ru/firefox/addon/webdeveloperchecklist/)) — чеклист для веб-разработчиков, помогающий проверять соответствие веб-страниц лучшим практикам.
+* d3coder ([Google Chrome](https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol)) — плагин для кодирования и декодирования различных форматов, таких как base64, rot13 и преобразования временных меток unix.
+* Ruto - XPath Finder ([Google Chrome](https://chromewebstore.google.com/detail/ruto-xpath-finder/ilcoelkkcokgeeijnopjnolmmighnppp?hl=ru&), [Firefox](https://addons.mozilla.org/ru/firefox/addon/rutoxpath/)) — удобный инструмент для поиска и проверки XPath.
+* HackTools ([Google Chrome](https://chromewebstore.google.com/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/hacktools/)) — расширение для веб-пентестеров, содержащее различные инструменты для тестирования безопасности.
+* Shodan ([Google Chrome](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap), [Firefox](https://addons.mozilla.org/ru/firefox/addon/shodan-addon/)) — плагин Shodan предоставляет информацию о местоположении веб-сайта (страна, город), владельце IP-адреса и открытых сервисах/портах.
+* uBlock Origin ([Google Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/ublock-origin)) — бесплатное расширение для блокировки рекламы и фильтрации контента с открытым исходным кодом.
+* Multi-Account Containers ([Firefox](https://addons.mozilla.org/ru/firefox/addon/multi-account-containers/)) — позволяет создавать контейнеры для использования нескольких учетных записей в разных вкладках.
+* Temp mail ([Google Chrome](https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/temp-mail/)) — обеспечивает временные, безопасные, анонимные одноразовые адреса электронной почты.
+<!-- *  ([Google Chrome](), [Firefox]()) — . -->
+
 
 **Программы для снятия скриншотов и записи видео**:
 
-* Windows: скриншот всего экрана Prtsc+Fn, выделяемой части Win+Shift+S, запись видео Win+G
-* [Screenpic - больше чем программа для скриншотов](https://screenpic.net/ru/)
-* [ScreenRec](https://screenrec.com)
-* [Делайте снимки экрана в один клик со Скриншотером Mail.ru](https://screenshoter.mail.ru)
-* [ShareX - Screen capture, file sharing and productivity tool](https://getsharex.com)
-* [Greenshot is a light-weight screenshot software tool for Windows](https://getgreenshot.org)
-* [Flameshot - powerful yet simple to use screenshot software](https://flameshot.org)
-* [Bandicam - это лучшая программа для записи экрана, игр и видеоустройств](https://www.bandicam.com/ru/)
-* [Recordit - fast screencasts](https://recordit.co)
-* [ScreenToGif - screen, webcam and sketchboard recorder with an integrated editor](https://www.screentogif.com)
-* [OBS Studio - бесплатная программа с открытым исходным кодом для записи видео и потокового вещания](https://obsproject.com/ru)
-* [Snagit lets you quickly capture your screen](https://www.snagit.com)
-* [Joxi - бесплатная программа для снятия скриншотов](http://joxi.ru)
-* [Movavi Screen Recorder - захват экрана в один клик](https://www.movavi.ru/screen-capture/)
-* [PicPick - захват экрана, редактор изображений, выбор цвета, цветовая палитра, пиксельная линейка, угломер, перекрестие, грифельная доска и многое другое](https://picpick.app/ru/)
-* [Apowersoft Screen Capture Pro - multi-functional Screenshot Program](https://www.apowersoft.com/screen-capture-pro)
-* [Screencast-o-matic - Free Screen Recorder](https://screencast-o-matic.com/screen-recorder)
-* [Loom](https://www.loom.com) - Record quick videos of your screen and cam
-* [ImageOptim](https://imageoptim.com/mac) makes images load faster
-* [Monosnap](https://monosnap.com) - take screenshots in one click
-* [BugCatcher](https://bugcatcher.pro) - Создает скриншот или видео, Копирует контекст (OS, browser, hardware e.t.c ), Копирует errorlog, Отправляет в багтрекинг систему
+* Скриншоты:
+
+  * Стандартные «Ножницы» в Windows: Сочетание клавиш Win + Shift + S активирует режим продвинутого скриншота. Можно сделать снимок всего экрана, отдельного окна или нужной области. Скриншот редактируется и сохраняется в буфер обмена.
+  * Стандартная утилита для macOS: Shift + Cmd + 3 активирует снимок всего экрана, Shift + Cmd + 4 позволяет захватить нужную область, Shift + Cmd + 4 + «пробел» переводит в режим захвата окна. Запись видео с экрана доступна при нажатии Shift + Cmd + 5.
+  * [ShareX](https://getsharex.com) - бесплатный инструмент с открытым исходным кодом для создания скриншотов и записи экрана.
+  * [Скриншотер Mail.ru](https://screenshoter.mail.ru) - простой и удобный инструмент для создания скриншотов.
+  * [ФотоСКРИН](https://photo-screen.ru/) - удобный и бесплатный скриншотер на русском языке.
+  * [Lightshot](https://app.prntscr.com/ru/) - одна из наиболее популярных программ для создания скриншотов.
+  * [Monosnap](https://monosnap.com) - удобное создание скриншотов в один клик.
+  * [Flameshot](https://flameshot.org) -  мощное, но простое в использовании ПО для создания скриншотов.
+  * [Screenpic](https://screenpic.net/ru/) - программа с широким функционалом для создания и редактирования скриншотов.
+  * [Joxi](http://joxi.ru) - удобный инструмент для создания и обмена скриншотами.
+  * [ImageOptim](https://imageoptim.com/mac) - оптимизирует изображения для более быстрой загрузки.
+  * [Greenshot](https://getgreenshot.org) - легкий инструмент для создания скриншотов на Windows.
+  * [BugCatcher](https://bugcatcher.pro) - создает скриншот или видео, копирует контекст (OS, browser, hardware и т.д.), копирует errorlog, отправляет в багтрекинг систему.
+
+
+* Запись экрана:
+  * Стандартная утилита Windows 11 «Ножницы»: Сочетание клавиш Win+Shift+R
+  * [OBS Studio](https://obsproject.com/) - бесплатная программа с открытым исходным кодом для записи видео и потокового вещания.
+  * [ShareX](https://getsharex.com) - бесплатный инструмент с открытым исходным кодом для создания скриншотов и записи экрана.
+  * [ScreenToGif](https://www.screentogif.com) - запись экрана, вебкамеры и рисования с встроенным редактором.
+  * [ScreenRec](https://screenrec.com) - удобная программа для записи экрана.
+  * [Bandicam](https://www.bandicam.com/ru/) - мощный инструмент для записи экрана, игр и видеоустройств.
+  * [Movavi Screen Recorder](https://www.movavi.ru/screen-capture/) - простая запись экрана в один клик.
+  * [PicPick](https://picpick.app/ru/) - многофункциональная программа для захвата экрана и редактирования изображений.
+  * [Free screen recorder](https://screenpal.com/screen-recorder) - бесплатный инструмент для записи экрана.
+  * [Loom](https://www.loom.com) - запись видео с экрана и камеры в несколько кликов.
+
 
 **Linux**
 
-* [Обсуждение зачем вообще уметь в Linux](https://software-testing.ru/forum/index.php?/topic/23210-linuxnix-znanija-dlja-testirovshika/)
-* [Введение в UNIX/LINUX для тестировщиков](https://www.youtube.com/watch?v=fpujpnsPiuA)
-* Command Line с нуля (Bash, Unix): [часть 1](https://www.youtube.com/watch?v=jRYggi1pNkM), [2](https://www.youtube.com/watch?v=ULhRW6mFzYI), [3](https://www.youtube.com/watch?v=38E3pE-jh38), [4](https://www.youtube.com/watch?v=ekM8q2SL5qM), [5](https://www.youtube.com/watch?v=\_nme7F-luJ0)
+* [Уроки Linux для начинающих - Плейлист](https://youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq&si=Mmv-hNtIvXtoOvTW) - RU
+* [Command Line с нуля (Bash, Unix) - Плейлист](https://youtube.com/playlist?list=PLRs8EELOYKc42r19Gc7CACRyI1R_5a5TC&si=9tobby0_fYHlBf3O) - RU
+* [Introduction to Linux – Full Course for Beginners](https://youtu.be/sWbUDq4S6Y8?si=lv0j9UM3e6hqpkBb) - EN
+* [Linux Operating System - Crash Course for Beginners](https://youtu.be/ROjZy1WbCIA?si=i__2bsctiIA2C7xE) - EN
+* [Bash Scripting Tutorial for Beginners](https://youtu.be/tK9Oc6AEnR4?si=s7rMWLNse4RM7uaf) - EN
+* [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://youtu.be/ZtqBQ68cfJc?si=mCtmiOESTF5Cujq3) - EN
+* [Linux Essentials for Ethical Hackers - Full InfoSec Course](https://youtu.be/1hvVcEhcbLM?si=x3zPx4hKru8U0Lik) - EN
 * [Linux Command Line Cheat Sheet by DaveChild](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 * [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/post/481398/) + [картинка](https://wizardzines.com/networking-tools-poster.pdf)
-* [Бесплатный курс “Основы командной строки”](https://ru.hexlet.io/courses/cli-basics)
+* [Бесплатный курс Хекслет - “Основы командной строки”](https://ru.hexlet.io/courses/cli-basics)
 * [How To Run / Execute Command Using SSH](https://www.cyberciti.biz/faq/unix-linux-execute-command-using-ssh/)
 * [TOP 70+ Best UNIX Interview Questions With Answers](https://www.softwaretestinghelp.com/unix-interview-questions/)
 * [Автоматизация рутины. Скачиваем файлы через bash](http://okiseleva.blogspot.com/2021/11/bash.html)
+* [Статьи по Linux на freecodecamp](https://www.freecodecamp.org/news/tag/linux/)
+* [Основы Linux (обзор с практическим уклоном)](https://habr.com/p/655275/)
+* [Командная строка Linux: краткий курс для начинающих](https://selectel.ru/blog/tutorials/linux-for-beginners/)
+* [Книги по Linux для начинающих и профессионалов: выбираем лучшее](https://habr.com/p/765308/)
 
 **RegExp**:
 
+* [MDN Web Docs - RegExp](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 * [Регулярные выражения (regexp) - основы](https://habr.com/ru/post/545150/)
-* [Мягкое введение в Regex](https://telegra.ph/Myagkoe-vvedenie-v-Regex-03-19)
+* [Регулярные выражения - Современный учебник JavaScript](https://learn.javascript.ru/regular-expressions)
+* [RegExp. Регулярные выражения это просто. - Видео](https://youtu.be/wMZ6gLNtefQ?si=epmHx514OGi1_HRZ)
 * [https://regex101.com/](https://regex101.com)
 * [http://myregexp.com/](http://myregexp.com)
 * [https://regexr.com/](https://regexr.com)
 
 **Разное**:
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)/[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+* [HTML](https://developer.mozilla.org/ru/docs/Learn/HTML)/[CSS](https://developer.mozilla.org/ru/docs/Learn/CSS)/[JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript)
 * [Подборка шпаргалок](https://overapi.com)
-* [Курс Тестирование ПО. Занятие 20. Инструменты для сбора тестовых доказательств (Test Evidences)](https://www.youtube.com/watch?v=4CBBWV6ldcs)
 * [AnyDesk](https://anydesk.com/ru) - подключение к удаленному рабочему столу любой платформы
 * [LetsView](https://letsview.com) - Free Wireless Screen Mirroring
 * [clumsy](https://github.com/jagt/clumsy) makes your network condition on Windows significantly worse, but in a managed and interactive manner
@@ -402,11 +550,10 @@ Git - это система контроля версий, которая упр
 * [10 best data engineering tools and technologies in 2021](https://theqalead.com/tools/best-data-engineering-tools/)
 * [Кракозябры](https://disk.yandex.ru/d/ShyvfnM15MXacA)
 * [Прорисовка и визуализация сервисов, систем, архитектуры и всего остального](https://t.me/pmdaily/824)
-* RF SCreater - Генератор паспортов РФ
 * [Генератор личностей EN](https://vk.com/away.php?to=http%3A%2F%2Frandomprofile.com%2Fusa-random-names\&cc\_key=)
 * [Генератор личностей RUS](https://vk.com/away.php?to=http%3A%2F%2Frandus.ru%2F\&cc\_key=)
 * [Почтовый сервис для создания временного ящика](https://temp-mail.org)
-* [Одноразовые и Бесплатные адреса электронной почты](https://yopmail.com/ru/)
+* [Одноразовые и Бесплатные адреса электронной почты](https://tempmail.plus/ru)
 * [Большой тред о полезных сервисах для разработчиков](https://twitter.com/bespoyasov/status/1430537219241123845?s=21)
 * [Install any command on any operating system](https://command-not-found.com)
 * [ngrok](https://ngrok.com) - One command for an instant, secure URL to your localhost server through any NAT or firewall
@@ -421,3 +568,5 @@ Git - это система контроля версий, которая упр
 * [TestRail и дополнительные инструменты для тестировщика](https://www.youtube.com/watch?v=XQ7MoUT7rEk)
 * [Как тестируют документацию в Test IT](https://habr.com/ru/company/testit-tms/blog/564666/)
 * [Как правильно оформить баг-репорт](https://testit.software/blog/post/kak-pravilno-oformit-bag-report)
+* [Webhook.site](https://webhook.site/) - generates free, unique URLs and e-mail addresses and lets you see everything that’s sent there instantly.
+* [readme.so](https://readme.so/ru) - Самый легкий способ составить README
