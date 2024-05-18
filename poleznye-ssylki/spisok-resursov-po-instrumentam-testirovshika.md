@@ -514,9 +514,8 @@ Test Management System (TMS) - это программное обеспечен�
 
 **Разное**:
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)/[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+* [HTML](https://developer.mozilla.org/ru/docs/Learn/HTML)/[CSS](https://developer.mozilla.org/ru/docs/Learn/CSS)/[JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript)
 * [Подборка шпаргалок](https://overapi.com)
-* [Курс Тестирование ПО. Занятие 20. Инструменты для сбора тестовых доказательств (Test Evidences)](https://www.youtube.com/watch?v=4CBBWV6ldcs)
 * [AnyDesk](https://anydesk.com/ru) - подключение к удаленному рабочему столу любой платформы
 * [LetsView](https://letsview.com) - Free Wireless Screen Mirroring
 * [clumsy](https://github.com/jagt/clumsy) makes your network condition on Windows significantly worse, but in a managed and interactive manner
@@ -551,11 +550,10 @@ Test Management System (TMS) - это программное обеспечен�
 * [10 best data engineering tools and technologies in 2021](https://theqalead.com/tools/best-data-engineering-tools/)
 * [Кракозябры](https://disk.yandex.ru/d/ShyvfnM15MXacA)
 * [Прорисовка и визуализация сервисов, систем, архитектуры и всего остального](https://t.me/pmdaily/824)
-* RF SCreater - Генератор паспортов РФ
 * [Генератор личностей EN](https://vk.com/away.php?to=http%3A%2F%2Frandomprofile.com%2Fusa-random-names\&cc\_key=)
 * [Генератор личностей RUS](https://vk.com/away.php?to=http%3A%2F%2Frandus.ru%2F\&cc\_key=)
 * [Почтовый сервис для создания временного ящика](https://temp-mail.org)
-* [Одноразовые и Бесплатные адреса электронной почты](https://yopmail.com/ru/)
+* [Одноразовые и Бесплатные адреса электронной почты](https://tempmail.plus/ru)
 * [Большой тред о полезных сервисах для разработчиков](https://twitter.com/bespoyasov/status/1430537219241123845?s=21)
 * [Install any command on any operating system](https://command-not-found.com)
 * [ngrok](https://ngrok.com) - One command for an instant, secure URL to your localhost server through any NAT or firewall
@@ -570,3 +568,5 @@ Test Management System (TMS) - это программное обеспечен�
 * [TestRail и дополнительные инструменты для тестировщика](https://www.youtube.com/watch?v=XQ7MoUT7rEk)
 * [Как тестируют документацию в Test IT](https://habr.com/ru/company/testit-tms/blog/564666/)
 * [Как правильно оформить баг-репорт](https://testit.software/blog/post/kak-pravilno-oformit-bag-report)
+* [Webhook.site](https://webhook.site/) - generates free, unique URLs and e-mail addresses and lets you see everything that’s sent there instantly.
+* [readme.so](https://readme.so/ru) - Самый легкий способ составить README
