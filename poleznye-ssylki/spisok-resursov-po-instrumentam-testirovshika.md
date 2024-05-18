@@ -458,7 +458,6 @@ Test Management System (TMS) - это программное обеспечен�
   * Стандартная утилита для macOS: Shift + Cmd + 3 активирует снимок всего экрана, Shift + Cmd + 4 позволяет захватить нужную область, Shift + Cmd + 4 + «пробел» переводит в режим захвата окна. Запись видео с экрана доступна при нажатии Shift + Cmd + 5.
   * [ShareX](https://getsharex.com) - бесплатный инструмент с открытым исходным кодом для создания скриншотов и записи экрана.
   * [Скриншотер Mail.ru](https://screenshoter.mail.ru) - простой и удобный инструмент для создания скриншотов.
-Источник: https://zvonobot.ru/blog/10-besplatnyh-programm-dlya-sozdaniya-skrinshotov
   * [ФотоСКРИН](https://photo-screen.ru/) - удобный и бесплатный скриншотер на русском языке.
   * [Lightshot](https://app.prntscr.com/ru/) - одна из наиболее популярных программ для создания скриншотов.
   * [Monosnap](https://monosnap.com) - удобное создание скриншотов в один клик.
@@ -485,15 +484,23 @@ Test Management System (TMS) - это программное обеспечен�
 
 **Linux**
 
-* [Обсуждение зачем вообще уметь в Linux](https://software-testing.ru/forum/index.php?/topic/23210-linuxnix-znanija-dlja-testirovshika/)
-* [Введение в UNIX/LINUX для тестировщиков](https://www.youtube.com/watch?v=fpujpnsPiuA)
-* Command Line с нуля (Bash, Unix): [часть 1](https://www.youtube.com/watch?v=jRYggi1pNkM), [2](https://www.youtube.com/watch?v=ULhRW6mFzYI), [3](https://www.youtube.com/watch?v=38E3pE-jh38), [4](https://www.youtube.com/watch?v=ekM8q2SL5qM), [5](https://www.youtube.com/watch?v=\_nme7F-luJ0)
+* [Уроки Linux для начинающих - Плейлист](https://youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq&si=Mmv-hNtIvXtoOvTW) - RU
+* [Command Line с нуля (Bash, Unix) - Плейлист](https://youtube.com/playlist?list=PLRs8EELOYKc42r19Gc7CACRyI1R_5a5TC&si=9tobby0_fYHlBf3O) - RU
+* [Introduction to Linux – Full Course for Beginners](https://youtu.be/sWbUDq4S6Y8?si=lv0j9UM3e6hqpkBb) - EN
+* [Linux Operating System - Crash Course for Beginners](https://youtu.be/ROjZy1WbCIA?si=i__2bsctiIA2C7xE) - EN
+* [Bash Scripting Tutorial for Beginners](https://youtu.be/tK9Oc6AEnR4?si=s7rMWLNse4RM7uaf) - EN
+* [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://youtu.be/ZtqBQ68cfJc?si=mCtmiOESTF5Cujq3) - EN
+* [Linux Essentials for Ethical Hackers - Full InfoSec Course](https://youtu.be/1hvVcEhcbLM?si=x3zPx4hKru8U0Lik) - EN
 * [Linux Command Line Cheat Sheet by DaveChild](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 * [Базовые команды Linux для тестировщиков и не только](https://habr.com/ru/post/481398/) + [картинка](https://wizardzines.com/networking-tools-poster.pdf)
-* [Бесплатный курс “Основы командной строки”](https://ru.hexlet.io/courses/cli-basics)
+* [Бесплатный курс Хекслет - “Основы командной строки”](https://ru.hexlet.io/courses/cli-basics)
 * [How To Run / Execute Command Using SSH](https://www.cyberciti.biz/faq/unix-linux-execute-command-using-ssh/)
 * [TOP 70+ Best UNIX Interview Questions With Answers](https://www.softwaretestinghelp.com/unix-interview-questions/)
 * [Автоматизация рутины. Скачиваем файлы через bash](http://okiseleva.blogspot.com/2021/11/bash.html)
+* [Статьи по Linux на freecodecamp](https://www.freecodecamp.org/news/tag/linux/)
+* [Основы Linux (обзор с практическим уклоном)](https://habr.com/p/655275/)
+* [Командная строка Linux: краткий курс для начинающих](https://selectel.ru/blog/tutorials/linux-for-beginners/)
+* [Книги по Linux для начинающих и профессионалов: выбираем лучшее](https://habr.com/p/765308/)
 
 **RegExp**:
 
