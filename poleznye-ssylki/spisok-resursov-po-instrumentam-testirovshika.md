@@ -504,8 +504,10 @@ Test Management System (TMS) - это программное обеспечен�
 
 **RegExp**:
 
+* [MDN Web Docs - RegExp](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 * [Регулярные выражения (regexp) - основы](https://habr.com/ru/post/545150/)
-* [Мягкое введение в Regex](https://telegra.ph/Myagkoe-vvedenie-v-Regex-03-19)
+* [Регулярные выражения - Современный учебник JavaScript](https://learn.javascript.ru/regular-expressions)
+* [RegExp. Регулярные выражения это просто. - Видео](https://youtu.be/wMZ6gLNtefQ?si=epmHx514OGi1_HRZ)
 * [https://regex101.com/](https://regex101.com)
 * [http://myregexp.com/](http://myregexp.com)
 * [https://regexr.com/](https://regexr.com)
