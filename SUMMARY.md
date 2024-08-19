@@ -145,6 +145,7 @@
   * [Покрытие девайсов](mobilnoe-testirovanie/pokrytie-devaisov.md)
   * [Middleware](mobilnoe-testirovanie/middleware.md)
   * [Android Debug Bridge (ADB)](mobilnoe-testirovanie/android-debug-bridge-adb.md)
+  * [Android Studio для QA](mobilnoe-testirovanie/android-studio-dlya-qa.md)
   * [Как проверить использование ресурсов на Android](mobilnoe-testirovanie/kak-proverit-ispolzovanie-resursov-na-android.md)
   * [Как протестировать приложение для другой страны?](mobilnoe-testirovanie/kak-protestirovat-prilozhenie-dlya-drugoi-strany.md)
 * [Тестирование в разных сферах-областях (testing different domains)](testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/README.md)
