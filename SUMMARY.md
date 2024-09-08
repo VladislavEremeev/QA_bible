@@ -125,7 +125,7 @@
     * [Архитектура Android OS](mobilnoe-testirovanie/android/arkhitektura-android-os.md)
     * [Архитектура Android Application](mobilnoe-testirovanie/android/arkhitektura-android-application.md)
     * [Тестирование покупок в Android-приложениях](mobilnoe-testirovanie/android/testirovanie-pokupok-v-android-prilozheniyakh.md)
-    * [Android Developer Settings](mobilnoe-testirovanie/android/android-ios-developer-settings.md)
+    * [Android Developer Settings](mobilnoe-testirovanie/android/android-developer-settings.md)
     * [Android Debug Bridge (ADB)](mobilnoe-testirovanie/android/android-debug-bridge-adb.md)
     * [Android Studio для QA](mobilnoe-testirovanie/android/android-studio-dlya-qa.md)
   * [iOS](mobilnoe-testirovanie/ios/README.md)
