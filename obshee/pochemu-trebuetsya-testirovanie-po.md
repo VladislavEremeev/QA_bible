@@ -20,6 +20,7 @@
 
 Доп. материал:
 
+* [ISTQB Syllabus v4.0, раздел 1.2 "Почему тестирование необходимо?"](https://www.rstqb.org/ru/istqb-downloads.html)
 * [Мир без QA](https://telegra.ph/Mir-bez-QA-03-13)
 * [Продукт без тестирования](https://habr.com/ru/post/564816/)
 * [«Ответственность должна быть на инженерах, которые пишут код». Почему в People.ai отказались от QA-команды и что это дало](https://dou.ua/lenta/interviews/working-without-qa-in-peopleai/)
