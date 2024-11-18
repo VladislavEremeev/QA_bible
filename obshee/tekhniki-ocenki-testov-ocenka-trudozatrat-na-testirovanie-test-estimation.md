@@ -48,7 +48,7 @@ Test Estimation - это управленческая деятельность, 
 * Аналогии и рекомендации экспертов;
 * [Иерархическая структура работ (WBS - Work Breakdown Structure)](https://www.workbreakdownstructure.com);
 * Процентное отношение к разработке;
-* [Процентное распределение (Percentage Distribution)](https://www.tutorialspoint.com/estimation\_techniques/estimation\_techniques\_testing.htm)-,Percentage%20Distribution,-In%20this%20technique);
+* [Процентное распределение (Percentage Distribution)](https://www.tutorialspoint.com/estimation\_techniques/estimation\_techniques\_testing.htm);
 * [Методики, основанные на опыте (Ad-hoc method/Experience-based estimation)](https://existek.com/blog/how-calculate-man-hours-software-project-explanation-example/).
 
 Наше любимое - метод проб и ошибок. Все мы им часто пользуемся. Нужно понимать, чем он отличается от метода экспертных оценок. Если вы уже работали с проектом, он вам знаком и что-то тестировали, то вы уже делаете как эксперт. Если вы не делали это для тестирования, не работали с проектом и никогда не сталкивались с этой областью или заказчиком, то вы оцениваете полностью пальцем в небо. В этом большая разница.
