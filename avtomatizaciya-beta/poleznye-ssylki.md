@@ -68,6 +68,9 @@
 * [Цикл статей с переводом Okken Brian - Python Testing with pytest](https://habr.com/ru/post/448782/)
 * [Топ-10 книг для разработчика](https://habr.com/ru/post/504276/)
 
+**Статьи**
+* [Сайт Мартина Фаулера, тег "testing"](https://martinfowler.com/tags/testing.html)
+
 **Площадки для тренировки**
 
 * [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/post/549450/)
