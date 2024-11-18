@@ -15,10 +15,10 @@ _Тестовое условие (test condition): Тестируемый асп
 * Use Cases;
 * Source Code;
 * Business Requirement Document (BRD);
-* ?User story;
-* ?Vision;
-* ?Mockup;
-* ?Prototype.
+* User story;
+* Vision;
+* Mockup;
+* Prototype.
 
 По [ГОСТ Р 56920-2016/ISO/IEC/IEEE 29119-1:2013](https://docs.cntd.ru/document/1200134996) примерами базиса тестирования являются:
 
