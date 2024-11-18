@@ -24,11 +24,24 @@ _Исследовательское тестирование (exploratory testin
 
 ![https://www.software-testing.by/wp-content/uploads/2015/09/328.png](https://www.software-testing.by/wp-content/uploads/2015/09/328.png)
 
+**Помимо туров существуют:**
+
+* **Session-Based Test Management (SBTM) или тестирование на основе сеансов (сессий)** — метод контроля исследовательского тестирования, при котором процесс разбивается на периоды определенной длины (например, 90 минут). Ставим цель, включаем таймер и тестируем;
+
+* **Thread-Based Test Management (TBTM) или тестирование на основе цепочек** — метод контроля исследовательского тестирования, при котором возможности системы разбиваются на цепочки активностей, существующие для решения какой-либо задачи пользователя. Ограничений по времени нет, в этом случае цепочка - и есть само ограничение
+
+Т.е. фактически при помощи SBTM и TBTM (или их сочетании) мы можем строить свои "туры", которые будут исходить в первую очередь из контекста тестируемой системы.
+
+
+
+
+
 Источники:
 
 * [What Is Exploratory Testing In Software Testing (A Complete Guide)](https://www.softwaretestinghelp.com/what-is-exploratory-testing/)
 * [BBST - Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 * [Исследовательское тестирование и исследовательские туры Виттакера](https://www.software-testing.by/blog/exploratory-testing-exploratory-tours/)
+* [Исследовательское тестирование](https://tmguru.ru/baza-znanij/protsess-testirovaniya/issledovatelskoe-testirovanie/)
 
 Доп. материал:
 
