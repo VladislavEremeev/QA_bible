@@ -1,16 +1,14 @@
 # Тестирование WebSocket на клиентах
 
-Для тестирования всех фич работающих через сеть на клиентах (особенно мобильных) необходимо использовать снифферы трафика, такие как Charles, Fiddler, Proxyman и др. Они умеют перехватывать запросы, позволяют изменять их и настраивать автоматическую замену различных параметров согласно правилам. Однако, ситуация становится сложнее, когда речь доходит до тестирования WebSocket  на тех же клиентах (в том числе web).
+Для тестирования всех фич работающих через сеть на клиентах (особенно мобильных) необходимо использовать снифферы трафика, такие как Charles, Fiddler, Proxyman и др. Они умеют перехватывать запросы, позволяют изменять их и настраивать автоматическую замену различных параметров согласно правилам. Однако, ситуация становится сложнее, когда речь доходит до тестирования WebSocket  на тех же клиентах (в том числе web).
 
-Есть множество инструментов с помощью, которых можно протеcтировать сам WebSocket, тот же Postman может выступать в роли клиента. Но, когда нам нужно протестировать как клиент реагирует на различные сообщения в нём, то возможности популярных снифферов сильно ограничены позволяют лишь просматривать сообщения в WebSocket c различным качеством удобства.&#x20;
+Есть множество инструментов с помощью, которых можно протеcтировать сам WebSocket, тот же Postman может выступать в роли клиента. Но, когда нам нужно протестировать как клиент реагирует на различные сообщения в нём, то возможности популярных снифферов сильно ограничены позволяют лишь просматривать сообщения в WebSocket c различным качеством удобства.
 
 Если на проекте у вас есть инструмент со стороны бэкенда, способный отправлять собственные сообщения в веб-сокет или менять отравляемые и принимаемые сообщения со стороны, то возможно этого будет достаточно для проверки различных кейсов на клиентах. Таких как тестирование кастомных ответов от сервера, эмулирования ошибок. Когда бекенд не готов или на проде воспроизвести ситуацию трудно, а протестировать как будет вести клиент себя в этой ситуации нужно.
 
 Если такого инструмента нет, то придётся прибегнуть к альтернативным решениям, способным уже не только показывать, но и перехватывать и изменять сообщения отправляемые в WebSocket.
 
 Ниже рассмотрим два решения, которые позволят покрыть большинство кейсов, связанных с WebSocket.
-
-
 
 * [Burp Suit](testirovanie-websocket-na-klientakh.md#burp-suit)
 * [ZAP proxy](testirovanie-websocket-na-klientakh.md#id-instrumentytestirovaniyawebsocketnaklientakh-zapproxy.1)
@@ -30,13 +28,9 @@
 
 ### **Proxy**
 
-Третий экран уже будет окно самого Burp, открываем сразу вкладку  **Proxy**:
+Третий экран уже будет окно самого Burp, открываем сразу вкладку **Proxy**:
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/WS-Burp-proxy.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/WS-Burp-proxy.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Здесь будет 5 вкладок/кнопок.
 
@@ -50,19 +44,11 @@
 
 Начать надо с настроек.
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/WS-Burp-proxy-settings.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/WS-Burp-proxy-settings.png" alt=""><figcaption></figcaption></figure>
+Если проксируем мобильные клиенты, то надо разрешить все входящие соединения, для этого выбираем единственную строчку в **Proxy listeners** и жмём edit. Там прописываем свой порт и меняем **Bind to address** на **All interfaces**
 
-</div>
-
-Если проксируем мобильные клиенты, то надо разрешить все входящие соединения, для этого выбираем единственную строчку в **Proxy listeners** и жмём edit. Там прописываем свой порт и меняем **Bind to address** на **All interfaces**&#x20;
-
-<div align="left" data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/WS-Burp-proxy-listeners-settings.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/WS-Burp-proxy-listeners-settings.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Экспортируем сертификат
 
@@ -75,25 +61,17 @@
 
 Здесь задаём правила для перехвата (брейкпоинтов). Burp автоматически перехватывает всё, что подходит условиям. Так как нам надо перехватывать только сообщения из вебсокета добавляем сюда правило **operator** – AND, **match type** – URL, **relationship** – Matches, а в **condition** пишем URL нашего сервера с ws.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WS-Burp-interception-rule.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WS-Burp-interception-rule.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 В правом верхнем углу: **троеточие – project setting – save** (тут также надо самому вписать имя файлу и расширение, можно .json)
 
 Сохраняем настройки в файл, чтобы при следующем включении burp выбрать его и не настраивать снова.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WS-Burp-save-settings.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WS-Burp-save-settings.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **WebSockets history – просмотр сообщений**
 
-Здесь можно просто смотреть какие сообщения ходят в WebSocket, сортировать по дате, id сокета и т.д.&#x20;
+Здесь можно просто смотреть какие сообщения ходят в WebSocket, сортировать по дате, id сокета и т.д.
 
 При нажатии на запрос внизу открывается окно с телом сообщения.
 
@@ -105,11 +83,7 @@
 
 После этого все запросы будут перехватываться и попадать в окно интерсептора, где его можно менять, для отправки нажимаем <img src="../../.gitbook/assets/WS-Burp-break-forward.png" alt="" data-size="line">
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WS-Burp-intercept.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WS-Burp-intercept.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **Repeater – отправка сообщений в websocket** <a href="#id-instrumentytestirovaniyawebsocketnaklientakh-repeater-otpravkasoobsheniivwebsocket" id="id-instrumentytestirovaniyawebsocketnaklientakh-repeater-otpravkasoobsheniivwebsocket"></a>
 
@@ -123,11 +97,7 @@
 
 Здесь также можно оборвать соединение нажав на тумблер.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WS-Burp-Websocket-disconnect.png" alt="" width="141"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WS-Burp-Websocket-disconnect.png" alt="" width="141"><figcaption></figcaption></figure></div>
 
 Можно отправить и редактировать при необходимости в виде Hex. Это полезно если в контракте есть необходимость отправлять конкретные байты вместо текста.
 
@@ -142,7 +112,7 @@
 
 Из минусов брейкпоинты обрабатываются последовательно, нельзя увидеть следующий пока не отправишь текущий (ну или я и тут не нашёл где посмотреть). Ну и интерфейс немного старомодный, но по удобности также плох как Burp.
 
-### **Настройки**&#x20;
+### **Настройки**
 
 Чтобы открыть настройки переходим **ZAP > Settings** или **Tools > Options**
 
@@ -156,27 +126,17 @@
 
 Порт пишем тот, который используем.
 
-
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WS-ZAP-options.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WS-ZAP-options.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 #### Server Certificates
 
 Генерируем сертификат (Generate), а потом сохраняем его (Save). Устанавливаем также как и для любых других снифферов.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/WS-ZAP-Generate-certificate.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/WS-ZAP-Generate-certificate.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### **Просмотр сообщений** <a href="#id-instrumentytestirovaniyawebsocketnaklientakh-prosmotrsoobshenii" id="id-instrumentytestirovaniyawebsocketnaklientakh-prosmotrsoobshenii"></a>
 
-При появлении websocket, вкладка автоматически появляется в нижнем окне. Её можно закрепить нажав на скрепку.&#x20;
+При появлении websocket, вкладка автоматически появляется в нижнем окне. Её можно закрепить нажав на скрепку.
 
 Здесь аналогично burp отображается все запросы во все сокеты, сокетам также присваивается свой id (тут называется **Channel**). Отличие от burp – показываются типы сообщений, а также PING и PONG сообщения.
 
@@ -192,11 +152,7 @@
 
 Поле **Payload Pattern** поддерживает регулярные выражения.
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/WS-ZAP-Add-Breackpoint.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/WS-ZAP-Add-Breackpoint.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 При перехвате, запрос появится в верхнем окне, здесь вы его можете модифицировать и отправить. Для **отправки** нажимаем любую стрелку <img src="../../.gitbook/assets/WS-ZAP-Break-Continue.png" alt="" data-size="line">(они хоть и подписаны по разному, но делают тоже самое, отличие только, если вы включили перехват всех запросов (<img src="../../.gitbook/assets/WS-ZAP-Set-break-all-requests.png" alt="" data-size="line">), тогда при нажатии первой каждый следующий запрос перехватывается, при нажатии второй перехват всех запросов выключается.)
 
@@ -204,11 +160,7 @@
 
 <img src="../../.gitbook/assets/WS-ZAP-Add-Breakpoint.png" alt="" data-size="line">– добавить новый брейкпоинт.
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/WS-ZAP-Break.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/WS-ZAP-Break.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 В нижней части экрана, во вкладке **Breakpoints**, можно управлять активными брейкпоинтами.
 
