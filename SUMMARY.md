@@ -227,4 +227,8 @@
   * [Context Engineering](ai-v-testirovanii/context-engineering.md)
   * [Prompt-Driven Development](ai-v-testirovanii/prompt-driven-development.md)
   * [Human-in-the-Loop (HITL)](ai-v-testirovanii/human-in-the-loop.md)
+  * [REPL-loop (цикл агента)](ai-v-testirovanii/repl-loop.md)
+  * [Claude Code](ai-v-testirovanii/claude-code.md)
+  * [MCP серверы для тестирования](ai-v-testirovanii/mcp-servery-dlya-testirovaniya.md)
+  * [AI агентные инструменты: Claude Code, Gemini CLI, Qwen Code](ai-v-testirovanii/agenty-ai-instrumenty.md)
 * [Контакты](kontakty.md)
