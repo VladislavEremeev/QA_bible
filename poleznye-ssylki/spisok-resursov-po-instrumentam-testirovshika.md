@@ -256,6 +256,7 @@ Git - это [система контроля версий](https://git-scm.com/
   * [HackerRack SQL](https://www.hackerrank.com/domains/sql)
   * [Упражнения по SQL](https://www.sql-ex.ru/?Lang=0)
   * [Тренажёр SQL от Koddo](https://koddo.ru/trainers/sql)
+  * [SQL-детектив от Koddo — игра-расследование на SQL](https://koddo.ru/games/sql-detective)
   * [Тест на знание SQL](https://www.learnqa.ru/sql\_test)
   * [https://www.db-fiddle.com/](https://www.db-fiddle.com)
   * [Видео курс “SQL Практикум”](https://www.youtube.com/playlist?list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA)
