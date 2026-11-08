@@ -448,6 +448,7 @@ Test Management System (TMS) - это программное обеспечен�
 * uBlock Origin ([Google Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=ext_app_menu), [Firefox](https://addons.mozilla.org/ru/firefox/addon/ublock-origin)) — бесплатное расширение для блокировки рекламы и фильтрации контента с открытым исходным кодом.
 * Multi-Account Containers ([Firefox](https://addons.mozilla.org/ru/firefox/addon/multi-account-containers/)) — позволяет создавать контейнеры для использования нескольких учетных записей в разных вкладках.
 * Temp mail ([Google Chrome](https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/temp-mail/)) — обеспечивает временные, безопасные, анонимные одноразовые адреса электронной почты.
+* Spoof Me ([Google Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)) — подменяет User-Agent, Accept-Language, часовой пояс и параметры экрана, чтобы проверить сайт глазами пользователя из другой страны, с другим языком или устройством.
 <!-- *  ([Google Chrome](), [Firefox]()) — . -->
 
 
